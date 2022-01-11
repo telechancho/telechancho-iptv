@@ -67,11 +67,46 @@
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Señal Colombia</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png</vtml-itemcover>
+		<vtml-itemurl>https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>TDI Colombia</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.png</vtml-itemcover>
+		<vtml-itemurl>https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>La 2</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TVE2.png</vtml-itemcover>
 		<vtml-itemurl>https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - España</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>ATV</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/ATV.jpg</vtml-itemcover>
+		<vtml-itemurl>https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Peru</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>TVPeru</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png</vtml-itemcover>
+		<vtml-itemurl>https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Peru</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>TVPeru Internacional</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png</vtml-itemcover>
+		<vtml-itemurl>http://cdnh4.iblups.com/hls/irtp.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Peru</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>RT en Español</vtml-itemname>    
@@ -152,6 +187,13 @@
 		<vtml-itemurl>http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Noticias - Francia</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>TVPeru Noticias</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeruNoticias.png</vtml-itemcover>
+		<vtml-itemurl>https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Noticias - Peru</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal Rural</vtml-itemname>    
