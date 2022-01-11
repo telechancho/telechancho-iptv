@@ -1,0 +1,5793 @@
+1
+00:00:15,365 --> 00:00:16,986
+<i># Sabrás las
+palabras correctas
+
+2
+00:00:16,990 --> 00:00:18,533
+<i># Todas están en tu cabeza
+
+3
+00:00:18,773 --> 00:00:22,222
+<i># Así que despierta por
+la mañana y sal de la cama
+
+4
+00:00:22,223 --> 00:00:24,012
+<i># Los sueños
+que has estado soñando
+
+5
+00:00:24,056 --> 00:00:25,829
+<i># Bueno,
+ahora mismo es el momento
+
+6
+00:00:25,873 --> 00:00:27,693
+<i># Construyes a
+estos monstruos
+
+7
+00:00:27,740 --> 00:00:29,448
+<i># Sólo están en tu mente
+
+8
+00:00:29,890 --> 00:00:31,674
+<i># Si lo sientes
+en tu corazón
+
+9
+00:00:31,712 --> 00:00:33,621
+<i># Entonces, canta alto
+
+10
+00:00:37,056 --> 00:00:40,778
+<i># Sé que sabes quién eres
+Así que canta alto
+
+11
+00:00:40,811 --> 00:00:42,908
+<i># Se trata de ti
+
+12
+00:00:42,925 --> 00:00:46,461
+<i># Sólo tienes que saber,
+tienes que saber
+
+13
+00:00:46,490 --> 00:00:50,232
+<i># Puedes hacerlo
+por tu cuenta
+
+14
+00:00:50,240 --> 00:00:53,234
+<i># Supongo que es por eso que
+escribí esta canción...
+
+15
+00:00:53,556 --> 00:00:56,907
+<i># Sabes que es sobre ti
+Siempre es sobre ti
+
+16
+00:00:56,940 --> 00:00:58,640
+<i># Así que déjalo ir #
+
+17
+00:01:05,806 --> 00:01:07,417
+¡Adiós, Orfanato!
+
+18
+00:01:08,565 --> 00:01:11,187
+¡Despacio! ¡Casi allí!
+
+19
+00:01:12,567 --> 00:01:13,734
+¡Deténganse!
+
+20
+00:01:21,940 --> 00:01:25,054
+¿Dónde está Felicie?
+
+21
+00:01:25,287 --> 00:01:26,926
+Señor, no lo sé.
+
+22
+00:01:27,259 --> 00:01:30,448
+¿Qué estás mirando, idiota?
+
+23
+00:01:33,325 --> 00:01:35,297
+¡Ve a buscar a Felicie!
+
+24
+00:01:35,365 --> 00:01:37,422
+Sabe, estoy teniendo
+un poco de problemas...
+
+25
+00:01:37,455 --> 00:01:38,617
+...para saber en
+qué dirección...
+
+26
+00:01:38,681 --> 00:01:40,184
+¡Ahora!
+
+27
+00:01:53,398 --> 00:01:54,591
+¡Victor!
+
+28
+00:01:55,456 --> 00:01:56,542
+¿Me puedes ayudar?
+
+29
+00:01:58,256 --> 00:02:01,494
+¡Detente! ¡Deja de poner
+una cara gruñona!
+
+30
+00:02:01,727 --> 00:02:04,446
+No lo hago, estoy un poco
+herido de que estuvieras...
+
+31
+00:02:04,879 --> 00:02:07,715
+...no sé,
+¡escapando sin mí!
+
+32
+00:02:08,006 --> 00:02:09,789
+¿Escapando? ¿Yo?
+
+33
+00:02:10,990 --> 00:02:15,523
+¡No, sólo estaba mirando
+la vista espectacular!
+
+34
+00:02:15,856 --> 00:02:17,384
+Porque, ya sabes,
+no durarías...
+
+35
+00:02:17,417 --> 00:02:19,935
+...más de cinco minutos
+allá afuera sin mí.
+
+36
+00:02:23,873 --> 00:02:26,377
+¡No empieces!
+Ya sabes cómo termina esto.
+
+37
+00:02:26,548 --> 00:02:28,355
+Llegamos al mismo tiempo,
+
+38
+00:02:28,388 --> 00:02:30,032
+y escaparemos
+al mismo tiempo.
+
+39
+00:02:30,331 --> 00:02:31,784
+¡Lo prometo!
+
+40
+00:02:31,917 --> 00:02:32,997
+¡De acuerdo!
+
+41
+00:02:35,515 --> 00:02:37,421
+¡Oye, Victor!
+
+42
+00:02:39,782 --> 00:02:41,804
+¡Ay no! ¡Aquí vamos!
+
+43
+00:03:01,898 --> 00:03:05,453
+<i># Sólo tienes que saber,
+tienes que saber
+
+44
+00:03:05,456 --> 00:03:09,053
+<i># Puedes hacerlo
+por tu cuenta
+
+45
+00:03:09,086 --> 00:03:12,054
+<i># Supongo que es por eso que
+escribí esta canción...
+
+46
+00:03:12,287 --> 00:03:14,147
+<i># Sabes que es sobre ti...
+
+47
+00:03:14,181 --> 00:03:16,039
+<i># Siempre es sobre ti
+
+48
+00:03:16,072 --> 00:03:17,562
+<i># Así que déjalo ir #
+
+49
+00:03:23,415 --> 00:03:25,738
+¡Esta es la última vez!
+
+50
+00:03:25,773 --> 00:03:27,341
+- ¡Lo sentimos!
+- Lo sentimos, y...
+
+51
+00:03:28,219 --> 00:03:30,940
+¡Suéltalos!
+Tú, ve a tu habitación.
+
+52
+00:03:30,973 --> 00:03:33,425
+¡Gracias!
+Gracias, Madre Superiora.
+
+53
+00:03:33,458 --> 00:03:34,283
+Suficiente.
+Ve a tu habitación.
+
+54
+00:03:34,316 --> 00:03:36,483
+Y puedo decir
+que se ve muy...
+
+55
+00:03:36,516 --> 00:03:38,283
+- Suficiente.
+- ... superior hoy.
+
+56
+00:03:38,306 --> 00:03:39,761
+- ¡Suficiente!
+- ¡De acuerdo!
+
+57
+00:03:39,948 --> 00:03:43,444
+Felicie, sé que tienes este
+sueño de ser bailarina.
+
+58
+00:03:43,477 --> 00:03:44,882
+- ¡Todos lo sabemos!
+- Pero yo...
+
+59
+00:03:45,481 --> 00:03:47,581
+Todo el mundo tiene un sueño.
+
+60
+00:03:47,615 --> 00:03:50,928
+Pero metete esto en tu cabeza.
+Los sueños no son la realidad.
+
+61
+00:03:50,961 --> 00:03:53,323
+Los sueños son enterrados,
+porque la vida es...
+
+62
+00:03:53,356 --> 00:03:55,511
+...dura,
+brutal y sin piedad.
+
+63
+00:03:55,544 --> 00:03:56,187
+Pero...
+
+64
+00:03:56,948 --> 00:03:58,067
+¿Convenido?
+
+65
+00:04:00,473 --> 00:04:01,916
+Convenido.
+
+66
+00:04:09,615 --> 00:04:12,247
+<i>Una escuela de baile
+en París, damita,
+
+67
+00:04:12,280 --> 00:04:14,174
+la Ópera de París,
+
+68
+00:04:14,207 --> 00:04:17,556
+¡llena de
+bailarines y baile!
+
+69
+00:04:17,589 --> 00:04:19,123
+¿Dónde encontraste esto?
+
+70
+00:04:19,156 --> 00:04:21,702
+Tengo mis fuentes.
+¿De acuerdo? ¡Suficiente!
+
+71
+00:04:21,735 --> 00:04:23,365
+- ¿Puedo verla de nuevo?
+- No.
+
+72
+00:04:23,398 --> 00:04:24,797
+¡Por favor!
+
+73
+00:04:24,830 --> 00:04:28,109
+No, pero si escapas conmigo
+esta noche, tienes mi palabra.
+
+74
+00:04:28,181 --> 00:04:29,823
+Te llevaré a
+esta Escuela de Baile,
+
+75
+00:04:29,848 --> 00:04:32,104
+y te convertirás
+en la mejor bailarina,
+
+76
+00:04:32,137 --> 00:04:35,888
+¡y yo me convertiré en el
+mejor inventor que haya habido!
+
+77
+00:04:36,458 --> 00:04:38,864
+- ¿Tienes un plan?
+- ¡Un plan brillante!
+
+78
+00:04:38,897 --> 00:04:41,979
+Un plan digno de mi genio total,
+absoluto e incuestionable.
+
+79
+00:04:42,012 --> 00:04:43,426
+- Déjame ver.
+- Después de que escapemos.
+
+80
+00:04:43,459 --> 00:04:44,715
+- ¡Ahora! ¡Ahora!
+- ¡No!
+
+81
+00:04:44,948 --> 00:04:45,801
+- Dije después.
+- ¡Ahora!
+
+82
+00:04:45,873 --> 00:04:46,820
+- ¡Después!
+- ¡Ahora!
+
+83
+00:04:46,915 --> 00:04:47,960
+¡Después!
+
+84
+00:04:50,865 --> 00:04:53,033
+Una Escuela de
+Baile en París.
+
+85
+00:05:38,824 --> 00:05:40,151
+¡Soy yo! ¡Vámonos!
+
+86
+00:05:40,284 --> 00:05:41,708
+¡Ay, Dios!
+
+87
+00:05:41,965 --> 00:05:43,958
+¿El pollo es parte de tu
+brillante plan?
+
+88
+00:05:44,173 --> 00:05:46,247
+- ¡Afirmativo!
+- ¡Genial!
+
+89
+00:05:51,401 --> 00:05:53,790
+<i>M. LUTEAU
+
+90
+00:05:59,406 --> 00:06:01,079
+Estoy llevando
+a esta patética desertora...
+
+91
+00:06:01,106 --> 00:06:03,548
+...ante la Madre Superiora.
+
+92
+00:06:03,856 --> 00:06:05,333
+Está bien, Hermana...
+
+93
+00:06:10,381 --> 00:06:12,925
+¡Emergencia! ¡Emergencia!
+¡Activa el Plan B!
+
+94
+00:06:12,973 --> 00:06:14,665
+- ¡Por aquí!
+- ¡Activa el Plan B!
+
+95
+00:06:14,840 --> 00:06:16,598
+¿Ese fue tu mejor plan?
+
+96
+00:06:16,631 --> 00:06:17,915
+¡Eres tan crítica!
+
+97
+00:06:17,948 --> 00:06:19,923
+¡Y eres terrible escapador!
+
+98
+00:06:19,956 --> 00:06:21,113
+¡"Escapador" no
+es una palabra!
+
+99
+00:06:22,402 --> 00:06:23,990
+¡Dios, no otra vez!
+
+100
+00:06:25,122 --> 00:06:27,205
+¡Vuelvan aquí!
+
+101
+00:06:28,806 --> 00:06:30,454
+<i>¡Abran esta puerta!
+
+102
+00:06:32,167 --> 00:06:33,383
+Durante los
+últimos tres meses,
+
+103
+00:06:33,456 --> 00:06:35,422
+he estado
+estudiando a los pollos.
+
+104
+00:06:35,473 --> 00:06:38,239
+- Sé cómo comen.
+- ¡Abran esta puerta!
+
+105
+00:06:38,272 --> 00:06:39,811
+Sé cómo caminan.
+
+106
+00:06:39,865 --> 00:06:41,601
+Sé cómo ponen un huevo.
+
+107
+00:06:42,759 --> 00:06:46,159
+¡No hay nada sobre
+un pollo que no sepa!
+
+108
+00:06:49,173 --> 00:06:52,780
+¡Las llamo alas de pollo!
+
+109
+00:06:54,823 --> 00:06:58,093
+¡Los pollos no vuelan!
+
+110
+00:06:58,526 --> 00:07:01,411
+Pero tienen alas.
+Deben volar.
+
+111
+00:07:01,648 --> 00:07:04,515
+Vuelas, ¿no?
+
+112
+00:07:04,848 --> 00:07:07,413
+¡Vuela!
+
+113
+00:07:09,840 --> 00:07:12,113
+Voy a...
+
+114
+00:07:12,855 --> 00:07:16,982
+¡Vengan aquí, bribones!
+
+115
+00:07:17,015 --> 00:07:18,603
+- ¡Adiós!
+- ¿Qué?
+
+116
+00:07:18,636 --> 00:07:20,180
+¡Vámonos!
+
+117
+00:07:25,215 --> 00:07:27,302
+¡Cock-a-doodle-doo!
+
+118
+00:07:31,340 --> 00:07:35,197
+¡Un día,
+todo el mundo viajará así!
+
+119
+00:07:46,944 --> 00:07:48,395
+¡Mi caja de música!
+
+120
+00:07:52,773 --> 00:07:55,117
+¡Victor!
+¡Está detrás de ti!
+
+121
+00:07:55,150 --> 00:07:58,217
+¡Los tengo a la vista!
+¡No irán a ninguna parte!
+
+122
+00:08:14,711 --> 00:08:15,615
+¡Ay no!
+
+123
+00:08:33,513 --> 00:08:34,647
+¡Sostente!
+
+124
+00:08:38,590 --> 00:08:39,627
+¡Gracias!
+
+125
+00:08:40,656 --> 00:08:42,042
+¡Victor, cuidado!
+
+126
+00:08:47,548 --> 00:08:51,111
+¡Sí! ¡Ahora los tengo!
+
+127
+00:09:01,173 --> 00:09:03,186
+¡Los veo!
+
+128
+00:09:11,231 --> 00:09:13,042
+¡Por aquí! ¡Vamos!
+
+129
+00:09:25,517 --> 00:09:27,317
+- ¡Espera!
+- ¡Ay no!
+
+130
+00:09:28,273 --> 00:09:30,866
+¡Sostente! ¡Sostente!
+
+131
+00:09:31,692 --> 00:09:33,495
+- ¡Déjame ir!
+- ¡Déjalo ir!
+
+132
+00:09:35,252 --> 00:09:36,924
+¡Déjame ir, apestoso!
+
+133
+00:09:49,222 --> 00:09:51,037
+Eso salió bien, ¿no?
+
+134
+00:09:51,665 --> 00:09:53,454
+Eres increíble.
+
+135
+00:09:54,227 --> 00:09:55,105
+Lo sé.
+
+136
+00:09:55,115 --> 00:09:58,359
+¡Victor, lo hicimos!
+
+137
+00:09:58,392 --> 00:10:00,974
+¡Sí, de hecho lo hicimos!
+
+138
+00:10:04,848 --> 00:10:06,496
+Puedo arreglar esto.
+
+139
+00:10:07,859 --> 00:10:10,174
+Pero, debo decir...
+
+140
+00:10:10,207 --> 00:10:11,861
+...que viendo que
+esto es lo único...
+
+141
+00:10:11,894 --> 00:10:12,871
+...que estaba en
+tu cuna cuando...
+
+142
+00:10:12,921 --> 00:10:14,416
+...te dejaron
+afuera del Orfanato,
+
+143
+00:10:14,515 --> 00:10:18,361
+debes tener un diminuto-pequeño,
+eensy-weensy...
+
+144
+00:10:18,898 --> 00:10:21,544
+...poco de más
+cuidado con ello.
+
+145
+00:10:22,649 --> 00:10:25,222
+¡Arreglado!
+¡No me lo agradezcas!
+
+146
+00:10:25,850 --> 00:10:29,383
+Y mañana, chérie, París...
+
+147
+00:10:31,965 --> 00:10:33,530
+...será nuestro.
+
+148
+00:11:02,047 --> 00:11:03,729
+¡Buenos días, solecito!
+
+149
+00:11:04,343 --> 00:11:06,702
+¿Cuándo fue la última vez que
+te cepillaste los dientes?
+
+150
+00:11:07,115 --> 00:11:08,363
+<i>Comienza con éste.
+
+151
+00:11:28,706 --> 00:11:30,270
+No puedo ver dónde estamos.
+
+152
+00:11:30,506 --> 00:11:32,958
+¡Relájate!
+¡Estamos en París!
+
+153
+00:11:34,240 --> 00:11:36,243
+¡Silencio!
+¡Vamos a ser atrapados!
+
+154
+00:11:36,476 --> 00:11:38,059
+Ni otro ruido de tu parte.
+
+155
+00:11:38,392 --> 00:11:39,548
+¡No fui yo!
+
+156
+00:11:48,631 --> 00:11:51,621
+- ¡Es increíble!
+- París es increíble.
+
+157
+00:12:01,673 --> 00:12:03,397
+Entonces, ¿dónde
+está la Escuela de Baile?
+
+158
+00:12:03,431 --> 00:12:05,023
+¡Relájate, Felicie!
+
+159
+00:12:05,056 --> 00:12:07,338
+Disfruta de Paris. Respira.
+
+160
+00:12:07,371 --> 00:12:08,624
+¡Hola!
+
+161
+00:12:08,656 --> 00:12:10,811
+¡Amo su bigote, Monsieur!
+
+162
+00:12:11,622 --> 00:12:13,318
+¡Sí, París!
+
+163
+00:12:13,351 --> 00:12:16,081
+Ciudad del romance.
+Ciudad de los sueños.
+
+164
+00:12:16,114 --> 00:12:18,212
+¡Ciudad de la
+fama y la fortuna!
+
+165
+00:12:18,281 --> 00:12:22,784
+Ciudad de postes de luz.
+Ciudad de las palomas.
+
+166
+00:12:22,817 --> 00:12:24,555
+¿Dije romance?
+
+167
+00:12:24,588 --> 00:12:26,669
+Sí, lo hiciste. Ahora, ¿dónde
+está la Escuela de Baile?
+
+168
+00:12:27,478 --> 00:12:29,438
+No lo sé.
+
+169
+00:12:30,355 --> 00:12:32,378
+No te preocupes.
+Somos un equipo.
+
+170
+00:12:32,411 --> 00:12:33,810
+La encontraremos juntos.
+
+171
+00:12:36,265 --> 00:12:38,209
+¿Crees que fue
+estúpido venir a París?
+
+172
+00:12:38,231 --> 00:12:41,651
+¡No digas eso! Nunca debemos
+renunciar a nuestros sueños.
+
+173
+00:12:45,281 --> 00:12:47,695
+¡Somos niños!
+Estamos todos solos.
+
+174
+00:12:48,459 --> 00:12:49,929
+¿Fue realmente una
+locura pensar...
+
+175
+00:12:49,963 --> 00:12:51,399
+...que podría
+ser una bailarina?
+
+176
+00:12:51,506 --> 00:12:52,686
+¿Qué piensas?
+
+177
+00:12:54,390 --> 00:12:55,487
+¿Victor?
+
+178
+00:12:56,506 --> 00:12:57,585
+Dije...
+
+179
+00:12:58,472 --> 00:12:59,618
+¿Victor?
+
+180
+00:13:00,131 --> 00:13:02,498
+- ¡Estoy bien!
+- ¡Vuelve!
+
+181
+00:13:02,531 --> 00:13:04,343
+¡No puedo nadar!
+
+182
+00:13:04,606 --> 00:13:07,802
+Nos vemos en este puente,
+a esta hora mañana.
+
+183
+00:13:08,090 --> 00:13:10,267
+No importa lo
+peligroso que sea,
+
+184
+00:13:10,281 --> 00:13:13,057
+¡voy a regresar!
+
+185
+00:13:14,540 --> 00:13:17,933
+¡Victor! ¡Vuelve!
+
+186
+00:13:18,553 --> 00:13:20,206
+¡No te vayas!
+
+187
+00:13:21,365 --> 00:13:22,669
+Por favor.
+
+188
+00:14:10,249 --> 00:14:13,120
+<i>ACADEMIA NACIONAL DE MÚSICA
+
+189
+00:15:45,040 --> 00:15:47,037
+¿Qué has venido a hacer?
+
+190
+00:15:47,115 --> 00:15:48,850
+Has venido a robar, ¿no?
+
+191
+00:15:49,031 --> 00:15:50,711
+¡Respóndeme!
+¡Eres una ladrona!
+
+192
+00:15:50,744 --> 00:15:54,126
+¡No estaba robando! ¡Estaba
+mirando a la bailarina!
+
+193
+00:15:54,259 --> 00:15:56,437
+¡Mentirosa!
+¡Vacía tus bolsillos!
+
+194
+00:15:56,556 --> 00:15:59,158
+- ¡Déjame!
+- ¿Sí?
+
+195
+00:15:59,191 --> 00:16:00,620
+Déjala en paz.
+
+196
+00:16:00,756 --> 00:16:02,417
+¡Ella vino aquí para robar!
+
+197
+00:16:02,473 --> 00:16:05,553
+¡No lo hice!
+¡Realmente no lo hice!
+
+198
+00:16:05,686 --> 00:16:07,286
+Piensa bien esto.
+
+199
+00:16:07,531 --> 00:16:10,318
+Si le haces daño, entonces
+tendrás que explicar...
+
+200
+00:16:10,351 --> 00:16:12,339
+...cómo llegó aquí
+en primer lugar,
+
+201
+00:16:13,372 --> 00:16:16,311
+¿y no se supone que debas de
+estar cuidando del edificio?
+
+202
+00:16:16,644 --> 00:16:19,274
+¿Realmente quieres
+aceptar la culpa por esto?
+
+203
+00:16:27,773 --> 00:16:28,989
+Vete.
+
+204
+00:16:31,973 --> 00:16:34,379
+- ¡Espera!
+- Vete. Sal de aquí.
+
+205
+00:17:02,990 --> 00:17:04,969
+¡No tengo nada que
+me robes!
+
+206
+00:17:05,331 --> 00:17:07,840
+Yo... No puedo...
+¡No puedo hablar!
+
+207
+00:17:07,873 --> 00:17:10,255
+¡Sólo quería agradecerte
+por salvarme!
+
+208
+00:17:10,448 --> 00:17:12,424
+Ya lo has dicho.
+Que tengas una buena vida.
+
+209
+00:17:17,356 --> 00:17:20,791
+Disculpa, pero, ¿quién era
+esa bailarina en el escenario?
+
+210
+00:17:21,024 --> 00:17:23,384
+Rosita Mauri, bailarina
+principal de la Ópera.
+
+211
+00:17:24,073 --> 00:17:27,889
+Y lo que hizo, esa cosa loca
+de saltos, ¿qué fue eso?
+
+212
+00:17:29,139 --> 00:17:30,420
+¿Eres bailarina también?
+
+213
+00:17:30,490 --> 00:17:32,747
+Soy una conserje,
+y tú eres irritante.
+
+214
+00:17:32,990 --> 00:17:33,988
+Vete.
+
+215
+00:17:36,352 --> 00:17:37,619
+Pero eres la
+primera persona...
+
+216
+00:17:37,706 --> 00:17:39,800
+...en mostrarme cualquier
+amabilidad en esta ciudad.
+
+217
+00:17:40,248 --> 00:17:42,711
+He sido separada
+de mi mejor amigo.
+
+218
+00:17:43,459 --> 00:17:45,025
+No tengo a dónde ir,
+
+219
+00:17:46,076 --> 00:17:47,518
+y soy huérfana.
+
+220
+00:17:47,551 --> 00:17:50,591
+Buen intento,
+pero odio a los niños,
+
+221
+00:17:50,898 --> 00:17:52,630
+especialmente a
+los huérfanos.
+
+222
+00:17:52,965 --> 00:17:54,419
+Ve a buscarte a otra idiota.
+
+223
+00:18:06,281 --> 00:18:08,299
+Las escaleras, Odette.
+
+224
+00:18:08,332 --> 00:18:09,997
+Las escaleras
+son una vergüenza.
+
+225
+00:18:10,130 --> 00:18:11,619
+Tengo invitados mañana
+por la tarde,
+
+226
+00:18:11,652 --> 00:18:15,170
+y quiero que mi edificio se
+vea digno, de arriba a abajo.
+
+227
+00:18:15,895 --> 00:18:17,424
+Lo entiendo, señora.
+
+228
+00:18:17,757 --> 00:18:19,720
+Si entiendes,
+
+229
+00:18:19,753 --> 00:18:21,616
+¿por qué no haces
+tus deberes?
+
+230
+00:18:33,486 --> 00:18:34,482
+¡Deja que te ayude!
+
+231
+00:18:34,656 --> 00:18:35,937
+¡Sal de aquí!
+
+232
+00:18:36,792 --> 00:18:39,659
+Me necesitas.
+Puedo limpiar.
+
+233
+00:18:39,781 --> 00:18:42,486
+De hecho, "Absolutamente Limpio"
+es mi segundo nombre.
+
+234
+00:18:42,656 --> 00:18:45,121
+Soy joven. Mis piernas funcionan.
+Las tuyas no.
+
+235
+00:18:46,256 --> 00:18:49,361
+Se sentirá mucho más
+fácil conmigo ayudándote.
+
+236
+00:18:59,326 --> 00:19:00,729
+¿Vienes?
+
+237
+00:19:03,469 --> 00:19:05,116
+Eso es un montón
+de escaleras.
+
+238
+00:19:06,447 --> 00:19:08,705
+- ¿Eres la cuidadora?
+- Sí.
+
+239
+00:19:08,738 --> 00:19:11,637
+Y puedes quedarte conmigo
+hasta que mejore tu situación,
+
+240
+00:19:11,670 --> 00:19:14,844
+con una condición...
+No más preguntas.
+
+241
+00:19:14,877 --> 00:19:16,136
+¿Cuánto tiempo
+puedo quedarme?
+
+242
+00:19:16,898 --> 00:19:18,117
+Eso fue una pregunta.
+
+243
+00:19:18,150 --> 00:19:20,421
+Por cierto,
+¿quién era esa bruja?
+
+244
+00:19:20,556 --> 00:19:23,286
+Regine Le Haut. Ella es
+propietaria de este edificio.
+
+245
+00:19:23,406 --> 00:19:26,545
+Y ella se come a huérfanas
+pelirrojas con colas de caballo.
+
+246
+00:19:26,778 --> 00:19:28,164
+¡Ahora, limpia!
+
+247
+00:19:32,143 --> 00:19:32,962
+<i>¿Cuánto tiempo
+has trabajado aquí?
+
+248
+00:19:32,995 --> 00:19:34,969
+<i>¿Cómo te llamas? ¿Tienes un apodo?
+¿Quieres saber el mío?
+
+249
+00:19:35,002 --> 00:19:36,965
+<i>¿Tendré mi propia cama?
+¿Cuál es tu sopa favorita?
+
+250
+00:19:36,998 --> 00:19:38,501
+<i>¿Tú roncas? ¿Eres una
+persona madrugadora?
+
+251
+00:19:38,534 --> 00:19:39,343
+<i>¿Cuál es tu fruta favorita?
+
+252
+00:19:39,365 --> 00:19:41,904
+<i>¿Qué desayunas? Me encanta
+el baguette y la mermelada.
+
+253
+00:19:41,998 --> 00:19:43,446
+Sabes, me escapé
+del Orfanato...
+
+254
+00:19:43,479 --> 00:19:45,109
+...para convertirme
+en pupila de la Ópera.
+
+255
+00:19:45,342 --> 00:19:46,054
+¿Lo hiciste?
+
+256
+00:19:46,156 --> 00:19:48,703
+Trabajas allí, por lo que
+debes conocer a gente.
+
+257
+00:19:49,015 --> 00:19:51,618
+- ¿Me podrías ayudar?
+- No contengas la respiración.
+
+258
+00:19:51,651 --> 00:19:55,582
+Lo que esa estrella
+hizo ayer, fue tan mágico.
+
+259
+00:19:56,098 --> 00:19:58,885
+Amo bailar.
+¿Tú amas bailar?
+
+260
+00:20:00,115 --> 00:20:02,039
+¿Eso es porque
+tienes cojera?
+
+261
+00:20:04,046 --> 00:20:05,614
+- Levántate.
+- Sí, señora.
+
+262
+00:20:05,623 --> 00:20:08,916
+- ¿Quién es esta?
+- Nadie. Ella me ayuda.
+
+263
+00:20:08,949 --> 00:20:11,958
+La alimentarás
+con tu salario.
+
+264
+00:20:12,091 --> 00:20:13,127
+Sí, señora.
+
+265
+00:20:13,198 --> 00:20:16,419
+Quiero que orees y
+planches la ropa. ¡Ahora!
+
+266
+00:20:21,282 --> 00:20:22,846
+No está limpia.
+
+267
+00:21:05,265 --> 00:21:06,550
+¡Hola!
+
+268
+00:21:08,240 --> 00:21:11,293
+Se supone que las sirvientas
+toquen. ¿Quién eres tú?
+
+269
+00:21:12,865 --> 00:21:16,144
+Soy Felicie. Trabajo
+con Odette. Yo limpio.
+
+270
+00:21:16,377 --> 00:21:17,960
+<i># ¡Da-da-da-dum! #
+
+271
+00:21:18,093 --> 00:21:19,950
+¡De acuerdo!
+Termine. ¡Adiós ahora!
+
+272
+00:21:19,983 --> 00:21:23,323
+¡Espera, pequeña rata!
+Estabas espiando, ¿no?
+
+273
+00:21:23,506 --> 00:21:25,954
+- No lo creo.
+- Sí, lo hacías.
+
+274
+00:21:26,006 --> 00:21:27,364
+Estabas admirando...
+
+275
+00:21:27,448 --> 00:21:29,819
+...a la bailarina más
+maravillosa que hayas visto.
+
+276
+00:21:30,048 --> 00:21:31,647
+¿No es así, pequeña rata?
+
+277
+00:21:32,156 --> 00:21:34,382
+No eres la
+bailarina más maravillosa.
+
+278
+00:21:34,506 --> 00:21:36,778
+- Ayer yo vi...
+- ¡No seas insolente!
+
+279
+00:21:40,515 --> 00:21:43,005
+- ¿Eres bailarina de ballet?
+- Lo seré.
+
+280
+00:21:43,038 --> 00:21:44,166
+Mi madre y yo
+estamos esperando...
+
+281
+00:21:44,199 --> 00:21:46,498
+...por la carta que
+me admitirá a la Ópera.
+
+282
+00:21:46,540 --> 00:21:49,189
+¡Soy tan talentosa!
+
+283
+00:21:49,222 --> 00:21:52,036
+Además, el Director cena en
+el restaurante de mi mamá,
+
+284
+00:21:52,115 --> 00:21:54,339
+y le encanta la costilla.
+
+285
+00:21:55,698 --> 00:22:00,798
+Así que dentro de un año, voy
+a ser una famosa bailarina.
+
+286
+00:22:00,831 --> 00:22:03,382
+¡Bailarina! ¡Yo también!
+
+287
+00:22:04,723 --> 00:22:06,461
+¡Verificación de la
+realidad, pequeña rata!
+
+288
+00:22:06,631 --> 00:22:10,075
+Tú no eres nadie.
+¡Yo soy una estrella!
+
+289
+00:22:10,208 --> 00:22:12,530
+Sólo estás
+orbitando alrededor de mí.
+
+290
+00:22:12,963 --> 00:22:14,028
+¿Qué es eso?
+
+291
+00:22:14,061 --> 00:22:15,651
+¿Me has robado algo?
+
+292
+00:22:15,723 --> 00:22:17,855
+- No.
+- ¡Muéstrame! ¿Qué es?
+
+293
+00:22:18,215 --> 00:22:20,480
+Es mía, y es invaluable.
+
+294
+00:22:26,241 --> 00:22:27,490
+Estoy segura.
+
+295
+00:22:27,723 --> 00:22:31,246
+- ¡Atrapa!
+- ¡No!
+
+296
+00:22:56,129 --> 00:22:58,055
+Una carta para Madame
+Regine Le Haut...
+
+297
+00:22:58,088 --> 00:22:59,171
+...y Madeimoselle
+Camille...
+
+298
+00:22:59,204 --> 00:23:00,320
+...de la Ópera.
+
+299
+00:23:00,831 --> 00:23:04,451
+¡Papel hecho a mano!
+¡En relieve! ¡Tinta azul!
+
+300
+00:23:05,639 --> 00:23:06,779
+¡Qué grosera!
+
+301
+00:23:06,812 --> 00:23:08,863
+¡Los niños de hoy
+no tienen modales!
+
+302
+00:23:28,265 --> 00:23:29,666
+¡Dame eso!
+
+303
+00:23:31,638 --> 00:23:33,943
+¡Tú no eres
+Camille Le Haut!
+
+304
+00:23:33,976 --> 00:23:35,404
+- Claro que lo soy.
+- ¡No, no lo eres!
+
+305
+00:23:35,748 --> 00:23:37,292
+¡Esta vez llamaré
+a la Policía!
+
+306
+00:23:37,398 --> 00:23:40,109
+¿Policía? ¿Policía?
+¿Por qué? ¡No!
+
+307
+00:23:40,142 --> 00:23:43,896
+<i># La, la, la, la... #
+
+308
+00:23:44,029 --> 00:23:45,618
+¿Qué está pasando aquí?
+
+309
+00:23:46,205 --> 00:23:48,692
+Ella dice que
+es Camille Le Haut.
+
+310
+00:23:49,311 --> 00:23:51,923
+...¿eres Camille Le Haut?
+
+311
+00:23:53,551 --> 00:23:54,536
+...¿sí?
+
+312
+00:23:55,970 --> 00:23:58,783
+¡Ella es Camille Le Haut!
+
+313
+00:23:59,316 --> 00:24:01,174
+Vuelve a tu puesto,
+amigo mío.
+
+314
+00:24:01,240 --> 00:24:02,802
+Muy bien, cálmese.
+
+315
+00:24:02,835 --> 00:24:06,001
+¡Bienvenida, señorita
+Le Haut! ¡Encantado!
+
+316
+00:24:07,105 --> 00:24:08,350
+¡Encantada!
+
+317
+00:24:08,483 --> 00:24:11,044
+Soy Auguste
+Emmanuel Vaucorbeil,
+
+318
+00:24:11,081 --> 00:24:13,149
+Director de la Ópera.
+
+319
+00:24:13,182 --> 00:24:15,702
+Estás aquí porque
+tu madre sirve...
+
+320
+00:24:15,740 --> 00:24:17,895
+...la mejor
+costilla en París.
+
+321
+00:24:19,100 --> 00:24:21,320
+Espero que también bailes.
+
+322
+00:24:21,853 --> 00:24:22,930
+Por supuesto.
+
+323
+00:24:22,963 --> 00:24:24,418
+<i># Cuando miro mi vida
+
+324
+00:24:24,448 --> 00:24:27,652
+<i># Quiero verme brillar
+en la pista de baile
+
+325
+00:24:28,537 --> 00:24:30,001
+<i># Pero no lo entiendo bien
+
+326
+00:24:30,034 --> 00:24:33,265
+<i># Hasta que deje de preguntar
+por qué y sólo lo deje ir
+
+327
+00:24:34,815 --> 00:24:37,213
+<i># A veces echo
+un vistazo a mi vida
+
+328
+00:24:37,246 --> 00:24:38,645
+<i># Echo un vistazo a mi vida
+
+329
+00:24:38,665 --> 00:24:41,563
+<i># Y digo...
+Quiero obtenerlo
+
+330
+00:24:41,596 --> 00:24:44,764
+<i># Sí, tengo que
+llegar a la olla de oro
+
+331
+00:24:44,797 --> 00:24:48,336
+<i># Buscando el arco iris...
+
+332
+00:24:48,369 --> 00:24:52,386
+<i># Para romper la
+tormenta dentro de mí... #
+
+333
+00:24:56,781 --> 00:24:58,724
+No eres una bailarina,
+¿verdad?
+
+334
+00:24:58,881 --> 00:25:01,542
+- ¡Sí, lo soy!
+- ¿Quién lo hubiera pensado?
+
+335
+00:25:01,975 --> 00:25:03,082
+¡Regresa a tu clase!
+
+336
+00:25:03,115 --> 00:25:04,012
+¡De acuerdo!
+
+337
+00:25:06,017 --> 00:25:08,807
+¡El mejor maestro de ballet
+de todos los tiempos!
+
+338
+00:25:08,906 --> 00:25:12,734
+¡El coreógrafo más talentoso
+en el Universo y más allá!
+
+339
+00:25:12,767 --> 00:25:14,609
+¡Es guapo! ¡Es elegante!
+
+340
+00:25:14,706 --> 00:25:19,598
+¡Él es fuerte! ¡Él es poderoso!
+¡Él es el hombre!
+
+341
+00:25:19,631 --> 00:25:21,252
+¿Quiere algo de mí?
+
+342
+00:25:21,448 --> 00:25:23,371
+¿Cómo supiste? ¡Sí!
+
+343
+00:25:23,404 --> 00:25:26,418
+He inscrito a
+Camille Le Haut en tu clase.
+
+344
+00:25:28,181 --> 00:25:29,649
+Gracias.
+
+345
+00:25:31,756 --> 00:25:35,376
+<i># Buscando al arco iris
+
+346
+00:25:35,409 --> 00:25:38,794
+<i># Para romper la
+tormenta dentro de mí
+
+347
+00:25:38,827 --> 00:25:41,163
+<i># Al arcoíris
+
+348
+00:25:41,196 --> 00:25:44,650
+<i># Para quitar las nubes
+que me están ocultando
+
+349
+00:25:44,683 --> 00:25:50,031
+<i># Todo lo que quiero es que
+alguien cure a mi corazón
+
+350
+00:25:50,123 --> 00:25:52,186
+<i># Al arco iris... #
+
+351
+00:25:52,219 --> 00:25:54,466
+¡Hola! ¡Hola!
+
+352
+00:25:56,081 --> 00:25:58,656
+De acuerdo. Súper.
+
+353
+00:25:59,256 --> 00:26:01,114
+- ¡Soy Felicie!
+- ¿Felicie?
+
+354
+00:26:01,623 --> 00:26:03,637
+¡No, no, no!
+No, lo siento.
+
+355
+00:26:03,856 --> 00:26:07,917
+Soy feli... Feliz,
+siempre tan feliz.
+
+356
+00:26:08,240 --> 00:26:10,352
+Y mi nombre es Camille.
+
+357
+00:26:10,531 --> 00:26:14,905
+De acuerdo. Soy Nora, pero
+todo el mundo me llama "Nora".
+
+358
+00:26:15,340 --> 00:26:17,922
+Ese es el nombre
+que va con mi cara.
+
+359
+00:26:19,656 --> 00:26:22,453
+- Oye, deberías de calentarte.
+- ¿Calentarme?
+
+360
+00:26:24,515 --> 00:26:27,354
+¡Ay, Dios! ¡Eso es una locura!
+
+361
+00:26:27,448 --> 00:26:29,688
+Supongo que eres nueva,
+querida.
+
+362
+00:26:29,721 --> 00:26:31,534
+¿Puedes saber eso porque...
+
+363
+00:26:39,765 --> 00:26:42,758
+- ¿Quién es ese?
+- Estás bromeando, ¿verdad?
+
+364
+00:26:43,091 --> 00:26:44,756
+Es Louis Merante,
+
+365
+00:26:44,989 --> 00:26:47,614
+maestro de ballet, coreógrafo
+mundialmente famoso,
+
+366
+00:26:47,756 --> 00:26:48,872
+el hombre que
+realizó la mayor...
+
+367
+00:26:48,971 --> 00:26:50,970
+...cantidad de fouettés
+en un único solo.
+
+368
+00:26:51,256 --> 00:26:52,489
+Fou... ¿Qué?
+
+369
+00:26:52,498 --> 00:26:55,179
+Giros. Vueltas
+muy difíciles.
+
+370
+00:26:55,240 --> 00:26:59,160
+¡187 en total,
+y justo después, vomitó!
+
+371
+00:26:59,481 --> 00:27:01,798
+¡Silencio, Madeimoselle!
+¡Primera posición!
+
+372
+00:27:02,331 --> 00:27:03,264
+¡Segunda!
+
+373
+00:27:03,297 --> 00:27:04,310
+- ¿Qué?
+- ¡Tercera!
+
+374
+00:27:04,723 --> 00:27:07,206
+¡Cuarta,
+y descansen en la quinta!
+
+375
+00:27:10,306 --> 00:27:12,295
+Hoy es un día importante.
+
+376
+00:27:12,428 --> 00:27:14,282
+He reunido a todas
+las coryphées juntas...
+
+377
+00:27:14,315 --> 00:27:16,848
+...para audicionar para el papel
+de Clara en "El Cascanueces",
+
+378
+00:27:17,206 --> 00:27:18,582
+que debutará
+en Nochebuena...
+
+379
+00:27:18,615 --> 00:27:19,903
+...y será protagonizada
+por Rosita Mauri.
+
+380
+00:27:19,981 --> 00:27:22,121
+¿Rosita? ¿Rosita Mauri?
+
+381
+00:27:22,406 --> 00:27:23,729
+¡No lo creo!
+
+382
+00:27:23,790 --> 00:27:26,322
+Así que cada niña en esta
+habitación tiene una oportunidad...
+
+383
+00:27:26,390 --> 00:27:30,212
+...para bailar en mi
+nuevo ballet, excepto tú.
+
+384
+00:27:31,448 --> 00:27:35,200
+¡Todas ustedes han
+trabajado duro, excepto tú!
+
+385
+00:27:35,533 --> 00:27:38,554
+Están aquí por el
+talento y las agallas.
+
+386
+00:27:38,687 --> 00:27:41,781
+- Excepto yo.
+- ¡Exactamente!
+
+387
+00:27:41,914 --> 00:27:44,014
+A partir de mañana,
+tendremos una audición.
+
+388
+00:27:44,147 --> 00:27:46,338
+Una de ustedes
+será eliminada cada día.
+
+389
+00:27:46,471 --> 00:27:49,101
+Así que, mañana,
+pequeña niña rica,
+
+390
+00:27:49,234 --> 00:27:52,026
+no importa qué palancas hayas
+movido para entrar aquí,
+
+391
+00:27:52,215 --> 00:27:54,768
+¡esa serás tú!
+
+392
+00:27:55,001 --> 00:27:58,049
+¡Pero, mi madre sirve la
+mejor costilla en París!
+
+393
+00:27:58,406 --> 00:28:01,303
+Soy vegetariano.
+
+394
+00:28:08,506 --> 00:28:10,625
+Primera, segunda. Segunda.
+
+395
+00:28:11,340 --> 00:28:13,122
+No, segunda, tercera.
+
+396
+00:28:13,506 --> 00:28:15,005
+¿Tercera? ¿Tercera?
+
+397
+00:28:15,438 --> 00:28:16,879
+Tercera, cuarta.
+
+398
+00:28:17,211 --> 00:28:19,902
+¿Quinta? Quinta.
+Primera. Segunda.
+
+399
+00:28:19,935 --> 00:28:22,389
+- ¡Hola!
+- Tercera. ¿Tercera?
+
+400
+00:28:22,422 --> 00:28:23,387
+<i>¡Bonjour!
+
+401
+00:28:23,923 --> 00:28:25,572
+- Quinta, sexta.
+- ¿Cómo estás?
+
+402
+00:28:25,806 --> 00:28:29,283
+- No hay sexta.
+- Bueno, también me alegra verte.
+
+403
+00:28:29,306 --> 00:28:31,679
+- ¡Ay, Victor!
+- ¡Hola!
+
+404
+00:28:32,593 --> 00:28:34,430
+¡Tengo muchas
+cosas que decirte!
+
+405
+00:28:34,463 --> 00:28:35,334
+Yo también.
+
+406
+00:28:36,956 --> 00:28:39,039
+Esta vez,
+está realmente rota.
+
+407
+00:28:39,556 --> 00:28:40,857
+¿Podrías hacer algo?
+
+408
+00:28:41,006 --> 00:28:42,890
+No te preocupes,
+yo me encargo.
+
+409
+00:28:42,923 --> 00:28:45,948
+Soy el ganador de
+nuestra pequeña apuesta.
+
+410
+00:28:46,281 --> 00:28:47,289
+¿Qué apuesta?
+
+411
+00:28:47,373 --> 00:28:50,214
+Ya sabes, la de quién se
+consigue su sueño primero.
+
+412
+00:28:50,256 --> 00:28:52,962
+- ¡Voy a ser un inventor!
+- ¿De verdad?
+
+413
+00:28:53,298 --> 00:28:55,214
+Estás simplemente celosa
+de que, en 24 horas,
+
+414
+00:28:55,265 --> 00:28:58,726
+ya tengo un trabajo con el hombre
+que está construyendo... ¡Eso!
+
+415
+00:28:59,722 --> 00:29:02,168
+¿Te golpeaste la cabeza
+cuando te caíste en el bote?
+
+416
+00:29:02,201 --> 00:29:03,136
+¡No!
+
+417
+00:29:03,148 --> 00:29:05,886
+Ayer, después de
+que te separaste,
+
+418
+00:29:06,048 --> 00:29:08,455
+<i>dí un tranquilo paseo
+por las calles de París.
+
+419
+00:29:08,465 --> 00:29:10,282
+<i>Todo estuvo bien,
+totalmente bien.
+
+420
+00:29:10,348 --> 00:29:12,374
+<i>Realmente no estaba
+asustado en lo absoluto.
+
+421
+00:29:12,407 --> 00:29:13,582
+<i>Conocí a algunos
+lugareños encantadores...
+
+422
+00:29:13,637 --> 00:29:14,864
+<i>...que me ayudaron
+a encontrar mi camino.
+
+423
+00:29:14,873 --> 00:29:16,116
+<i>Y nunca creerás esto,
+
+424
+00:29:16,181 --> 00:29:17,804
+<i>pero luego me topé con
+un bar bretón...
+
+425
+00:29:17,981 --> 00:29:21,168
+<i>...y me dieron una gran,
+cálida y acogedora bienvenida.
+
+426
+00:29:21,340 --> 00:29:22,679
+<i>¡Me dieron la
+bienvenida como a...
+
+427
+00:29:22,713 --> 00:29:25,818
+<i>...un hermano,
+un hijo, un sobrino!
+
+428
+00:29:25,851 --> 00:29:28,746
+<i>Y entonces conocí a este
+súper chico llamado Mathurin.
+
+429
+00:29:28,890 --> 00:29:33,305
+<i>Hablamos, nos reímos,
+bailamos juntos,
+
+430
+00:29:33,638 --> 00:29:35,981
+<i>y luego mi nuevo
+mejor amigo y yo...
+
+431
+00:29:36,031 --> 00:29:39,798
+<i>...decidimos dirigirnos
+a su casa.
+
+432
+00:29:40,031 --> 00:29:42,341
+<i>Y tú nunca,
+nunca vas a creer esto.
+
+433
+00:29:42,374 --> 00:29:46,860
+<i>Pero trabaja en el
+taller de Gustave Eiffel,
+
+434
+00:29:47,093 --> 00:29:49,331
+<i>el más agradable,
+el mejor...
+
+435
+00:29:49,440 --> 00:29:53,308
+<i>...y más magnético
+inventor...
+
+436
+00:29:53,341 --> 00:29:54,884
+<i>...¡en todo el mundo!
+
+437
+00:29:56,198 --> 00:29:57,271
+Voy a ser...
+
+438
+00:29:57,304 --> 00:30:00,807
+...la mano derecha del
+ingeniero más famoso.
+
+439
+00:30:01,969 --> 00:30:04,028
+Y he vuelto a la línea de
+partida, con mis alas de pollo.
+
+440
+00:30:04,040 --> 00:30:06,550
+Ahora estoy trabajando en
+combinar la velocidad del aire...
+
+441
+00:30:06,665 --> 00:30:08,217
+...con sistemas de
+captación fibrosos.
+
+442
+00:30:08,406 --> 00:30:09,964
+Estoy intentando
+con una cometa.
+
+443
+00:30:11,405 --> 00:30:13,166
+- ¡Yo también he progresado!
+- ¿De verdad?
+
+444
+00:30:13,299 --> 00:30:15,478
+Soy una bailarina.
+¡Sí! ¡Sí!
+
+445
+00:30:15,611 --> 00:30:17,510
+Una estudiante de la Ópera.
+
+446
+00:30:17,673 --> 00:30:20,850
+Y pronto voy a ser una
+estrella en la Ópera de París.
+
+447
+00:30:20,983 --> 00:30:23,054
+¿Tú, bailarina de la Ópera?
+
+448
+00:30:23,256 --> 00:30:25,586
+De acuerdo, ¿y puedo saber cómo...
+
+449
+00:30:25,619 --> 00:30:27,362
+...llegaste a
+estar en la Ópera?
+
+450
+00:30:27,395 --> 00:30:29,722
+Por la puerta,
+vi algunas luces y...
+
+451
+00:30:29,781 --> 00:30:30,844
+- ¡Mentirosa!
+- ¡De acuerdo!
+
+452
+00:30:31,506 --> 00:30:34,344
+Es Camille Le Haut, la que
+rompió mi caja de música.
+
+453
+00:30:34,377 --> 00:30:36,343
+- ¡Mentirosa!
+- Ella quería disculparse.
+
+454
+00:30:36,376 --> 00:30:37,789
+- ¡Mentirosa!
+- Déjame terminar.
+
+455
+00:30:37,822 --> 00:30:38,821
+Mentirosa, mentirosa...
+
+456
+00:30:38,854 --> 00:30:40,277
+Ella me dio la carta donde la
+dejaban entrar a la Ópera.
+
+457
+00:30:41,381 --> 00:30:43,489
+Cuando mientes,
+tu nariz tiembla.
+
+458
+00:30:44,256 --> 00:30:46,158
+¡Eres agotador!
+
+459
+00:30:47,357 --> 00:30:48,731
+Robé su identidad.
+
+460
+00:30:48,764 --> 00:30:52,009
+¿Qué? ¿Tú la robaste?
+¿Estás loca?
+
+461
+00:30:55,078 --> 00:30:56,175
+¡Victor!
+
+462
+00:30:59,990 --> 00:31:01,962
+¡Victor! ¡Victor!
+
+463
+00:31:02,906 --> 00:31:04,073
+¡Victor!
+
+464
+00:31:04,340 --> 00:31:10,393
+- ¡Vuelve! ¡No te vayas!
+- ¡Regresaré!
+
+465
+00:31:10,926 --> 00:31:11,657
+¿De nuevo?
+
+466
+00:31:11,723 --> 00:31:14,819
+<i># Vas a ser alguien
+
+467
+00:31:14,915 --> 00:31:17,306
+<i># Serás más
+grande que Marte...
+
+468
+00:31:17,340 --> 00:31:19,696
+<i># Será mejor que
+camines ahora
+
+469
+00:31:19,729 --> 00:31:21,844
+<i># Camina sobre
+tu estrella... #
+
+470
+00:31:22,077 --> 00:31:23,337
+¡Sí!
+
+471
+00:31:23,370 --> 00:31:27,490
+<i># Vas a tomar el título
+como la campeona que eres
+
+472
+00:31:27,623 --> 00:31:32,594
+<i># De Ibiza a L.A.,
+de Londres a Qatar
+
+473
+00:31:32,727 --> 00:31:34,598
+<i># Tú serás alguien...
+
+474
+00:31:37,623 --> 00:31:39,514
+<i># Tú serás alguien...
+
+475
+00:31:43,048 --> 00:31:44,947
+<i># Tú serás alguien
+
+476
+00:31:47,431 --> 00:31:50,995
+<i># Vas a ser alguien...
+
+477
+00:31:51,073 --> 00:31:53,236
+<i># Serás más
+grande que Marte
+
+478
+00:31:53,281 --> 00:31:55,185
+<i># Tú serás alguien
+
+479
+00:31:56,965 --> 00:31:58,975
+<i># Tú serás alguien... #
+
+480
+00:31:59,898 --> 00:32:02,202
+Y para terminar,
+los split.
+
+481
+00:32:10,355 --> 00:32:12,763
+Ahora, levántense.
+
+482
+00:32:17,056 --> 00:32:18,227
+La clase terminó,
+
+483
+00:32:18,260 --> 00:32:20,765
+y la persona que nos
+dejará hoy, eres tú.
+
+484
+00:32:21,323 --> 00:32:23,126
+Tienes la energía
+de una bala,
+
+485
+00:32:23,159 --> 00:32:25,751
+pero la ligereza de
+un elefante deprimente.
+
+486
+00:32:25,784 --> 00:32:27,819
+¡Empaca tu baúl!
+
+487
+00:32:32,456 --> 00:32:36,576
+- Levántese por favor, Madeimoselle.
+- ¡Pero me gusta aquí!
+
+488
+00:32:37,340 --> 00:32:39,116
+¡Levántese ahora!
+
+489
+00:32:40,130 --> 00:32:41,255
+¡Estoy atascada!
+
+490
+00:32:41,323 --> 00:32:42,781
+Sáquenla de aquí.
+
+491
+00:32:43,715 --> 00:32:46,704
+¿No dijo que una sola
+persona por clase?
+
+492
+00:32:46,937 --> 00:32:50,682
+Muy bien.
+Hasta la próxima audición.
+
+493
+00:32:50,915 --> 00:32:54,991
+Entonces será
+realmente el adiós.
+
+494
+00:32:55,090 --> 00:32:56,520
+Merante me odia.
+
+495
+00:32:57,006 --> 00:32:58,881
+No digas eso.
+Esa es su forma de ser.
+
+496
+00:32:58,914 --> 00:33:01,080
+No, ella tiene razón.
+Él te odia.
+
+497
+00:33:01,113 --> 00:33:04,155
+Si pudiera, te rompería
+las rótulas con su bastón.
+
+498
+00:33:04,544 --> 00:33:05,988
+No tengo oportunidad.
+
+499
+00:33:06,021 --> 00:33:08,524
+- Siempre hay una oportunidad.
+- No siempre.
+
+500
+00:33:08,557 --> 00:33:09,640
+Éste podría ser uno
+de esos momentos...
+
+501
+00:33:09,647 --> 00:33:10,514
+...en los que no hay
+ninguna oportunidad.
+
+502
+00:33:10,525 --> 00:33:11,991
+Pero realmente
+quiero quedarme aquí.
+
+503
+00:33:12,081 --> 00:33:15,698
+Entonces, tienes 12 horas para
+trabajar muy duro, escuchar,
+
+504
+00:33:15,731 --> 00:33:17,795
+presionarte y
+luego trabajar un poco más.
+
+505
+00:33:40,340 --> 00:33:41,588
+¿Quién es ese?
+
+506
+00:33:41,921 --> 00:33:44,660
+Rudi, el mejor de la
+clase de los chicos.
+
+507
+00:33:44,723 --> 00:33:47,655
+Poseedor del Premio de la
+Ópera a los mejores pómulos.
+
+508
+00:33:48,823 --> 00:33:51,847
+¡Me encanta!
+Es tan rubio y brillante.
+
+509
+00:34:09,962 --> 00:34:12,798
+Eres nueva, ¿no?
+
+510
+00:34:12,931 --> 00:34:14,098
+Sí.
+
+511
+00:34:14,673 --> 00:34:17,391
+- Ella es Camille.
+- Ella tiene dos ojos.
+
+512
+00:34:18,301 --> 00:34:23,014
+Tienes espíritu, Camille,
+pero tu baile es un asco.
+
+513
+00:34:24,559 --> 00:34:25,045
+¡Es mío!
+
+514
+00:34:25,079 --> 00:34:26,498
+¿Quién se cree que es?
+
+515
+00:34:26,540 --> 00:34:29,631
+¡Hasta que nos
+veamos de nuevo, Minoushka!
+
+516
+00:34:30,273 --> 00:34:31,236
+Sólo en tus sueños.
+
+517
+00:34:31,315 --> 00:34:32,446
+¿Felicie?
+
+518
+00:34:33,925 --> 00:34:36,138
+- ¿Qué estás haciendo aquí?
+- ¡Puedo explicarlo!
+
+519
+00:34:36,817 --> 00:34:38,623
+No hay nada que explicar.
+
+520
+00:34:40,556 --> 00:34:42,528
+¡Espera! ¡Espera!
+
+521
+00:35:09,873 --> 00:35:12,257
+¡Lo siento!
+Triple lo siento.
+
+522
+00:35:12,390 --> 00:35:14,752
+Si hubiera una palabra más
+grande para lo siento, la diría.
+
+523
+00:35:15,756 --> 00:35:17,988
+Te dejé entrar en mi vida,
+y me mentiste.
+
+524
+00:35:18,131 --> 00:35:19,722
+No me gustan las mentiras.
+
+525
+00:35:19,855 --> 00:35:21,898
+Podría perder mi trabajo
+por tu culpa.
+
+526
+00:35:22,831 --> 00:35:25,185
+Lo entiendo. Lo arruiné.
+
+527
+00:35:25,418 --> 00:35:27,191
+Pero tú no lo entiendes.
+
+528
+00:35:28,498 --> 00:35:30,871
+Desde que puedo recordar,
+he querido bailar.
+
+529
+00:35:31,304 --> 00:35:33,121
+Y cuando vi a
+Rosita Mauri...
+
+530
+00:35:33,254 --> 00:35:35,262
+...y ella hizo esos
+movimientos asombrosos,
+
+531
+00:35:35,395 --> 00:35:37,229
+sabía que eso era
+lo que quería ser.
+
+532
+00:35:37,262 --> 00:35:39,390
+¡Sabía que mi
+sueño se haría realidad!
+
+533
+00:35:42,506 --> 00:35:44,608
+Sé que es difícil
+de entender.
+
+534
+00:35:45,606 --> 00:35:47,230
+Odias bailar.
+
+535
+00:35:47,965 --> 00:35:52,998
+Pero, sólo quiero que sepas,
+que lo siento de verdad.
+
+536
+00:36:25,773 --> 00:36:27,240
+¿Algo en el correo?
+
+537
+00:36:29,447 --> 00:36:30,666
+No hay correo.
+
+538
+00:36:32,865 --> 00:36:36,582
+Tan pronto como lo haya,
+tráemelo.
+
+539
+00:36:38,681 --> 00:36:39,852
+¿Puedes bailar?
+
+540
+00:36:39,885 --> 00:36:43,532
+Sí. Al menos, creo que sí.
+
+541
+00:36:43,665 --> 00:36:46,122
+El entrenamiento comienza
+a las 5 a.m. de mañana.
+
+542
+00:36:46,655 --> 00:36:48,040
+¿Eres una maestra?
+
+543
+00:36:48,848 --> 00:36:50,564
+¿Tienes otra opción?
+
+544
+00:36:52,215 --> 00:36:53,635
+¿5 a.m.?
+
+545
+00:37:13,818 --> 00:37:15,241
+¡Hora de entrenar!
+
+546
+00:37:15,806 --> 00:37:17,063
+¡Salta y toca la campana!
+
+547
+00:37:17,296 --> 00:37:18,749
+- ¿Por qué?
+- Sólo hazlo.
+
+548
+00:37:18,782 --> 00:37:20,065
+¿No quieres que baile?
+
+549
+00:37:20,115 --> 00:37:22,410
+Sin hablar.
+¡Salta y toca la campana!
+
+550
+00:37:26,177 --> 00:37:26,834
+De nuevo.
+
+551
+00:37:26,867 --> 00:37:28,217
+Dijiste que
+íbamos a entrenar.
+
+552
+00:37:28,473 --> 00:37:29,705
+¡Esto es! ¡De nuevo!
+
+553
+00:37:32,048 --> 00:37:35,228
+Felicie, careces de
+precisión y delicadeza.
+
+554
+00:37:35,361 --> 00:37:37,108
+Tienes poca o
+ninguna sensación de ritmo.
+
+555
+00:37:37,141 --> 00:37:39,195
+Estás sin equilibrio,
+gracia y encanto.
+
+556
+00:37:39,273 --> 00:37:42,424
+¡Vamos! No puedes saber todo
+eso por un salto, ¿verdad?
+
+557
+00:37:44,706 --> 00:37:45,772
+Si puedes.
+
+558
+00:37:45,948 --> 00:37:48,361
+Por el lado bueno, tienes
+la energía de una bala,
+
+559
+00:37:48,940 --> 00:37:51,944
+pero también tienes la ligereza de
+un elefante deprimente.
+
+560
+00:37:51,977 --> 00:37:54,911
+¡Oye! ¡Merante utilizó
+exactamente esa misma frase!
+
+561
+00:37:55,646 --> 00:37:57,942
+Después de 10 años de
+limpieza, se te quedan cosas.
+
+562
+00:37:58,173 --> 00:38:00,651
+De acuerdo, ahora salta,
+toca esta campana,
+
+563
+00:38:00,756 --> 00:38:03,108
+aterriza y no
+salpiques el agua.
+
+564
+00:38:03,141 --> 00:38:04,142
+Pero eso es imposible.
+
+565
+00:38:04,765 --> 00:38:07,085
+Creí que bailar
+era tu sueño.
+
+566
+00:38:09,272 --> 00:38:10,416
+¡De acuerdo!
+
+567
+00:38:16,556 --> 00:38:17,864
+¡Vamos!
+
+568
+00:38:24,173 --> 00:38:27,448
+<i># Eres tan
+injusta contigo misma
+
+569
+00:38:31,511 --> 00:38:35,447
+<i># Tienes esa
+sensación en tu pecho...
+
+570
+00:38:39,656 --> 00:38:41,782
+<i># No te puedes
+mirar en el espejo... #
+
+571
+00:38:41,815 --> 00:38:43,052
+¡Váyanse!
+
+572
+00:38:43,185 --> 00:38:44,634
+<i># No puedes ver
+quien eres... #
+
+573
+00:38:44,657 --> 00:38:46,214
+¡Váyanse!
+
+574
+00:38:47,581 --> 00:38:51,294
+<i># Quieres ser alguien más
+
+575
+00:38:55,131 --> 00:38:58,597
+<i># Cada vez que vacilas
+
+576
+00:38:59,223 --> 00:39:02,638
+<i># Cada vez que caes
+
+577
+00:39:03,065 --> 00:39:07,277
+<i># Todavía puedo ver
+el camino por delante...
+
+578
+00:39:17,206 --> 00:39:21,438
+<i># Serás más
+brillante que las estrellas
+
+579
+00:39:21,448 --> 00:39:25,671
+<i># Y verás lo
+radiante que eres
+
+580
+00:39:25,704 --> 00:39:27,511
+<i># Sé que estás
+llena de dudas
+
+581
+00:39:27,644 --> 00:39:29,396
+<i># Pero no
+dejes que te depriman
+
+582
+00:39:29,406 --> 00:39:33,539
+<i># Porque eres imparable
+
+583
+00:39:33,556 --> 00:39:37,499
+<i># Subiendo más
+alto que el sol
+
+584
+00:39:37,532 --> 00:39:41,620
+<i># Subiendo todo el camino
+hasta la cima
+
+585
+00:39:41,656 --> 00:39:43,413
+<i># Camino por
+encima de las nubes
+
+586
+00:39:43,423 --> 00:39:46,691
+<i># Ellos nunca te derribarán,
+porque eres imparable... #
+
+587
+00:39:46,981 --> 00:39:48,131
+¡Tú!
+
+588
+00:39:49,656 --> 00:39:51,291
+Eso no fue
+simplemente malo,
+
+589
+00:39:51,324 --> 00:39:53,706
+fue una catástrofe envuelta
+en un desastre.
+
+590
+00:39:53,739 --> 00:39:55,825
+Con un orden lateral
+de muy mal.
+
+591
+00:40:01,281 --> 00:40:03,957
+<i># Espera, no te sueltes... #
+
+592
+00:40:03,990 --> 00:40:06,995
+Tú, yo, arriba.
+
+593
+00:40:07,028 --> 00:40:08,598
+<i># Incluso en la oscuridad,
+brillas
+
+594
+00:40:08,631 --> 00:40:12,197
+<i># Serás más
+brillante que las estrellas
+
+595
+00:40:12,230 --> 00:40:13,586
+<i># Y verás lo
+radiante que eres... #
+
+596
+00:40:13,656 --> 00:40:15,538
+¡Es increíble!
+
+597
+00:40:16,531 --> 00:40:18,056
+<i># Nunca te derribaran...
+
+598
+00:40:18,165 --> 00:40:22,674
+<i># Porque eres imparable... #
+
+599
+00:40:22,907 --> 00:40:25,728
+La última vez que nos vimos,
+fui muy grosero.
+
+600
+00:40:26,774 --> 00:40:28,241
+Permíteme presentarme.
+
+601
+00:40:28,340 --> 00:40:32,451
+Soy Rudolph Dimitriev
+Stanislaw Artiem Rankovsky...
+
+602
+00:40:32,484 --> 00:40:33,697
+...el Tercero.
+
+603
+00:40:34,030 --> 00:40:35,541
+Gran variedad
+de nombres allí.
+
+604
+00:40:35,940 --> 00:40:39,169
+No te preocupes. A todo el mundo
+le resulta difícil al principio.
+
+605
+00:40:39,202 --> 00:40:41,360
+Pero tú y yo somos únicos,
+
+606
+00:40:41,393 --> 00:40:44,379
+y no seguimos reglas
+tontas, ¿cierto?
+
+607
+00:40:46,768 --> 00:40:48,862
+¿Y esa línea te funciona?
+
+608
+00:40:48,895 --> 00:40:51,629
+No es una línea. Te lo
+digo sólo a ti, Camille.
+
+609
+00:40:52,006 --> 00:40:53,368
+Sólo a ti.
+
+610
+00:41:02,756 --> 00:41:03,805
+¡Y arriba!
+
+611
+00:41:06,737 --> 00:41:08,385
+¡Minoushka!
+
+612
+00:41:15,610 --> 00:41:17,199
+¿Estás bien, Camille?
+
+613
+00:41:17,232 --> 00:41:19,257
+¡Sí! ¡Estoy bien!
+
+614
+00:41:20,023 --> 00:41:22,585
+Hay un niño, Rudolph,
+que, resulta,
+
+615
+00:41:22,618 --> 00:41:23,957
+es un verdadero
+Príncipe ruso.
+
+616
+00:41:23,990 --> 00:41:26,888
+¡Con un castillo y
+pavos reales y pómulos!
+
+617
+00:41:26,921 --> 00:41:28,412
+Y me llevó al techo
+de la Ópera,
+
+618
+00:41:28,715 --> 00:41:31,451
+y me miraba así.
+
+619
+00:41:31,823 --> 00:41:33,411
+Entonces, luego fue así.
+
+620
+00:41:33,444 --> 00:41:36,088
+Y luego, una vez así.
+
+621
+00:41:36,156 --> 00:41:39,545
+¡Espera! ¿Un niño?
+¿Qué tipo de niño?
+
+622
+00:41:39,878 --> 00:41:42,252
+¿Pavos reales?
+¿Qué tipo de pómulos?
+
+623
+00:41:42,285 --> 00:41:44,461
+- ¿Y Rudolph?
+- Él es un amigo.
+
+624
+00:41:44,594 --> 00:41:46,650
+Dice que voy a ser
+todo lo que quiero ser.
+
+625
+00:41:46,783 --> 00:41:48,001
+¡Yo digo eso también!
+
+626
+00:41:48,034 --> 00:41:50,040
+Pero también es profundo.
+
+627
+00:41:50,073 --> 00:41:54,068
+¿Profundo?
+Sí, bueno, yo tengo a estas.
+
+628
+00:41:57,884 --> 00:41:58,643
+Puertas...
+
+629
+00:41:58,676 --> 00:42:01,303
+Sí, las puertas del taller.
+
+630
+00:42:01,336 --> 00:42:04,129
+De mi nuevo jefe,
+ingeniero, genio.
+
+631
+00:42:04,262 --> 00:42:06,183
+Si vieras lo que esta
+detrás de estas puertas,
+
+632
+00:42:06,316 --> 00:42:08,065
+tendría que matarte.
+
+633
+00:42:09,515 --> 00:42:11,902
+¡Parece que vas a tener
+que matarme, entonces!
+
+634
+00:42:17,631 --> 00:42:18,843
+¿Qué es eso?
+
+635
+00:42:18,956 --> 00:42:21,793
+La Estatua de la Pubertad,
+
+636
+00:42:22,006 --> 00:42:25,263
+¡pronto irá a
+Estados Unidos!
+
+637
+00:42:25,296 --> 00:42:27,149
+Pero es un súper secreto,
+
+638
+00:42:27,156 --> 00:42:30,787
+así que no la viste,
+¿de acuerdo?
+
+639
+00:42:31,403 --> 00:42:33,313
+De acuerdo.
+
+640
+00:42:33,446 --> 00:42:36,326
+Así que,
+aquí está mi oficina,
+
+641
+00:42:36,359 --> 00:42:39,251
+el hogar de las
+grandes ideas y el genio.
+
+642
+00:42:39,384 --> 00:42:41,809
+Por ejemplo,
+aquí vemos los planos...
+
+643
+00:42:41,842 --> 00:42:43,666
+...para las alas
+de pollo versión 3.
+
+644
+00:42:46,856 --> 00:42:49,624
+Por el momento, mi jefe y yo
+estamos trabajando en varias,
+
+645
+00:42:50,785 --> 00:42:54,288
+invenciones... Importantes.
+
+646
+00:42:54,721 --> 00:42:56,862
+Él, él...
+
+647
+00:42:57,156 --> 00:42:58,759
+Él me llama su
+hombre de las ideas.
+
+648
+00:42:59,231 --> 00:43:00,696
+¿Sabes cómo usar todo esto?
+
+649
+00:43:01,156 --> 00:43:05,018
+Aún no, pero yo...
+¡Tengo una silla!
+
+650
+00:43:11,048 --> 00:43:13,176
+- ¡Hola, Victor!
+- Es el conserje.
+
+651
+00:43:13,409 --> 00:43:15,766
+Él se quedó a dos sándwiches
+cortos en un picnic.
+
+652
+00:43:17,023 --> 00:43:18,983
+Así que todos los
+lápices necesitan afilarse,
+
+653
+00:43:19,040 --> 00:43:22,215
+y el jefe quiere que pulamos
+sus botas para mañana.
+
+654
+00:43:23,040 --> 00:43:26,111
+Entonces, ¿tu gran jefe te
+llama su hombre de las ideas?
+
+655
+00:43:26,256 --> 00:43:30,090
+Bueno, él...
+Él tiene las ideas,
+
+656
+00:43:30,223 --> 00:43:31,483
+y yo creo que son geniales.
+
+657
+00:43:31,516 --> 00:43:33,883
+¡Pero, es un comienzo!
+
+658
+00:43:34,116 --> 00:43:36,762
+Victor, has
+tenido razón por una vez.
+
+659
+00:43:36,823 --> 00:43:38,301
+¡Los sueños pueden
+hacerse realidad!
+
+660
+00:43:41,496 --> 00:43:42,316
+¡Ay, no!
+
+661
+00:43:47,756 --> 00:43:49,347
+Primera posición, segunda,
+
+662
+00:43:49,380 --> 00:43:51,135
+tercera, cuarta, quinta.
+
+663
+00:43:51,340 --> 00:43:54,027
+Estas cinco posiciones
+forman la base de todo.
+
+664
+00:43:54,040 --> 00:43:57,512
+Primera posición, segunda,
+tercera, cuarta, quinta.
+
+665
+00:43:57,645 --> 00:43:58,515
+Ahora, salta.
+
+666
+00:43:58,548 --> 00:44:01,400
+Primera posición, segunda,
+tercera, cuarta, quinta.
+
+667
+00:44:01,533 --> 00:44:03,988
+¡Y pose y sonríe!
+
+668
+00:44:05,340 --> 00:44:07,985
+Es cuando estás cansada, el
+que empiezas a progresar.
+
+669
+00:44:08,215 --> 00:44:11,270
+Eras una bailarina, ¿no?
+
+670
+00:44:12,073 --> 00:44:13,267
+No más preguntas.
+
+671
+00:44:14,169 --> 00:44:15,184
+¡De nuevo!
+
+672
+00:44:20,059 --> 00:44:23,536
+Para alcanzar, puede ser que
+necesites estar de puntas.
+
+673
+00:44:24,506 --> 00:44:27,566
+¡Siente el equilibrio!
+
+674
+00:44:28,073 --> 00:44:31,734
+Tus dedos de los pies deben ser
+tan flexibles como el sauce.
+
+675
+00:44:32,156 --> 00:44:34,212
+Y duros como una roca.
+
+676
+00:44:37,731 --> 00:44:38,831
+¡Primera posición!
+
+677
+00:44:41,262 --> 00:44:43,925
+No se permiten las manos.
+
+678
+00:44:44,258 --> 00:44:45,275
+¿Qué?
+
+679
+00:44:45,508 --> 00:44:48,391
+- Intenta de esta manera.
+- ¡Detente! ¡Detente!
+
+680
+00:44:49,431 --> 00:44:51,084
+Eras una bailarina, ¿no?
+
+681
+00:44:51,173 --> 00:44:53,788
+Por supuesto que fui una
+bailarina, Sherlock Holmes.
+
+682
+00:44:55,240 --> 00:44:56,404
+Para hacer piruetas,
+
+683
+00:44:56,437 --> 00:44:59,185
+debes convertirte en
+la dueña de tu mareo.
+
+684
+00:45:00,238 --> 00:45:03,824
+Mira fijamente en un punto,
+y no lo pierdas de vista.
+
+685
+00:45:06,235 --> 00:45:09,596
+De acuerdo, ahora ven a mí,
+y no derrames el agua.
+
+686
+00:45:21,044 --> 00:45:22,451
+- ¡Salud!
+- ¡Salud!
+
+687
+00:45:22,840 --> 00:45:26,257
+<i># Cuando me pides que salte
+
+688
+00:45:26,390 --> 00:45:28,499
+<i># Yo digo cuán alto... #
+
+689
+00:45:28,532 --> 00:45:31,457
+Trata de presentar a tu pie
+izquierdo a tu pie derecho.
+
+690
+00:45:31,540 --> 00:45:34,032
+A ver si pueden llevarse
+bien un día.
+
+691
+00:45:34,173 --> 00:45:37,287
+<i># Estoy
+esperando en la fila
+
+692
+00:45:38,035 --> 00:45:39,152
+<i># Pero ahora que
+es el momento... #
+
+693
+00:45:39,185 --> 00:45:41,471
+Hay un futuro
+brillante para ti...
+
+694
+00:45:41,604 --> 00:45:43,270
+Como vendedora de velas.
+
+695
+00:45:47,831 --> 00:45:51,317
+<i># Voy a tomar
+lo que es mío... #
+
+696
+00:45:51,350 --> 00:45:52,520
+¡Primera posición!
+
+697
+00:45:52,798 --> 00:45:54,611
+¡Segunda! ¡Tercera!
+
+698
+00:45:55,106 --> 00:45:57,646
+Cuarta,
+y descansen en la quinta.
+
+699
+00:45:57,856 --> 00:45:59,747
+Gracias, Madeimoselles.
+
+700
+00:46:08,415 --> 00:46:10,423
+Eso estuvo... ¡Mejor!
+
+701
+00:46:11,037 --> 00:46:12,149
+¡Gracias!
+
+702
+00:46:12,381 --> 00:46:14,508
+Estoy lista para hacer esa
+cosa loca de dar saltos.
+
+703
+00:46:14,631 --> 00:46:16,479
+Y yo soy la
+Emperatriz Josefina.
+
+704
+00:46:16,612 --> 00:46:17,294
+¡Lo estoy!
+
+705
+00:46:17,327 --> 00:46:18,594
+Por supuesto que lo estás,
+
+706
+00:46:18,656 --> 00:46:20,520
+pero hay una diferencia
+entre estar lista...
+
+707
+00:46:20,556 --> 00:46:22,219
+...y estar lista
+para hacerlo bien.
+
+708
+00:46:22,240 --> 00:46:24,497
+Es por eso que
+entrenamos todos los días.
+
+709
+00:46:24,530 --> 00:46:25,947
+¡Eso es todo lo que hemos
+estado haciendo!
+
+710
+00:46:25,980 --> 00:46:28,776
+Y entonces, estarás lista cuando
+puedas responder a la pregunta,
+
+711
+00:46:28,809 --> 00:46:30,021
+"¿por qué bailas?"
+
+712
+00:46:30,106 --> 00:46:32,741
+¡Ya la he respondido!
+¡Es mi sueño!
+
+713
+00:46:50,323 --> 00:46:54,043
+Por cierto, esa cosa loca de
+saltos se llama "le grand jeté",
+
+714
+00:46:54,676 --> 00:46:55,696
+y no estás lista.
+
+715
+00:46:55,729 --> 00:46:58,427
+¿Estás bailando o
+haciendo kung-fu?
+
+716
+00:46:59,321 --> 00:47:01,513
+Eres tan gracioso...
+
+717
+00:47:01,956 --> 00:47:04,709
+Este es Victor. Escapamos
+juntos del Orfanato.
+
+718
+00:47:04,742 --> 00:47:08,080
+¡Hola! Amo tu delantal.
+
+719
+00:47:10,367 --> 00:47:12,419
+Parece que van a
+salir esta noche.
+
+720
+00:47:12,452 --> 00:47:13,083
+¡Sí!
+
+721
+00:47:13,148 --> 00:47:16,254
+Tráela de vuelta tarde y serás
+seis pulgadas más pequeño.
+
+722
+00:47:16,331 --> 00:47:18,645
+¡Por supuesto,
+por supuesto, por supuesto!
+
+723
+00:47:18,678 --> 00:47:21,184
+Es un lugar tranquilo,
+sobrio,
+
+724
+00:47:21,317 --> 00:47:23,091
+bien tranquilo y sobrio.
+
+725
+00:47:25,273 --> 00:47:26,599
+¿Música bretona?
+
+726
+00:47:31,843 --> 00:47:33,105
+¡Disculpa!
+
+727
+00:47:42,258 --> 00:47:43,629
+¡Me encanta aquí!
+
+728
+00:47:44,443 --> 00:47:46,135
+¡Vámonos de fiesta!
+
+729
+00:47:49,356 --> 00:47:51,911
+¿Dijiste que me amabas
+a mí o al bar?
+
+730
+00:47:53,343 --> 00:47:54,429
+¡Sí!
+
+731
+00:48:15,563 --> 00:48:17,113
+¡Esa es mi novia!
+
+732
+00:48:17,546 --> 00:48:18,908
+¡Eres un tipo afortunado!
+
+733
+00:48:48,331 --> 00:48:51,940
+Espero que mañana actúes
+con un poco más de dignidad.
+
+734
+00:48:53,456 --> 00:48:57,932
+De todos modos, esta noche fue...
+Un buen rendimiento.
+
+735
+00:48:58,365 --> 00:48:59,777
+Gracias, señor.
+
+736
+00:49:05,820 --> 00:49:09,686
+¡No tengo ni idea de por qué
+estás feliz, pero es genial!
+
+737
+00:49:18,456 --> 00:49:21,041
+Bueno, es mejor que entre.
+
+738
+00:49:21,725 --> 00:49:23,171
+Tengo mi audición mañana.
+
+739
+00:49:23,204 --> 00:49:26,458
+¡Por supuesto!
+Duerme bien. Y yo... Yo...
+
+740
+00:49:26,473 --> 00:49:29,931
+- ¿Qué?
+- Creo que eres...
+
+741
+00:49:31,548 --> 00:49:33,226
+Creo que eres maravillosa.
+
+742
+00:49:33,559 --> 00:49:34,864
+Gracias.
+
+743
+00:49:43,106 --> 00:49:46,142
+- ¿Qué estás haciendo?
+- ¡Nada!
+
+744
+00:49:46,963 --> 00:49:47,653
+Estoy estirándome.
+
+745
+00:49:47,686 --> 00:49:49,799
+Sí, tengo que...
+¡Tengo que lograr eso!
+
+746
+00:49:49,932 --> 00:49:52,294
+¡De acuerdo!
+Sí, es mejor que me vaya.
+
+747
+00:49:53,998 --> 00:49:56,536
+¡Estúpido,
+estúpido, estúpido!
+
+748
+00:49:56,669 --> 00:49:58,015
+¡Oye, Victor!
+
+749
+00:49:59,690 --> 00:50:03,054
+Me la pase muy bien.
+
+750
+00:50:03,098 --> 00:50:06,129
+¡Gracias!
+Buenas noches, Felicie.
+
+751
+00:50:06,874 --> 00:50:10,229
+Lo siento. Madeimoselle
+Camille Le Haut.
+
+752
+00:50:30,255 --> 00:50:31,377
+¡Desgraciada!
+
+753
+00:50:31,510 --> 00:50:33,488
+¡Quiero que la
+pongan en prisión!
+
+754
+00:50:33,873 --> 00:50:38,362
+¡Ella se robó mi vida,
+mi honor y mi nombre!
+
+755
+00:50:38,595 --> 00:50:40,218
+¡Lo quiero de vuelta!
+
+756
+00:50:42,696 --> 00:50:44,437
+- Demasiado.
+- De acuerdo.
+
+757
+00:50:45,383 --> 00:50:47,268
+¿Cuál es tu nombre?
+
+758
+00:50:51,898 --> 00:50:53,894
+Me llamo Felicie Lebras.
+
+759
+00:50:54,373 --> 00:50:57,034
+Vengo de un
+Orfanato en Bretaña.
+
+760
+00:50:57,674 --> 00:50:59,183
+No quería herir a Camille.
+
+761
+00:50:59,316 --> 00:51:01,262
+Sólo quería
+estar en la Ópera y...
+
+762
+00:51:01,695 --> 00:51:03,141
+Lo siento.
+
+763
+00:51:03,852 --> 00:51:05,643
+Madame...
+
+764
+00:51:07,031 --> 00:51:09,728
+¡Eres una traidora!
+
+765
+00:51:10,673 --> 00:51:12,525
+¡Tú sabías de esto!
+
+766
+00:51:13,290 --> 00:51:15,139
+¡Me apuñalaste
+por la espalda!
+
+767
+00:51:15,172 --> 00:51:17,310
+- ¡Estás despedida!
+- ¡Silencio!
+
+768
+00:51:18,998 --> 00:51:22,293
+Muy bien, les guste o no,
+aquí está mi trato.
+
+769
+00:51:22,326 --> 00:51:23,452
+Señorita Le Haut,
+
+770
+00:51:23,915 --> 00:51:26,779
+puede entrar en la clase
+coryphée empezando mañana.
+
+771
+00:51:27,473 --> 00:51:28,796
+Y también estará
+en las audiciones...
+
+772
+00:51:28,815 --> 00:51:30,586
+...para el papel en
+El Cascanueces.
+
+773
+00:51:31,065 --> 00:51:32,534
+Pero quiero ser claro,
+
+774
+00:51:32,567 --> 00:51:35,490
+si usted echa a Madame Odette,
+yo echo a Camille.
+
+775
+00:51:35,823 --> 00:51:37,013
+¡Y tú!
+
+776
+00:51:37,346 --> 00:51:40,448
+Tuviste un comienzo
+terrible con las clases,
+
+777
+00:51:40,581 --> 00:51:43,589
+y has mentido y
+engañado para estar aquí.
+
+778
+00:51:44,533 --> 00:51:48,730
+Pero... También has mostrado
+ser una gran promesa,
+
+779
+00:51:48,940 --> 00:51:51,570
+y has trabajado duro y
+demostrado tu dedicación.
+
+780
+00:51:52,106 --> 00:51:53,824
+Debes de tener una
+buena maestra.
+
+781
+00:51:55,015 --> 00:51:57,402
+Así que también puedes
+quedarte en las audiciones.
+
+782
+00:51:57,535 --> 00:51:59,626
+Si obtienes el papel en
+El Cascanueces de forma justa,
+
+783
+00:51:59,659 --> 00:52:01,509
+puedes convertirte en
+una coryphée también.
+
+784
+00:52:02,006 --> 00:52:04,630
+Si no consigues el papel,
+deberás dejar la Ópera.
+
+785
+00:52:04,690 --> 00:52:06,703
+- ¿Está claro?
+- Sí.
+
+786
+00:52:07,240 --> 00:52:09,339
+¿Eso también está
+claro para usted, Madame?
+
+787
+00:52:09,772 --> 00:52:10,965
+Claro.
+
+788
+00:52:11,190 --> 00:52:14,169
+Entonces,
+Felicie Lebras de Bretaña,
+
+789
+00:52:14,598 --> 00:52:17,887
+tu futuro en la
+Ópera está en tus manos.
+
+790
+00:52:28,147 --> 00:52:29,792
+¿Qué tal si es buena, madre?
+
+791
+00:52:29,873 --> 00:52:32,337
+Consigue ese papel,
+¿me oyes?
+
+792
+00:52:32,606 --> 00:52:34,105
+Quiero venganza.
+
+793
+00:52:35,390 --> 00:52:36,940
+Y la tendré.
+
+794
+00:52:48,423 --> 00:52:50,773
+Incluso hace que el
+barrer se vea elegante.
+
+795
+00:52:51,048 --> 00:52:52,977
+Era una buena bailarina,
+¿no?
+
+796
+00:52:53,010 --> 00:52:56,249
+No sólo una buena bailarina.
+La mejor de su generación.
+
+797
+00:52:56,623 --> 00:52:58,905
+Y luego hubo un
+incendio en el escenario.
+
+798
+00:53:07,256 --> 00:53:08,968
+¿Por qué es esto?
+
+799
+00:53:10,323 --> 00:53:11,937
+¡Por todo!
+
+800
+00:53:14,174 --> 00:53:16,013
+No tenemos
+tiempo para esto.
+
+801
+00:53:16,246 --> 00:53:18,223
+Estamos hablando
+de tu futuro ahora.
+
+802
+00:53:18,348 --> 00:53:21,189
+Sólo tienes una oponente.
+Camille.
+
+803
+00:53:24,623 --> 00:53:27,543
+<i>La he visto. La conozco.
+
+804
+00:53:28,681 --> 00:53:30,359
+<i>Su técnica es perfecta,
+
+805
+00:53:30,492 --> 00:53:32,305
+<i>y es más
+fuerte de lo que parece.
+
+806
+00:53:32,823 --> 00:53:35,143
+<i>Ella es precisa, es aguda,
+
+807
+00:53:35,276 --> 00:53:37,798
+<i>y el perder no es una
+palabra en su vocabulario.
+
+808
+00:53:37,931 --> 00:53:39,916
+¡Arriba, abajo!
+¡Arriba, abajo!
+
+809
+00:53:40,049 --> 00:53:41,725
+¡Arriba, abajo! ¡De nuevo!
+
+810
+00:53:41,748 --> 00:53:44,021
+- ¡Arriba, abajo! ¡Arriba...
+- Estoy cansada.
+
+811
+00:53:44,448 --> 00:53:46,286
+¡Cansarse es para
+las perdedoras!
+
+812
+00:53:46,319 --> 00:53:49,265
+¡De nuevo!
+¡Voy a conseguirte ese papel!
+
+813
+00:53:49,698 --> 00:53:53,265
+<i>Si intentas acabarla
+a su estilo, fracasarás.
+
+814
+00:53:54,048 --> 00:53:56,712
+<i>Tu dieta adolece de
+comer poquita comida.
+
+815
+00:53:56,740 --> 00:53:58,966
+<i>Tus músculos son
+como malvaviscos.
+
+816
+00:53:59,299 --> 00:54:02,784
+<i>En resumen, en el papel,
+te van a humillar.
+
+817
+00:54:04,890 --> 00:54:08,446
+¡Buena charla motivacional!
+Entonces, ¿cómo consigo ese papel?
+
+818
+00:54:08,779 --> 00:54:11,756
+Obtendrás el papel,
+porque tienes algo...
+
+819
+00:54:11,789 --> 00:54:14,575
+...con lo que ella sólo
+puede soñar... ¡Pasión!
+
+820
+00:54:22,940 --> 00:54:24,476
+<i>Construye sobre esto.
+
+821
+00:54:24,509 --> 00:54:28,533
+<i>Siente tu ira y tu dolor
+y tu sufrimiento y tu alegría,
+
+822
+00:54:28,666 --> 00:54:30,323
+<i>y ponlo todo en tu baile.
+
+823
+00:54:30,565 --> 00:54:32,861
+<i>Vive la música, siéntela.
+
+824
+00:54:35,790 --> 00:54:39,233
+<i>Cada nota, cada sonido,
+cada armonía...
+
+825
+00:54:39,266 --> 00:54:41,226
+<i>...necesita tener
+tu cuerpo vibrando.
+
+826
+00:54:41,359 --> 00:54:42,885
+<i>Desde el final
+de tu cabello...
+
+827
+00:54:42,962 --> 00:54:45,186
+<i>...hasta las puntas de
+los dedos de los pies.
+
+828
+00:54:45,773 --> 00:54:50,656
+<i>Y entonces, y sólo
+entonces, la acabarás.
+
+829
+00:54:59,698 --> 00:55:02,628
+¡Bueno! La persona
+que nos deja hoy es...
+
+830
+00:55:16,623 --> 00:55:18,685
+Este es el final del
+camino, señorita Nora.
+
+831
+00:55:18,718 --> 00:55:19,876
+¿Qué camino?
+
+832
+00:55:21,407 --> 00:55:22,550
+Estoy acabada.
+
+833
+00:55:22,715 --> 00:55:24,667
+Tú me agradas.
+Gánale.
+
+834
+00:55:25,915 --> 00:55:28,706
+Camille y Felicie, mañana por
+la mañana a las 8:00 a.m.,
+
+835
+00:55:28,739 --> 00:55:30,564
+sabremos cuál de ustedes,
+tendrá el honor...
+
+836
+00:55:30,631 --> 00:55:33,184
+...de bailar como Clara en
+"El Cascanueces" con Rosita.
+
+837
+00:55:34,515 --> 00:55:38,505
+Sólo puedo aconsejarles
+que lo den todo, señoritas.
+
+838
+00:55:39,426 --> 00:55:42,218
+Has hecho mucho progreso,
+sucia, pequeña rata,
+
+839
+00:55:42,251 --> 00:55:45,052
+pero mañana, yo voy
+a ser la elegida.
+
+840
+00:55:45,485 --> 00:55:46,369
+Ya lo veremos.
+
+841
+00:55:46,387 --> 00:55:47,686
+Puedes trabajar
+tan duro como quieras,
+
+842
+00:55:47,965 --> 00:55:50,132
+puedes
+entrenar 24 horas al día,
+
+843
+00:55:50,165 --> 00:55:52,610
+¡pero siempre serás nada!
+
+844
+00:55:52,715 --> 00:55:55,210
+- Soy alguien.
+- ¿Quién exactamente?
+
+845
+00:55:55,498 --> 00:55:57,780
+¡Respóndeme!
+¿Quién eres tú?
+
+846
+00:56:00,206 --> 00:56:01,673
+¡No eres nadie!
+
+847
+00:56:05,363 --> 00:56:06,717
+¡Nada!
+
+848
+00:56:09,065 --> 00:56:10,517
+Ella está equivocada,
+¿sabes?
+
+849
+00:56:10,650 --> 00:56:12,535
+- No estás sola.
+- ¿Qué?
+
+850
+00:56:14,973 --> 00:56:16,193
+Me tienes a mí.
+
+851
+00:56:16,898 --> 00:56:19,466
+Y sé exactamente
+lo que vamos a hacer.
+
+852
+00:56:19,490 --> 00:56:21,468
+Esta noche, para
+probar nuestra conexión,
+
+853
+00:56:21,490 --> 00:56:24,320
+nos embarcaremos en una
+pequeña fiesta romántica.
+
+854
+00:56:24,373 --> 00:56:26,783
+Te ofrezco La Torre Eiffel.
+
+855
+00:56:26,816 --> 00:56:28,583
+Te ofrezco fuegos
+artificiales.
+
+856
+00:56:28,623 --> 00:56:31,952
+- Esta noche, a las 7:00 p.m.
+- Debo entrenar.
+
+857
+00:56:31,985 --> 00:56:33,895
+No necesitas entrenar.
+
+858
+00:56:34,028 --> 00:56:35,579
+No necesitas saber
+quién eres.
+
+859
+00:56:35,965 --> 00:56:37,859
+Eres única.
+
+860
+00:56:38,248 --> 00:56:39,513
+¿Dilo otra vez?
+
+861
+00:56:40,581 --> 00:56:41,454
+Esta noche.
+
+862
+00:56:41,923 --> 00:56:44,941
+Felicie,
+me da mucho placer...
+
+863
+00:56:44,948 --> 00:56:46,399
+...el presentarte...
+
+864
+00:56:47,335 --> 00:56:48,637
+¡No!
+
+865
+00:56:53,373 --> 00:56:55,547
+¡Victor! ¡Estoy en
+la audición final!
+
+866
+00:56:56,280 --> 00:56:57,714
+¡Felicitaciones!
+
+867
+00:56:57,747 --> 00:56:58,924
+Tengo una gran
+noticia también.
+
+868
+00:56:59,003 --> 00:57:00,854
+¡Mi jefe
+finalmente me habló!
+
+869
+00:57:00,915 --> 00:57:04,744
+Él dijo: "¡Bájate de mí pie,
+mutación biológica!"
+
+870
+00:57:05,615 --> 00:57:07,838
+Eso es bueno, ¿verdad?
+
+871
+00:57:09,556 --> 00:57:11,104
+No tienes clase.
+
+872
+00:57:11,137 --> 00:57:13,146
+¿Qué, yo? ¿Sin clase?
+
+873
+00:57:13,423 --> 00:57:16,111
+- Rudi tiene clase.
+- ¿Rudi otra vez?
+
+874
+00:57:16,515 --> 00:57:18,561
+¿Qué, es tu novio ahora?
+
+875
+00:57:18,594 --> 00:57:22,831
+¡No! Él y yo,
+estamos conectados...
+
+876
+00:57:22,864 --> 00:57:24,486
+De acuerdo, de acuerdo.
+¡Tú ganas!
+
+877
+00:57:24,581 --> 00:57:29,105
+Te daré clase
+y conectividad.
+
+878
+00:57:29,238 --> 00:57:30,493
+¡Cena! Tú y yo.
+
+879
+00:57:30,581 --> 00:57:33,237
+Algunos cuchillos y
+tenedores, servilletas.
+
+880
+00:57:33,970 --> 00:57:36,701
+7:00 p.m., al Norte
+de La Torre Eiffel.
+
+881
+00:57:38,741 --> 00:57:40,010
+¿Eso es un "sí"?
+
+882
+00:57:42,573 --> 00:57:43,407
+Sí.
+
+883
+00:57:44,648 --> 00:57:45,778
+Eso es un sí.
+
+884
+00:57:46,456 --> 00:57:48,719
+¡Siéntate!
+Tengo algo para ti.
+
+885
+00:57:51,873 --> 00:57:54,949
+Eran míos.
+Y ahora son tuyos.
+
+886
+00:57:57,048 --> 00:57:57,825
+Gracias.
+
+887
+00:57:57,858 --> 00:57:59,393
+De acuerdo,
+suficiente de hablar.
+
+888
+00:57:59,526 --> 00:58:01,341
+Come, y luego
+practicamos para mañana.
+
+889
+00:58:02,768 --> 00:58:03,676
+¿Qué?
+
+890
+00:58:04,109 --> 00:58:07,284
+Bueno,
+voy a salir con Rudi.
+
+891
+00:58:08,010 --> 00:58:11,436
+Dice que estoy lista.
+Él dice que soy única.
+
+892
+00:58:12,675 --> 00:58:14,073
+¿Por qué bailas?
+
+893
+00:58:14,481 --> 00:58:16,415
+¡Deja de hacerme
+esa pregunta!
+
+894
+00:58:16,948 --> 00:58:19,991
+Cuando era bailarina, la noche
+anterior a una audición,
+
+895
+00:58:20,073 --> 00:58:22,004
+me entrené y
+luego descansé.
+
+896
+00:58:22,337 --> 00:58:24,142
+- Rudi me espera.
+- ¡Quédate!
+
+897
+00:58:24,281 --> 00:58:26,246
+¡No! ¡Tú no eres mi mamá!
+
+898
+00:58:27,506 --> 00:58:29,101
+Lo siento.
+No estaba pensando.
+
+899
+00:58:29,123 --> 00:58:31,200
+De acuerdo. Vete, entonces.
+
+900
+00:58:56,042 --> 00:58:57,402
+Mira al pájaro.
+
+901
+00:58:57,948 --> 00:59:01,279
+¡No! Mírame a mí.
+Mira el pájaro.
+
+902
+00:59:01,312 --> 00:59:03,792
+¡No! Mírame a mí.
+
+903
+00:59:03,925 --> 00:59:06,506
+Este es un poema
+que compuse en tu honor.
+
+904
+00:59:07,310 --> 00:59:09,169
+Por supuesto, un poema.
+
+905
+00:59:09,465 --> 00:59:11,295
+"¡Mira al pájaro!"
+
+906
+00:59:11,323 --> 00:59:13,758
+"Él vuela en el cielo".
+
+907
+00:59:13,891 --> 00:59:15,263
+"Nadie puede atraparlo".
+
+908
+00:59:21,639 --> 00:59:22,655
+¿Te gusta?
+
+909
+00:59:23,467 --> 00:59:24,785
+Eso es...
+
+910
+00:59:25,023 --> 00:59:26,999
+...bueno, original.
+
+911
+00:59:27,248 --> 00:59:30,206
+Lo sé. Gracias.
+¡Vamos, Minoushka!
+
+912
+00:59:30,239 --> 00:59:33,680
+¡Vamos a la cima!
+¡A las estrellas!
+
+913
+00:59:34,013 --> 00:59:36,703
+Bien, Matty, practicamos.
+
+914
+00:59:36,881 --> 00:59:39,372
+¡Música, por favor!
+¡Clásica!
+
+915
+00:59:39,405 --> 00:59:43,962
+De acuerdo, pero esa no es
+mi zona de confort musical.
+
+916
+00:59:45,278 --> 00:59:45,926
+¡Detente!
+
+917
+00:59:46,059 --> 00:59:47,502
+¡Detente, detente, detente!
+
+918
+00:59:47,540 --> 00:59:51,241
+Será bretona,
+pero suave y romántica.
+
+919
+00:59:51,274 --> 00:59:52,847
+Esto la hará volar.
+
+920
+00:59:52,980 --> 00:59:55,373
+Ella llega, se ríe.
+
+921
+00:59:55,506 --> 00:59:57,743
+Parezco sombrío
+y misterioso.
+
+922
+00:59:57,881 --> 00:59:59,437
+Le doy la caja de música.
+
+923
+00:59:59,481 --> 01:00:03,313
+Ella está... ¡Abrumada!
+
+924
+01:00:04,387 --> 01:00:06,307
+No sé mucho
+sobre niñas.
+
+925
+01:00:06,640 --> 01:00:08,878
+Francamente,
+son un misterio para mí.
+
+926
+01:00:09,011 --> 01:00:11,928
+Pero sé que ésta no vendrá.
+
+927
+01:00:12,261 --> 01:00:15,475
+¡Joven e inocente tonto!
+¡Por supuesto que vendrá!
+
+928
+01:00:16,938 --> 01:00:18,947
+Ya puedo oler su perfume.
+
+929
+01:00:24,723 --> 01:00:27,553
+¡No! ¡Mendigos!
+
+930
+01:00:28,006 --> 01:00:31,178
+¡París está infestada
+de mendigos! ¡Qué asco!
+
+931
+01:00:31,611 --> 01:00:32,590
+- Pero...
+- No tengas miedo.
+
+932
+01:00:32,615 --> 01:00:34,377
+- Pero...
+- ¡Calla! Sígueme.
+
+933
+01:00:34,873 --> 01:00:38,204
+No tengas miedo, he desarrollado
+una técnica de pelea...
+
+934
+01:00:38,223 --> 01:00:40,683
+...basada en el baile
+de los cosacos.
+
+935
+01:00:40,816 --> 01:00:42,367
+¡No seas ridículo!
+
+936
+01:00:45,548 --> 01:00:48,534
+¡De acuerdo, detente allí
+mismo! ¡Él es mi amigo!
+
+937
+01:00:48,967 --> 01:00:50,567
+¿Es esto una broma?
+
+938
+01:00:50,700 --> 01:00:53,255
+¡No! Este es Victor.
+Crecimos juntos.
+
+939
+01:00:53,488 --> 01:00:55,734
+¡Dios! Esto es divertido.
+
+940
+01:00:55,767 --> 01:00:56,824
+¿Amigos?
+
+941
+01:00:56,865 --> 01:00:58,977
+Si somos amigos, ¿por qué te
+ves tan avergonzada?
+
+942
+01:00:59,548 --> 01:01:02,621
+- No tengo vergüenza.
+- ¡Sí, la tienes!
+
+943
+01:01:03,183 --> 01:01:05,309
+Lo siento por ti, Felicie.
+
+944
+01:01:07,212 --> 01:01:09,194
+- Estás celoso.
+- ¡No!
+
+945
+01:01:09,627 --> 01:01:11,148
+Desde que empezaste
+en la Ópera,
+
+946
+01:01:11,182 --> 01:01:12,669
+¿quién estás
+tratando de ser?
+
+947
+01:01:12,748 --> 01:01:16,487
+¿Mezclándote con este
+espárrago grande y peludo?
+
+948
+01:01:17,020 --> 01:01:18,395
+Eres muy patética.
+
+949
+01:01:20,481 --> 01:01:24,522
+Podría golpearte con un
+movimiento de mi meñique,
+
+950
+01:01:24,555 --> 01:01:28,383
+pero eso haría que mi dedo
+se ensucie y apeste.
+
+951
+01:01:28,516 --> 01:01:32,681
+¡Por lo tanto, estoy sucio, pero
+al menos no paso mi día en mallas!
+
+952
+01:01:33,390 --> 01:01:34,699
+¡No puedo creer esto!
+
+953
+01:01:34,840 --> 01:01:36,229
+Ella es mi musa.
+
+954
+01:01:36,373 --> 01:01:39,504
+Sí, bueno, ella es lo
+que dijiste, también,
+
+955
+01:01:39,637 --> 01:01:41,891
+¡al doble, espárrago!
+
+956
+01:01:46,115 --> 01:01:47,194
+¡Deténganse!
+
+957
+01:01:48,915 --> 01:01:50,697
+¡Ambos son unos idiotas!
+
+958
+01:01:54,998 --> 01:01:56,062
+De acuerdo.
+
+959
+01:01:56,548 --> 01:01:58,370
+Bueno, adiós, entonces.
+
+960
+01:01:59,948 --> 01:02:01,369
+Bueno, adiós.
+
+961
+01:02:04,506 --> 01:02:07,049
+¡Eso fue muy bajo!
+
+962
+01:03:04,965 --> 01:03:06,722
+¡Ay no! ¡La audición!
+
+963
+01:03:12,881 --> 01:03:15,362
+- Estoy seguro de que esta...
+- ¡Cuidado!
+
+964
+01:03:15,815 --> 01:03:17,593
+...producción
+de El Cascanueces va a...
+
+965
+01:03:18,298 --> 01:03:19,571
+¡Disculpa!
+
+966
+01:03:24,998 --> 01:03:26,060
+¡Oye!
+
+967
+01:03:32,890 --> 01:03:35,379
+¡Bravo! ¡Bravo!
+
+968
+01:03:35,573 --> 01:03:37,474
+Gracias, Madeimoselle.
+
+969
+01:03:37,507 --> 01:03:40,141
+La huérfana está atrasada.
+Se acabó.
+
+970
+01:03:40,440 --> 01:03:44,713
+Bueno, como Felicie no se dignó
+a presentarse a la audición,
+
+971
+01:03:45,046 --> 01:03:47,354
+es Camille quien bailará
+con Rosita.
+
+972
+01:03:47,387 --> 01:03:49,399
+¡Esperen! ¡Esperen!
+¡Ya estoy aquí!
+
+973
+01:03:50,032 --> 01:03:51,975
+Por favor, por favor,
+déjenme bailar.
+
+974
+01:03:52,008 --> 01:03:54,378
+¡Se acabó!
+¿No lo entiendes?
+
+975
+01:03:54,411 --> 01:03:56,119
+¡Usted siéntese!
+
+976
+01:03:57,437 --> 01:04:00,175
+- Me disculpo.
+- ¿Has dormido?
+
+977
+01:04:01,240 --> 01:04:02,493
+No mucho.
+
+978
+01:04:03,465 --> 01:04:05,088
+¿Te entrenaste ayer?
+
+979
+01:04:05,321 --> 01:04:07,158
+- No.
+- ¿Por qué?
+
+980
+01:04:12,023 --> 01:04:13,799
+¡Muy bien, música!
+
+981
+01:04:31,423 --> 01:04:34,601
+- Comienza de nuevo.
+- ¡Ella se cayó! ¡Está eliminada!
+
+982
+01:04:34,734 --> 01:04:36,581
+¡Comienza de nuevo!
+
+983
+01:04:51,065 --> 01:04:52,762
+¿Recuerdas nuestro trato?
+
+984
+01:04:54,673 --> 01:04:57,113
+Camille,
+tendrás el honor...
+
+985
+01:04:57,146 --> 01:04:59,358
+...de ser Clara
+en El Cascanueces.
+
+986
+01:05:11,773 --> 01:05:14,694
+¿Creíste que terminaría
+aquí, pequeña rata?
+
+987
+01:05:14,727 --> 01:05:19,168
+¡No!
+¡Déjeme ir! ¡No!
+
+988
+01:05:19,201 --> 01:05:20,210
+¡Ay no!
+
+989
+01:05:22,681 --> 01:05:25,481
+¡Por favor! ¡Por favor!
+
+990
+01:05:25,773 --> 01:05:28,220
+¡Odette! ¡No!
+
+991
+01:05:28,890 --> 01:05:30,148
+¡Odette!
+
+992
+01:05:30,190 --> 01:05:31,670
+¡Felicie!
+
+993
+01:05:31,915 --> 01:05:34,218
+Nunca la volverás a ver.
+
+994
+01:05:35,784 --> 01:05:37,849
+Y, por supuesto,
+estás despedida.
+
+995
+01:05:58,273 --> 01:05:59,593
+¡Deténganse!
+
+996
+01:06:00,815 --> 01:06:04,377
+¿Dónde está Felicie?
+
+997
+01:06:09,365 --> 01:06:10,592
+Estoy aquí.
+
+998
+01:06:12,414 --> 01:06:15,012
+Bien, bueno.
+
+999
+01:06:35,681 --> 01:06:37,154
+Ha perdido su espíritu.
+
+1000
+01:06:38,890 --> 01:06:41,224
+¡Mantén la compostura,
+gran tonto!
+
+1001
+01:06:49,256 --> 01:06:52,752
+Lo sé. También lo extraño.
+
+1002
+01:07:37,190 --> 01:07:41,444
+<i># ¿Me has contado todo?
+Tengo cosas que decir
+
+1003
+01:07:41,677 --> 01:07:43,845
+<i># Oye,
+estoy hablándote a ti
+
+1004
+01:07:43,848 --> 01:07:48,311
+<i># Tenemos cosas que hacer
+Tenemos planes que formar
+
+1005
+01:07:48,444 --> 01:07:54,608
+<i># Y quiero llevarte conmigo
+
+1006
+01:07:54,741 --> 01:08:01,270
+<i># Si, quiero
+llevarte conmigo...
+
+1007
+01:08:01,303 --> 01:08:04,764
+<i># Pero una mirada
+lejana es difícil en mí
+
+1008
+01:08:04,897 --> 01:08:07,517
+<i># ¿Puedes sentirlo?
+
+1009
+01:08:07,606 --> 01:08:10,891
+<i># Y si no puedes ver,
+que soy una chica inquieta
+
+1010
+01:08:10,924 --> 01:08:15,597
+<i># ¿Qué estás escuchando?
+
+1011
+01:08:15,630 --> 01:08:18,475
+<i># Empaca ya todo
+Empaca todo en una maleta
+
+1012
+01:08:18,508 --> 01:08:21,763
+<i># Tengo todo lo que necesito, todo
+lo que necesito para ser libre
+
+1013
+01:08:21,796 --> 01:08:24,817
+<i># Empaca ya todo
+Empaca todo en una maleta
+
+1014
+01:08:24,831 --> 01:08:28,136
+<i># Tengo todo lo que necesito, todo
+lo que necesito para ser libre
+
+1015
+01:08:28,269 --> 01:08:31,168
+<i># Empaca ya todo
+Empaca todo en una maleta
+
+1016
+01:08:31,201 --> 01:08:33,289
+<i># Tengo todo lo que necesito,
+todo lo que necesito
+
+1017
+01:08:33,322 --> 01:08:34,732
+<i># Estoy volando
+
+1018
+01:08:34,765 --> 01:08:37,488
+<i># Empaca ya todo
+Empaca todo en una maleta
+
+1019
+01:08:37,521 --> 01:08:40,790
+<i># Tengo todo lo que necesito, todo
+lo que necesito para ser libre
+
+1020
+01:08:40,990 --> 01:08:43,877
+<i># Empaca ya todo
+Empaca todo en una maleta
+
+1021
+01:08:43,965 --> 01:08:46,302
+<i># Tengo todo lo que necesito,
+todo lo que necesito
+
+1022
+01:08:46,323 --> 01:08:47,843
+<i># Estoy volando... #
+
+1023
+01:09:06,065 --> 01:09:08,573
+De acuerdo,
+estaba escapando,
+
+1024
+01:09:08,606 --> 01:09:10,459
+pero es estúpido,
+y me atrapaste.
+
+1025
+01:09:10,496 --> 01:09:13,447
+Así que, lo siento mucho,
+sólo volveré al dormitorio.
+
+1026
+01:09:14,873 --> 01:09:16,170
+¡Por aquí, rápido!
+
+1027
+01:09:47,067 --> 01:09:48,145
+¡Gracias!
+
+1028
+01:10:01,598 --> 01:10:02,857
+Ve ahora.
+
+1029
+01:10:18,431 --> 01:10:19,825
+Deja que te ayude.
+
+1030
+01:10:24,165 --> 01:10:27,832
+Me necesitas.
+Puedo limpiar.
+
+1031
+01:10:29,035 --> 01:10:31,435
+Absolutamente Limpio,
+es mi segundo nombre.
+
+1032
+01:10:33,273 --> 01:10:36,017
+De hecho, yo te necesito.
+
+1033
+01:10:36,350 --> 01:10:37,992
+Quiero quedarme contigo.
+
+1034
+01:10:53,423 --> 01:10:55,775
+¡Lo siento mucho!
+¡Realmente te extrañé!
+
+1035
+01:10:57,048 --> 01:10:58,476
+Yo también.
+
+1036
+01:11:01,790 --> 01:11:02,995
+Vamos.
+
+1037
+01:11:03,465 --> 01:11:05,681
+Merante me ha dado una
+habitación en el ático.
+
+1038
+01:11:06,215 --> 01:11:08,031
+Hay un pequeño
+rincón para ti.
+
+1039
+01:11:08,315 --> 01:11:10,903
+El trabajo comienza a las 6:00 a.m.
+Una hora para el almuerzo.
+
+1040
+01:11:10,936 --> 01:11:12,257
+¿A las 6:00 a.m.?
+
+1041
+01:11:18,290 --> 01:11:20,533
+Lo prometo,
+él no está aquí.
+
+1042
+01:11:20,766 --> 01:11:24,029
+¿Sabes cuándo regresará?
+¡Por favor!
+
+1043
+01:11:24,462 --> 01:11:26,246
+Bueno, en realidad...
+
+1044
+01:11:29,298 --> 01:11:31,498
+¡No! No lo sé.
+
+1045
+01:11:33,259 --> 01:11:34,429
+Así que...
+
+1046
+01:11:37,948 --> 01:11:41,300
+¿Podrías por favor decirle
+que lo siento?
+
+1047
+01:11:42,558 --> 01:11:45,475
+He sido
+desagradable y boba.
+
+1048
+01:11:46,008 --> 01:11:47,869
+Y tonta y estúpida.
+
+1049
+01:11:48,302 --> 01:11:50,820
+- Y grosera.
+- Y grosera.
+
+1050
+01:11:51,503 --> 01:11:53,960
+Dile a Victor que
+es mi mejor amigo.
+
+1051
+01:11:54,359 --> 01:11:55,439
+Que haya tenido.
+
+1052
+01:11:58,548 --> 01:12:00,909
+Esa es mi otra mano.
+
+1053
+01:12:00,973 --> 01:12:03,204
+Tengo tres manos,
+en realidad.
+
+1054
+01:12:15,898 --> 01:12:18,498
+- Gracias.
+- De nada.
+
+1055
+01:12:19,137 --> 01:12:20,708
+Entonces, adiós.
+
+1056
+01:12:21,641 --> 01:12:22,835
+Adiós, Victor.
+
+1057
+01:12:23,468 --> 01:12:24,940
+Ese no fue él.
+
+1058
+01:12:25,590 --> 01:12:27,104
+Él no está aquí.
+
+1059
+01:12:27,237 --> 01:12:30,298
+¡Victor ha hecho un milagro!
+¿Quién lo habría pensado?
+
+1060
+01:12:30,431 --> 01:12:32,648
+Sólo tiene la apariencia
+de un idiota total.
+
+1061
+01:12:33,363 --> 01:12:35,174
+No quiere hablar
+conmigo ya más.
+
+1062
+01:12:35,207 --> 01:12:38,163
+- Lo hará.
+- ¡No, no, no!
+
+1063
+01:12:38,196 --> 01:12:39,614
+¡Aquí vamos!
+
+1064
+01:12:39,747 --> 01:12:42,827
+¡Detente! ¡Tan fría,
+como la manteca de cerdo!
+
+1065
+01:12:42,860 --> 01:12:44,992
+Señorita Le Haut,
+actúa esta noche.
+
+1066
+01:12:45,031 --> 01:12:47,754
+¡Y hasta ahora,
+no tenemos emoción!
+
+1067
+01:12:47,787 --> 01:12:49,755
+Pero estoy haciendo exactamente
+los pasos que me dijo.
+
+1068
+01:12:50,298 --> 01:12:53,473
+No es suficiente con
+"hacer los pasos".
+
+1069
+01:12:53,973 --> 01:12:58,432
+Encuentre la ira o algo
+de dolor o algo de amor,
+
+1070
+01:12:58,665 --> 01:13:00,678
+¡pero encuentre algo!
+
+1071
+01:13:01,498 --> 01:13:02,876
+Carece de esto.
+
+1072
+01:13:03,310 --> 01:13:05,190
+Esta noche se
+pondrá en evidencia.
+
+1073
+01:13:06,373 --> 01:13:09,064
+De acuerdo, voy a limpiar las
+escaleras en el vestíbulo.
+
+1074
+01:13:09,197 --> 01:13:11,518
+- Tú puedes terminar aquí.
+- De acuerdo.
+
+1075
+01:13:28,373 --> 01:13:30,771
+Déjalo. Devuélvemelo.
+
+1076
+01:13:31,304 --> 01:13:32,685
+¡Tonta de mí!
+
+1077
+01:13:32,818 --> 01:13:35,188
+No lo lancé lo bastante
+fuerte la primera vez.
+
+1078
+01:13:35,590 --> 01:13:37,645
+No cometas el mismo error.
+
+1079
+01:13:40,015 --> 01:13:43,390
+¿Por qué te vas?
+¿Miedo de ser humillada?
+
+1080
+01:13:43,423 --> 01:13:45,334
+Parece que necesitas
+más entrenamiento.
+
+1081
+01:13:45,773 --> 01:13:47,855
+No estás ni siquiera lista.
+
+1082
+01:13:51,231 --> 01:13:53,803
+Voy a mostrarte cómo es
+una bailarina de verdad.
+
+1083
+01:13:53,836 --> 01:13:55,771
+- ¿Estás segura de eso?
+- ¡Calla!
+
+1084
+01:13:55,804 --> 01:13:57,444
+Esta noche estos asientos
+estarán llenos.
+
+1085
+01:13:58,231 --> 01:14:01,866
+¡París me mirará a mí,
+me adorará a mí!
+
+1086
+01:14:02,206 --> 01:14:04,809
+- O no.
+- ¡Ya te lo dije!
+
+1087
+01:14:04,823 --> 01:14:08,738
+No eres nadie.
+¡Siempre serás nada!
+
+1088
+01:14:10,298 --> 01:14:12,659
+Sólo hay una forma
+de averiguarlo.
+
+1089
+01:14:12,692 --> 01:14:14,860
+Aquí y ahora mismo.
+
+1090
+01:14:17,998 --> 01:14:20,682
+<i># Es hora de que lo tome
+
+1091
+01:14:20,715 --> 01:14:22,411
+<i># Soy la jefa
+ahora mismo...
+
+1092
+01:14:22,444 --> 01:14:26,270
+<i># No vas a fingir
+No cuando hayas caído
+
+1093
+01:14:26,303 --> 01:14:27,842
+<i># Porque este es mi juego
+
+1094
+01:14:27,948 --> 01:14:31,266
+<i># Y es mejor
+que vengas a jugar
+
+1095
+01:14:33,173 --> 01:14:35,222
+<i># Solía mantener
+mi rareza a tope
+
+1096
+01:14:35,315 --> 01:14:37,827
+<i># Ahora estoy dejándome ir,
+hago mi propia elección... #
+
+1097
+01:14:37,898 --> 01:14:39,061
+¡Ay, Dios mío!
+
+1098
+01:14:39,336 --> 01:14:40,636
+¡Batalla!
+
+1099
+01:14:40,715 --> 01:14:42,585
+<i># Así que,
+deja las luces encendidas
+
+1100
+01:14:42,618 --> 01:14:45,955
+<i># No,
+no puedes hacerme comportar
+
+1101
+01:14:49,763 --> 01:14:53,493
+<i># Así que dices
+que soy complicada
+
+1102
+01:14:53,573 --> 01:14:56,981
+<i># Que debo estar loca
+
+1103
+01:14:57,114 --> 01:15:00,878
+<i># Pero me has subestimado
+
+1104
+01:15:00,911 --> 01:15:02,860
+<i># Estimado, estimado
+
+1105
+01:15:03,965 --> 01:15:05,796
+<i># ¿Qué tiene de malo ser...
+
+1106
+01:15:05,906 --> 01:15:07,563
+<i># ¿Qué tiene de malo ser...
+
+1107
+01:15:07,623 --> 01:15:10,593
+<i># ¿Qué tiene de
+malo ser segura?
+
+1108
+01:15:11,235 --> 01:15:13,075
+<i># ¿Qué tiene de malo ser...
+
+1109
+01:15:13,265 --> 01:15:16,215
+<i># ¿Qué tiene de
+malo ser segura? #
+
+1110
+01:15:22,973 --> 01:15:24,464
+¡Puedes hacerlo!
+
+1111
+01:16:26,548 --> 01:16:28,428
+Impresionante, señoritas.
+
+1112
+01:16:28,461 --> 01:16:32,243
+Pero déjenme hacerles a ambas,
+una pregunta importante.
+
+1113
+01:16:33,223 --> 01:16:35,556
+¿Por qué bailan?
+
+1114
+01:16:36,189 --> 01:16:37,860
+Bailo porque...
+
+1115
+01:16:38,490 --> 01:16:42,234
+Bailo porque... Porque...
+
+1116
+01:16:43,456 --> 01:16:45,352
+...mi madre me obliga.
+
+1117
+01:16:48,865 --> 01:16:51,244
+Porque siempre ha
+sido una parte de mi vida.
+
+1118
+01:16:51,898 --> 01:16:54,421
+Estaba allí con mi mamá,
+cuando yo era una bebé,
+
+1119
+01:16:54,754 --> 01:16:56,916
+y ahora está aquí,
+gracias a Odette.
+
+1120
+01:16:58,523 --> 01:17:02,026
+Me permite vivir,
+ser yo misma.
+
+1121
+01:17:03,573 --> 01:17:05,430
+Ella debería bailar.
+
+1122
+01:17:06,898 --> 01:17:10,478
+Eso fue muy honesto,
+señorita Le Haut, y valiente.
+
+1123
+01:17:10,523 --> 01:17:13,189
+Tienes un futuro en la
+Ópera, si así lo quieres.
+
+1124
+01:17:14,098 --> 01:17:18,958
+Felicie, esta noche,
+tú bailarás El Cascanueces.
+
+1125
+01:17:22,112 --> 01:17:23,418
+Gran trabajo.
+
+1126
+01:17:28,773 --> 01:17:31,213
+¡Bien hecho, lindas!
+
+1127
+01:17:31,481 --> 01:17:34,448
+De acuerdo.
+Bravo, bravo.
+
+1128
+01:17:35,081 --> 01:17:37,794
+- ¡Bravo!
+- ¡Sí! ¡Sí!
+
+1129
+01:17:45,898 --> 01:17:47,256
+¡Voilà!
+
+1130
+01:17:47,381 --> 01:17:51,817
+- ¡Las llamo "Alas de Pichón"!
+- ¡Excelente!
+
+1131
+01:17:51,950 --> 01:17:54,319
+Pero, no estoy
+seguro de querer probarlas.
+
+1132
+01:17:54,352 --> 01:17:56,358
+¡Vive peligrosamente,
+Matty!
+
+1133
+01:17:56,373 --> 01:18:00,016
+Te prometo que casi
+seguramente funcionarán.
+
+1134
+01:18:03,246 --> 01:18:04,539
+¡Qué lindo!
+
+1135
+01:18:04,573 --> 01:18:06,626
+Matty, ¿puedes
+darnos algo de privacidad?
+
+1136
+01:18:06,690 --> 01:18:09,213
+- ¿Cuando?
+- ¡Matty, privacidad!
+
+1137
+01:18:10,327 --> 01:18:12,253
+Ahora. ¡De acuerdo!
+
+1138
+01:18:16,398 --> 01:18:18,229
+Bailaré
+esta noche en la Ópera.
+
+1139
+01:18:18,843 --> 01:18:21,548
+- Quiero que tú estés allí.
+- ¿De verdad?
+
+1140
+01:18:21,881 --> 01:18:22,988
+De verdad.
+
+1141
+01:18:26,073 --> 01:18:28,210
+Me gustas, Felicie.
+
+1142
+01:18:28,690 --> 01:18:32,583
+Me haces reír y
+llorar al mismo tiempo.
+
+1143
+01:18:34,724 --> 01:18:36,137
+¡Eres tan raro!
+
+1144
+01:18:38,465 --> 01:18:40,080
+No puedes ayudarlo.
+
+1145
+01:18:41,906 --> 01:18:43,585
+Primero engañas a mi hija.
+
+1146
+01:18:43,815 --> 01:18:46,587
+- ¡Entonces, tomas su identidad!
+- ¡Mamá, detente!
+
+1147
+01:18:46,631 --> 01:18:50,513
+¿Ahora, intentas tomar nuestro
+honor y nuestro futuro?
+
+1148
+01:18:50,846 --> 01:18:51,748
+¡Madre!
+
+1149
+01:18:51,781 --> 01:18:54,648
+¿Crees que puedes volver
+a mi hija en contra mía...
+
+1150
+01:18:55,674 --> 01:18:56,806
+...y salirte con la tuya?
+
+1151
+01:18:57,525 --> 01:18:59,756
+¡Nadie me engaña!
+
+1152
+01:18:59,823 --> 01:19:03,309
+¡Madre! ¡La asustas!
+¡Detente!
+
+1153
+01:19:07,165 --> 01:19:10,432
+La última vez que llego
+tan tarde, no terminó bien.
+
+1154
+01:19:42,202 --> 01:19:45,278
+Oye, es Matty...
+
+1155
+01:19:45,411 --> 01:19:47,359
+...¡y su hermana gemela!
+
+1156
+01:19:47,798 --> 01:19:48,956
+¿Qué pasó?
+
+1157
+01:19:48,998 --> 01:19:51,363
+Hay una señora enorme
+y atemorizante...
+
+1158
+01:19:51,496 --> 01:19:54,127
+...persiguiendo a tu chica por
+la estatua, tratando de matarla.
+
+1159
+01:19:54,160 --> 01:19:57,821
+- ¿Qué?
+- Y, también, me oriné.
+
+1160
+01:20:00,123 --> 01:20:01,815
+¡Vamos! ¡Rápido!
+¡Sálvala!
+
+1161
+01:20:01,848 --> 01:20:03,950
+¡Matty, las Alas de Pichón!
+
+1162
+01:20:35,298 --> 01:20:39,401
+Esta es la única corona
+que tocarás hoy,
+
+1163
+01:20:39,634 --> 01:20:43,742
+víctima de un terrible accidente,
+en la noche de tu debut.
+
+1164
+01:20:44,075 --> 01:20:46,338
+Tendrás algo que compartir
+con Odette.
+
+1165
+01:20:46,571 --> 01:20:49,708
+Ambas solían
+ser bailarinas.
+
+1166
+01:20:49,741 --> 01:20:51,265
+¡Felicie!
+
+1167
+01:20:51,423 --> 01:20:53,191
+¡Déjala ir!
+
+1168
+01:20:55,273 --> 01:20:56,269
+¡De acuerdo!
+
+1169
+01:21:14,374 --> 01:21:15,864
+¡Felicie!
+
+1170
+01:21:17,437 --> 01:21:18,848
+¡No!
+
+1171
+01:21:41,206 --> 01:21:43,428
+¡No!
+
+1172
+01:21:44,648 --> 01:21:48,133
+Felicie, no te preocupes.
+¡Llegaremos a tiempo!
+
+1173
+01:21:48,166 --> 01:21:50,461
+¡Más alto! ¡Sí!
+
+1174
+01:21:51,923 --> 01:21:56,654
+¡Llegaremos a tiempo!
+
+1175
+01:21:59,706 --> 01:22:02,429
+En la versión tres, podría
+ser una buena idea...
+
+1176
+01:22:02,490 --> 01:22:03,852
+...trabajar en
+unos frenos.
+
+1177
+01:22:05,015 --> 01:22:06,054
+¿No puedes sólo decir...
+
+1178
+01:22:06,056 --> 01:22:08,607
+...que he
+inventado algo y funcionó?
+
+1179
+01:22:08,640 --> 01:22:11,183
+- Puedo.
+- ¡Entonces, dilo!
+
+1180
+01:22:12,015 --> 01:22:14,496
+Victor François Xavier
+el Primero,
+
+1181
+01:22:14,529 --> 01:22:17,051
+eres un gran inventor.
+
+1182
+01:22:17,284 --> 01:22:18,427
+Gracias.
+
+1183
+01:22:24,898 --> 01:22:26,163
+Estás lista.
+
+1184
+01:22:28,023 --> 01:22:31,257
+Entonces baila,
+que salga desde aquí.
+
+1185
+01:22:33,681 --> 01:22:34,959
+Tú ganaste la apuesta.
+
+1186
+01:22:35,681 --> 01:22:37,597
+Hiciste realidad tu sueño.
+
+1187
+01:22:55,667 --> 01:22:57,658
+<i># Tuve un sueño, ¿fue real?
+
+1188
+01:22:57,791 --> 01:22:59,517
+<i># Cruzamos
+la línea y fue...
+
+1189
+01:22:59,550 --> 01:23:01,621
+<i># No puedo
+hacer que se detenga
+
+1190
+01:23:01,654 --> 01:23:03,582
+<i># Dame todo
+lo que tienes... #
+
+1191
+01:23:03,965 --> 01:23:05,844
+Dejemos a París en llamas.
+
+1192
+01:23:05,915 --> 01:23:09,851
+<i># Quiero ir todo el camino
+Llévame a la emoción...
+
+1193
+01:23:10,094 --> 01:23:13,992
+<i># Quiero ir todo el camino
+Muéstrame la devoción
+
+1194
+01:23:14,425 --> 01:23:15,777
+<i># Y llévame todo el camino,
+todo el camino
+
+1195
+01:23:15,786 --> 01:23:19,859
+<i># Llévame, llévame,
+llévame todo el camino
+
+1196
+01:23:20,565 --> 01:23:22,802
+<i># Quiero cortar
+a través de las nubes
+
+1197
+01:23:22,806 --> 01:23:24,849
+<i># Romper el techo
+
+1198
+01:23:24,906 --> 01:23:29,028
+<i># Quiero bailar en
+el tejado, tú y yo solos
+
+1199
+01:23:29,161 --> 01:23:31,651
+<i># Quiero cortar
+la sensación
+
+1200
+01:23:31,840 --> 01:23:33,065
+<i># Sí...
+
+1201
+01:23:33,099 --> 01:23:35,791
+<i># Quiero cortar
+la sensación #
+
+1202
+01:23:35,873 --> 01:23:39,301
+Esa sí que es mi novia.
+
+1203
+01:23:39,434 --> 01:23:41,533
+<i># Juega con los ángeles
+
+1204
+01:23:41,666 --> 01:23:50,648
+<i># Quiero cortar
+la sensación
+
+1205
+01:23:54,048 --> 01:23:58,090
+<i># Quiero cortar a través de
+las nubes, romper el techo
+
+1206
+01:23:58,223 --> 01:24:02,389
+<i># Quiero bailar en
+el tejado, tú y yo solos
+
+1207
+01:24:02,522 --> 01:24:04,934
+<i># Quiero cortar
+la sensación
+
+1208
+01:24:05,167 --> 01:24:06,482
+<i># Sí
+
+1209
+01:24:06,615 --> 01:24:08,960
+<i># Quiero cortar
+la sensación
+
+1210
+01:24:09,193 --> 01:24:10,573
+<i># Sí
+
+1211
+01:24:10,706 --> 01:24:12,625
+<i># Quiero jugar donde juegas
+
+1212
+01:24:12,758 --> 01:24:14,894
+<i># Con los ángeles
+
+1213
+01:24:14,927 --> 01:24:17,009
+<i># Quiero despertar contigo
+
+1214
+01:24:17,042 --> 01:24:18,967
+<i># Todos enredados,
+
+1215
+01:24:19,100 --> 01:24:21,707
+<i># Quiero cortar
+la sensación
+
+1216
+01:24:21,940 --> 01:24:23,394
+<i># Sí
+
+1217
+01:24:23,540 --> 01:24:25,842
+<i># Quiero cortar
+la sensación
+
+1218
+01:24:26,006 --> 01:24:27,495
+<i># Sí
+
+1219
+01:24:27,606 --> 01:24:28,715
+<i># Oye,
+
+1220
+01:24:31,087 --> 01:24:33,127
+<i># Llévame a la emoción
+
+1221
+01:24:33,481 --> 01:24:35,669
+<i># Quiero ir todo el camino
+
+1222
+01:24:35,702 --> 01:24:37,218
+<i># Muéstrame la devoción
+
+1223
+01:24:37,748 --> 01:24:39,641
+<i># Y llévame todo el camino
+
+1224
+01:24:39,674 --> 01:24:41,542
+<i># Llévame a la emoción
+
+1225
+01:24:41,940 --> 01:24:43,843
+<i># Quiero ir todo el camino
+
+1226
+01:24:43,876 --> 01:24:45,668
+<i># Muéstrame la devoción
+
+1227
+01:24:46,106 --> 01:24:48,618
+<i># Y llévame todo el camino,
+todo el camino
+
+1228
+01:24:48,651 --> 01:24:51,200
+<i># Llévame,
+llévame todo el camino
+
+1229
+01:24:52,481 --> 01:24:56,453
+<i># Quiero cortar a través de
+las nubes, romper el techo.
+
+1230
+01:24:56,586 --> 01:24:58,708
+<i># Quiero bailar
+en el tejado
+
+1231
+01:24:58,841 --> 01:25:00,861
+<i># Tú y yo solos
+
+1232
+01:25:00,894 --> 01:25:03,357
+<i># Quiero cortar
+la sensación
+
+1233
+01:25:03,670 --> 01:25:04,809
+<i># Sí
+
+1234
+01:25:05,006 --> 01:25:07,391
+<i># Quiero cortar
+la sensación
+
+1235
+01:25:08,055 --> 01:25:09,122
+<i># Sí
+
+1236
+01:25:09,155 --> 01:25:13,337
+<i># Quiero jugar donde
+juegas, con los ángeles
+
+1237
+01:25:13,370 --> 01:25:17,498
+<i># Quiero despertar
+contigo enredados
+
+1238
+01:25:17,531 --> 01:25:20,143
+<i># Quiero cortar
+la sensación
+
+1239
+01:25:20,276 --> 01:25:21,706
+<i># Sí
+
+1240
+01:25:21,739 --> 01:25:24,172
+<i># Quiero cortar
+la sensación
+
+1241
+01:25:24,523 --> 01:25:25,826
+<i># Sí
+
+1242
+01:25:25,859 --> 01:25:27,873
+<i># Quiero cortar
+a través de las nubes
+
+1243
+01:25:28,733 --> 01:25:30,294
+<i># Cortar la sensación
+
+1244
+01:25:30,327 --> 01:25:32,212
+<i># Quiero bailar
+en el tejado
+
+1245
+01:25:34,148 --> 01:25:38,557
+<i># Quiero cortar
+la sensación
+
+1246
+01:25:38,673 --> 01:25:40,628
+<i># Quiero cortar
+la sensación
+
+1247
+01:25:40,698 --> 01:25:43,348
+<i># Quiero cortar
+la sensación #
+
+1248
+01:25:44,873 --> 01:26:40,430
+<i>Ballerina (2016)
+Una traducción de
+TaMaBin
+
+1249
+01:26:50,898 --> 01:26:54,833
+<i># Estaba en nuestra vieja
+escuela, sentada al sol
+
+1250
+01:26:55,166 --> 01:26:58,132
+<i># Esperando a los
+trenes que pasaran
+
+1251
+01:26:58,165 --> 01:27:01,388
+<i># Deseando que estuvieras aquí
+y deseando poder correr
+
+1252
+01:27:02,298 --> 01:27:04,847
+<i># Deseando poder huir
+
+1253
+01:27:04,980 --> 01:27:08,400
+<i># Justo al otro lado de un río
+en un pueblo tan pequeño
+
+1254
+01:27:08,533 --> 01:27:11,807
+<i># Las hojas nos van a cambiar
+cuando comiencen a caer
+
+1255
+01:27:12,006 --> 01:27:15,352
+<i># Llévanos a la ciudad
+donde lo tendremos todo
+
+1256
+01:27:15,385 --> 01:27:17,278
+<i># Lo tendremos todo
+
+1257
+01:27:18,902 --> 01:27:23,167
+<i># Si,
+yo huiría contigo ahora
+
+1258
+01:27:23,200 --> 01:27:27,292
+<i># Podríamos hacer las cosas que
+prometimos que siempre haríamos
+
+1259
+01:27:27,425 --> 01:27:30,028
+<i># Tomar un tren a Tombuctú
+
+1260
+01:27:30,161 --> 01:27:31,879
+<i># Podríamos
+unirnos al circo
+
+1261
+01:27:31,890 --> 01:27:37,090
+<i># Sí, ¿simplemente
+escaparías conmigo ahora?
+
+1262
+01:27:37,123 --> 01:27:39,835
+<i># Podríamos hacer
+las cosas que prometimos
+
+1263
+01:27:39,868 --> 01:27:41,244
+<i># Soñando despiertos
+
+1264
+01:27:41,623 --> 01:27:43,989
+<i># Llévame de nuevo al ayer
+
+1265
+01:27:44,122 --> 01:27:50,337
+<i># Podríamos
+ser los fugitivos
+
+1266
+01:27:50,670 --> 01:27:53,937
+<i># Podríamos
+ser los fugitivos
+
+1267
+01:27:57,940 --> 01:28:01,682
+<i># Sí, podríamos
+ser los fugitivos #
+
