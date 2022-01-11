@@ -67,11 +67,35 @@
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Canal Caracol</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png</vtml-itemcover>
+		<vtml-itemurl>https://tna5.bozztv.com/LiveCH05/index.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+		<vtml-referer>https://ssh101.com/</vtml-referer>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Canal Caracol HD2</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png</vtml-itemcover>
+		<vtml-itemurl>https://tna5.bozztv.com/LiveCH08/index.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+		<vtml-referer>https://ssh101.com/</vtml-referer>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Canal Institucional TV</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg</vtml-itemcover>
 		<vtml-itemurl>https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Canal RCN</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRCN.png</vtml-itemcover>
+		<vtml-itemurl>https://tna5.bozztv.com/LiveCH04/index.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+		<vtml-referer>https://ssh101.com/</vtml-referer>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Señal Colombia</vtml-itemname>    
