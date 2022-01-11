@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vtml-list>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E1 - El Comisario</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E1.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Mandaloriano va al Borde Exterior en búsqueda de otros como él.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E2 - La Pasajera</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E2.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Mandaloriano debe llevar a una pasajera con una valiosa carga en un arriesgado viaje.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E3 - La Heredera</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E3.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Mandaloriano se aventura en alta mar y se encuentra con aliados inesperados.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E4 - El Asedio</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E4.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Mandaloriano se reúne con antiguos aliados para una nueva misión.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E5 - La Jedi</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E5.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Mandaloriano viaja a un mundo gobernado por una cruel magistrada quien tiene una poderosa enemiga.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E6 - La Tragedia</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E6.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Mandaloriano y el Niño viajan a un lugar antiguo.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E7 - El Creyente</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E7.mp4</vtml-itemurl>
+		<vtml-itemdescription>Para avanzar contra el Imperio, el Mandaloriano necesita la ayuda de un viejo enemigo.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>T2 E8 - El Rescate</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/episodes/The_Mandalorian_Serie_de_TV-526462730-large.jpg</vtml-itemcover>
+		<vtml-itemurl>https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E8.mp4</vtml-itemurl>
+		<vtml-itemdescription>El Mandaloriano y sus aliados intentan un peligroso rescate.</vtml-itemdescription>
+		<vtml-itemcategory>Temporada 2</vtml-itemcategory>
+	</vtml-mediaitem>
+</vtml-list>
