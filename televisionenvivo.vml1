@@ -67,6 +67,13 @@
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
+		<vtml-itemname>Canal Institucional TV</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg</vtml-itemcover>
+		<vtml-itemurl>https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
 		<vtml-itemname>Señal Colombia</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png</vtml-itemcover>
 		<vtml-itemurl>https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8</vtml-itemurl>
@@ -75,7 +82,7 @@
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>TDI Colombia</vtml-itemname>    
-		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.png</vtml-itemcover>
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg</vtml-itemcover>
 		<vtml-itemurl>https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
