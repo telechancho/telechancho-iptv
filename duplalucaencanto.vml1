@@ -2,7 +2,7 @@
 <vtml-list>
 	<vtml-mediaitem>
 		<vtml-itemname>Encanto</vtml-itemname>    
-		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/movies243174229_4489065134465211_309276336895983244_n.jpg</vtml-itemcover>
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/movies/243174229_4489065134465211_309276336895983244_n.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Encanto.mp4</vtml-itemurl>
 		<vtml-itemdescription>Una joven colombiana puede ser la última esperanza para su familia, cuando descubre que la magia que rodea a Encanto, un lugar encantado que bendice a los niños con dones únicos, se encuentra en serio peligro.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
@@ -14,7 +14,7 @@
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Luca</vtml-itemname>    
-		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/moviesLucaDisneyPlus.jpg</vtml-itemcover>
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/covers/movies/LucaDisneyPlus.jpg</vtml-itemcover>
 		<vtml-itemurl>https://archive.org/download/videotime-cine-latino/Luca.mp4</vtml-itemurl>
 		<vtml-itemdescription>Luca es un monstruo marino que vive debajo de un pueblo de la costa italiana. Cuando sale a la superficie, adquiere una apariencia humana, y conoce a un nuevo amigo, igual que él. Juntos emprenden una aventura entre humanos que odian a los monstruos.</vtml-itemdescription>
 		<vtml-itemcategory>Animacion</vtml-itemcategory>
