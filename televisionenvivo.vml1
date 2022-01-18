@@ -6,6 +6,7 @@
 		<vtml-itemurl>https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Alemania</vtml-itemcategory>
+		<vtml-country>DE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>America (SD)</vtml-itemname>    
@@ -15,6 +16,7 @@
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>America (HD)</vtml-itemname>    
@@ -24,6 +26,7 @@
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal de la Ciudad (SD)</vtml-itemname>    
@@ -33,6 +36,7 @@
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal de la Ciudad (HD)</vtml-itemname>    
@@ -42,6 +46,7 @@
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>El Trece</vtml-itemname>    
@@ -49,6 +54,7 @@
 		<vtml-itemurl>https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
+		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Telemax</vtml-itemname>    
@@ -56,6 +62,7 @@
 		<vtml-itemurl>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
+		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>TV Publica</vtml-itemname>    
@@ -65,6 +72,7 @@
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
 		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal Caracol</vtml-itemname>    
@@ -73,6 +81,7 @@
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
 		<vtml-referer>https://ssh101.com/</vtml-referer>
+		<vtml-country>CO</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal Caracol HD2</vtml-itemname>    
@@ -81,6 +90,7 @@
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
 		<vtml-referer>https://ssh101.com/</vtml-referer>
+		<vtml-country>CO</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Canal Institucional TV</vtml-itemname>    
@@ -96,6 +106,7 @@
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
 		<vtml-referer>https://ssh101.com/</vtml-referer>
+		<vtml-country>CO</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Señal Colombia</vtml-itemname>    
@@ -103,6 +114,7 @@
 		<vtml-itemurl>https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+		<vtml-country>CO</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>TDI Colombia</vtml-itemname>    
@@ -110,6 +122,7 @@
 		<vtml-itemurl>https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Colombia</vtml-itemcategory>
+		<vtml-country>CO</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>La 2</vtml-itemname>    
@@ -117,6 +130,7 @@
 		<vtml-itemurl>https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - España</vtml-itemcategory>
+		<vtml-country>ES</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>ATV</vtml-itemname>    
@@ -124,6 +138,7 @@
 		<vtml-itemurl>https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Peru</vtml-itemcategory>
+		<vtml-country>PE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>TVPeru</vtml-itemname>    
@@ -131,6 +146,7 @@
 		<vtml-itemurl>https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Peru</vtml-itemcategory>
+		<vtml-country>PE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>TVPeru Internacional</vtml-itemname>    
@@ -145,6 +161,7 @@
 		<vtml-itemurl>https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Rusia</vtml-itemcategory>
+		<vtml-country>RU</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Telesur (Stream 1 SD)</vtml-itemname>    
@@ -152,6 +169,7 @@
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Venezuela</vtml-itemcategory>
+		<vtml-country>VE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Telesur (Stream 2 SD)</vtml-itemname>    
@@ -159,6 +177,7 @@
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Venezuela</vtml-itemcategory>
+		<vtml-country>VE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Telesur (Stream 1 HD)</vtml-itemname>    
@@ -166,6 +185,7 @@
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Venezuela</vtml-itemcategory>
+		<vtml-country>VE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>Telesur (Stream 2 HD)</vtml-itemname>    
@@ -173,6 +193,7 @@
 		<vtml-itemurl>https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Venezuela</vtml-itemcategory>
+		<vtml-country>VE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
 		<vtml-itemname>A24</vtml-itemname>    
