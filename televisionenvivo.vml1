@@ -32,7 +32,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>Canal de la Ciudad (SD)</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png</vtml-itemcover>
-		<vtml-itemurl>https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://g2.proy-slo.transport.edge-access.net/b08/ngrp:gcba_video4-100042_all/gcba_video4-100042_360p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
@@ -42,7 +42,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>Canal de la Ciudad (HD)</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png</vtml-itemcover>
-		<vtml-itemurl>https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://g2.proy-slo.transport.edge-access.net/b08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
@@ -66,7 +66,17 @@
 		<vtml-country>AR</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemname>TV Publica</vtml-itemname>    
+		<vtml-itemname>TV Publica (SD)</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png</vtml-itemcover>
+		<vtml-itemurl>https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Generales - Argentina</vtml-itemcategory>
+		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
+		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+		<vtml-country>AR</vtml-country>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>TV Publica (HD)</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png</vtml-itemcover>
 		<vtml-itemurl>https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
@@ -197,7 +207,15 @@
 		<vtml-country>VE</vtml-country>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemname>A24</vtml-itemname>    
+		<vtml-itemname>A24 (SD)</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png</vtml-itemcover>
+		<vtml-itemurl>https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Noticias - Argentina</vtml-itemcategory>
+		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>A24 (HD)</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png</vtml-itemcover>
 		<vtml-itemurl>https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
@@ -212,7 +230,16 @@
 		<vtml-itemcategory>Noticias - Argentina</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemname>Cronica HD</vtml-itemname>    
+		<vtml-itemname>Cronica HD (SD)</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png</vtml-itemcover>
+		<vtml-itemurl>https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p/index.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Noticias - Argentina</vtml-itemcategory>
+		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
+		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Cronica HD (HD)</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png</vtml-itemcover>
 		<vtml-itemurl>https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
@@ -300,7 +327,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>Tec TV (SD)</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png</vtml-itemcover>
-		<vtml-itemurl>https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_540p.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_360p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Cultura - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
@@ -374,9 +401,18 @@
 		<vtml-itemcategory>Musica - Argentina</vtml-itemcategory>
 	</vtml-mediaitem>
 	<vtml-mediaitem>
-		<vtml-itemname>Vorterix</vtml-itemname>    
+		<vtml-itemname>Vorterix (SD)</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg</vtml-itemcover>
-		<vtml-itemurl>https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8</vtml-itemurl>
+		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
+		<vtml-itemcategory>Musica - Argentina</vtml-itemcategory>
+		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
+		<vtml-referer>https://vmf.edge-apps.net</vtml-referer>
+	</vtml-mediaitem>
+	<vtml-mediaitem>
+		<vtml-itemname>Vorterix (HD)</vtml-itemname>    
+		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg</vtml-itemcover>
+		<vtml-itemurl>https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Musica - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
@@ -429,7 +465,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>KZO</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/KZO.png</vtml-itemcover>
-		<vtml-itemurl>http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8</vtml-itemurl>
+		<vtml-itemurl>http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Variedades - Argentina</vtml-itemcategory>
 		<vtml-useragent>Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36</vtml-useragent>
