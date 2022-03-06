@@ -186,7 +186,7 @@
 	<vtml-mediaitem>
 		<vtml-itemname>RT en Español</vtml-itemname>    
 		<vtml-itemcover>https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png</vtml-itemcover>
-		<vtml-itemurlhttps://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8</vtml-itemurl>
+		<vtml-itemurl>https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8</vtml-itemurl>
 		<vtml-itemdescription>Canal de TV</vtml-itemdescription>
 		<vtml-itemcategory>Generales - Rusia</vtml-itemcategory>
 		<vtml-country>RU</vtml-country>
