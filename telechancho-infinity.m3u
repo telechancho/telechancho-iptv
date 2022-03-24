@@ -1,245 +1,245 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-name="DW en Español" group-title="Generales - Alemania",DW en Español
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-country="DE" tvg-language="Spanish" tvg-name="DW en Español" group-title="Generales - Alemania",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-name="America (540p)" group-title="Generales - Argentina",America (540p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" tvg-name="America (540p)" group-title="Generales - Argentina",America (540p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-name="America (720p)" group-title="Generales - Argentina",America (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" tvg-name="America (720p)" group-title="Generales - Argentina",America (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-name="Canal de la Ciudad (360p)" group-title="Generales - Argentina",Canal de la Ciudad (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal de la Ciudad (360p)" group-title="Generales - Argentina",Canal de la Ciudad (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g2.proy-slo.transport.edge-access.net/b08/ngrp:gcba_video4-100042_all/gcba_video4-100042_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-name="Canal de la Ciudad (720p)" group-title="Generales - Argentina",Canal de la Ciudad (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal de la Ciudad (720p)" group-title="Generales - Argentina",Canal de la Ciudad (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g2.proy-slo.transport.edge-access.net/b08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-name="El Trece" group-title="Generales - Argentina",El Trece
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" tvg-name="El Trece" group-title="Generales - Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-name="Telemax" group-title="Generales - Argentina",Telemax
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telemax" group-title="Generales - Argentina",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-name="TV Publica (360p)" group-title="Generales - Argentina",TV Publica (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Publica (360p)" group-title="Generales - Argentina",TV Publica (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-name="TV Publica (720p)" group-title="Generales - Argentina",TV Publica (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Publica (720p)" group-title="Generales - Argentina",TV Publica (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-name="Canal Caracol" group-title="Generales - Colombia",Canal Caracol
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Caracol" group-title="Generales - Colombia",Canal Caracol
 #EXTVLCOPT:http-referrer=https://ssh101.com
 https://tna5.bozztv.com/LiveCH005/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-name="Canal Caracol HD2" group-title="Generales - Colombia",Canal Caracol HD2
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Caracol HD2" group-title="Generales - Colombia",Canal Caracol HD2
 #EXTVLCOPT:http-referrer=https://ssh101.com
 https://tna5.bozztv.com/LiveCH008/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-name="Canal Institucional TV" group-title="Generales - Colombia",Canal Institucional TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Institucional TV" group-title="Generales - Colombia",Canal Institucional TV
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRCN.png" tvg-name="Canal RCN" group-title="Generales - Colombia",Canal RCN
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRCN.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal RCN" group-title="Generales - Colombia",Canal RCN
 #EXTVLCOPT:http-referrer=https://ssh101.com
 https://tna5.bozztv.com/LiveCH004/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png" tvg-name="Señal Colombia" group-title="Generales - Colombia",Señal Colombia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Señal Colombia" group-title="Generales - Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg" tvg-name="TDI Colombia" group-title="Generales - Colombia",TDI Colombia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg" tvg-country="CO" tvg-language="Spanish" tvg-name="TDI Colombia" group-title="Generales - Colombia",TDI Colombia
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE2.png" tvg-name="La 2" group-title="Generales - España",La 2
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE2.png" tvg-country="ES" tvg-language="Spanish" tvg-name="La 2" group-title="Generales - España",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ATV.jpg" tvg-name="ATV" group-title="Generales - Peru",ATV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ATV.jpg" tvg-country="PE" tvg-language="Spanish" tvg-name="ATV" group-title="Generales - Peru",ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-name="TVPeru" group-title="Generales - Peru",TVPeru
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-country="PE" tvg-language="Spanish" tvg-name="TVPeru" group-title="Generales - Peru",TVPeru
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-name="TVPeru Internacional" group-title="Generales - Peru",TVPeru Internacional
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-country="PE" tvg-language="Spanish" tvg-name="TVPeru Internacional" group-title="Generales - Peru",TVPeru Internacional
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-name="RT en Español" group-title="Generales - Rusia",RT en Español
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="Spanish" tvg-name="RT en Español" group-title="Generales - Rusia",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-name="Telesur (Stream 1 480p)" group-title="Generales - Venezuela",Telesur (Stream 1 480p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 1 480p)" group-title="Generales - Venezuela",Telesur (Stream 1 480p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-name="Telesur (Stream 2 480p)" group-title="Generales - Venezuela",Telesur (Stream 2 480p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 2 480p)" group-title="Generales - Venezuela",Telesur (Stream 2 480p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-name="Telesur (Stream 1 720p)" group-title="Generales - Venezuela",Telesur (Stream 1 720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 1 720p)" group-title="Generales - Venezuela",Telesur (Stream 1 720p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-name="Telesur (Stream 2 720p)" group-title="Generales - Venezuela",Telesur (Stream 2 720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 2 720p)" group-title="Generales - Venezuela",Telesur (Stream 2 720p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-name="A24 (360p)" group-title="Noticias - Argentina",A24 (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="A24 (360p)" group-title="Noticias - Argentina",A24 (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-name="A24 (720p)" group-title="Noticias - Argentina",A24 (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="A24 (720p)" group-title="Noticias - Argentina",A24 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal26.png" tvg-name="Canal 26" group-title="Noticias - Argentina",Canal 26
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal26.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 26" group-title="Noticias - Argentina",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-name="Cronica HD (360p)" group-title="Noticias - Argentina",Cronica HD (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cronica HD (360p)" group-title="Noticias - Argentina",Cronica HD (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-name="Cronica HD (720p)" group-title="Noticias - Argentina",Cronica HD (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cronica HD (720p)" group-title="Noticias - Argentina",Cronica HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/IP.png" tvg-name="Informacion Periodistica" group-title="Noticias - Argentina",Informacion Periodistica
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/IP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Informacion Periodistica" group-title="Noticias - Argentina",Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Euronews.png" tvg-name="Euronews" group-title="Noticias - Europa",Euronews
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Euronews.png" tvg-country="FR" tvg-language="Spanish" tvg-name="Euronews" group-title="Noticias - Europa",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/France24ES.png" tvg-name="France 24 en Español" group-title="Noticias - Francia",France 24 en Español
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/France24ES.png" tvg-country="FR" tvg-language="Spanish" tvg-name="France 24 en Español" group-title="Noticias - Francia",France 24 en Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeruNoticias.png" tvg-name="TVPeru Noticias" group-title="Noticias - Peru",TVPeru Noticias
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeruNoticias.png" tvg-country="PE" tvg-language="Spanish" tvg-name="TVPeru Noticias" group-title="Noticias - Peru",TVPeru Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-name="Canal Rural" group-title="Agro - Argentina",Canal Rural
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal Rural" group-title="Agro - Argentina",Canal Rural
 https://cda2.streaming.ws/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElGarageTV.png" tvg-name="El Garage TV" group-title="Automovilismo - Latinoamerica",El Garage TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElGarageTV.png" tvg-country="HISPAM" tvg-language="Spanish" tvg-name="El Garage TV" group-title="Automovilismo - Latinoamerica",El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A3Cine.png" tvg-name="A3 Cine" group-title="Cine - España",A3 Cine
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A3Cine.png" tvg-country="ES" tvg-language="Spanish" tvg-name="A3 Cine" group-title="Cine - España",A3 Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CineAR.png" tvg-name="Cine.ar" group-title="Cine - Argentina",Cine.ar
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CineAR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cine.ar" group-title="Cine - Argentina",Cine.ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElGourmetTV.png" tvg-name="El Gourmet TV" group-title="Cocina - Latinoamerica",El Gourmet TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElGourmetTV.png" tvg-country="HISPAM" tvg-language="Spanish" tvg-name="El Gourmet TV" group-title="Cocina - Latinoamerica",El Gourmet TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Encuentro.png" tvg-name="Encuentro" group-title="Cultura - Argentina",Encuentro
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Encuentro.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Encuentro" group-title="Cultura - Argentina",Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Mirador.jpg" tvg-name="Mirador" group-title="Cultura - Argentina",Mirador
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Mirador.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Mirador" group-title="Cultura - Argentina",Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-name="Tec TV (360p)" group-title="Cultura - Argentina",Tec TV (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Tec TV (360p)" group-title="Cultura - Argentina",Tec TV (360p)
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-name="Tec TV (720p)" group-title="Cultura - Argentina",Tec TV (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Tec TV (720p)" group-title="Cultura - Argentina",Tec TV (720p)
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Deportv.png" tvg-name="Deportv" group-title="Deportes - Argentina",Deportv
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Deportv.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Deportv" group-title="Deportes - Argentina",Deportv
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TyCSports.png" tvg-name="TyC Sports" group-title="Deportes - Argentina",TyC Sports
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TyCSports.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TyC Sports" group-title="Deportes - Argentina",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PakaPaka.png" tvg-name="Paka Paka" group-title="Infantil - Argentina",Paka Paka
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PakaPaka.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Paka Paka" group-title="Infantil - Argentina",Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-name="Pequeradio TV" group-title="Infantil - España",Pequeradio TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" tvg-name="Pequeradio TV" group-title="Infantil - España",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" tvg-name="AN24" group-title="Musica - Argentina",AN24
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="AN24" group-title="Musica - Argentina",AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CM.png" tvg-name="CM (360p)" group-title="Musica - Argentina",CM (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CM.png" tvg-country="AR" tvg-language="Spanish" tvg-name="CM (360p)" group-title="Musica - Argentina",CM (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CM.png" tvg-name="CM (720p)" group-title="Musica - Argentina",CM (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CM.png" tvg-country="AR" tvg-language="Spanish" tvg-name="CM (720p)" group-title="Musica - Argentina",CM (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MusicTop.jpg" tvg-name="MusicTop" group-title="Musica - Argentina",MusicTop
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MusicTop.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="MusicTop" group-title="Musica - Argentina",MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TierramiaTV.jpg" tvg-name="Tierramia TV" group-title="Musica - Argentina",Tierramia TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TierramiaTV.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Tierramia TV" group-title="Musica - Argentina",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-name="Vorterix (360p)" group-title="Musica - Argentina",Vorterix (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Vorterix (360p)" group-title="Musica - Argentina",Vorterix (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-name="Vorterix (720p)" group-title="Musica - Argentina",Vorterix (720p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Vorterix (720p)" group-title="Musica - Argentina",Vorterix (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalLuz.png" tvg-name="canalLuz" group-title="Religion - Argentina",canalLuz
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalLuz.png" tvg-country="AR" tvg-language="Spanish" tvg-name="canalLuz" group-title="Religion - Argentina",canalLuz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Orbe21.jpg" tvg-name="Orbe 21" group-title="Religion - Argentina",Orbe 21
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Orbe21.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Orbe 21" group-title="Religion - Argentina",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SMTV.jpg" tvg-name="Santa Maria TV" group-title="Religion - Argentina",Santa Maria TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SMTV.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Santa Maria TV" group-title="Religion - Argentina",Santa Maria TV
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVManaARG.png" tvg-name="TV Mana Argentina" group-title="Religion - Argentina",TV Mana Argentina
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVManaARG.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Mana Argentina" group-title="Religion - Argentina",TV Mana Argentina
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-name="Argentinisima Satelital" group-title="Variedades - Argentina",Argentinisima Satelital
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Argentinisima Satelital" group-title="Variedades - Argentina",Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/HolaTV.png" tvg-name="Hola TV" group-title="Variedades - Latinoamerica",Hola TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/HolaTV.png" tvg-country="HISPAM" tvg-language="Spanish" tvg-name="Hola TV" group-title="Variedades - Latinoamerica",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/KZO.png" tvg-name="KZO" group-title="Variedades - Argentina",KZO
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/KZO.png" tvg-country="AR" tvg-language="Spanish" tvg-name="KZO" group-title="Variedades - Argentina",KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-name="Net TV (Stream 1)" group-title="Variedades - Argentina",Net TV (Stream 1)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Net TV (Stream 1)" group-title="Variedades - Argentina",Net TV (Stream 1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-name="Net TV (Stream 2)" group-title="Variedades - Argentina",Net TV (Stream 2)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Net TV (Stream 2)" group-title="Variedades - Argentina",Net TV (Stream 2)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-name="TVU La Plata" group-title="Variedades - Argentina",TVU La Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="TVU La Plata" group-title="Variedades - Argentina",TVU La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" tvg-name="5RTv" group-title="Locales - Argentina",5RTv
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" tvg-country="AR" tvg-language="Spanish" tvg-name="5RTv" group-title="Locales - Argentina",5RTv
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5TV.png" tvg-name="5TV" group-title="Locales - Argentina",5TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5TV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="5TV" group-title="Locales - Argentina",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Link.jpg" tvg-name="9Link Chaco" group-title="Locales - Argentina",9Link Chaco
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Link.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="9Link Chaco" group-title="Locales - Argentina",9Link Chaco
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AVC.png" tvg-name="AVC HD" group-title="Locales - Argentina",AVC HD
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AVC.png" tvg-country="AR" tvg-language="Spanish" tvg-name="AVC HD" group-title="Locales - Argentina",AVC HD
 #EXTVLCOPT:http-referrer=https://ssh101.com
 https://tna5.bozztv.com/AVCHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-name="Camaras de Villa Gesell (Av. 3 y 104)" group-title="Locales - Argentina",Camaras de Villa Gesell (Av. 3 y 104)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Av. 3 y 104)" group-title="Locales - Argentina",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-name="Camaras de Villa Gesell (Buenos Aires y Playa)" group-title="Locales - Argentina",Camaras de Villa Gesell (Buenos Aires y Playa)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Buenos Aires y Playa)" group-title="Locales - Argentina",Camaras de Villa Gesell (Buenos Aires y Playa)
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-name="Camaras de Villa Gesell (La Pinocha)" group-title="Locales - Argentina",Camaras de Villa Gesell (La Pinocha)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (La Pinocha)" group-title="Locales - Argentina",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-name="Canal 3 Pinamar (Stream 1)" group-title="Locales - Argentina",Canal 3 Pinamar (Stream 1)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 3 Pinamar (Stream 1)" group-title="Locales - Argentina",Canal 3 Pinamar (Stream 1)
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-name="Canal 3 Pinamar (Stream 2)" group-title="Locales - Argentina",Canal 3 Pinamar (Stream 2)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 3 Pinamar (Stream 2)" group-title="Locales - Argentina",Canal 3 Pinamar (Stream 2)
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/3Ros.png" tvg-name="Canal 3 Rosario" group-title="Locales - Argentina",Canal 3 Rosario
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/3Ros.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 3 Rosario" group-title="Locales - Argentina",Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-name="Canal 4 Jujuy (Stream 1)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 1)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Jujuy (Stream 1)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 1)
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-name="Canal 4 Jujuy (Stream 2)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 2)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Jujuy (Stream 2)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 2)
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-name="Canal 4 Teleaire San Martin" group-title="Locales - Argentina",Canal 4 Teleaire San Martin
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Teleaire San Martin" group-title="Locales - Argentina",Canal 4 Teleaire San Martin
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/6Moreno.png" tvg-name="Canal 6 Moreno" group-title="Locales - Argentina",Canal 6 Moreno
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/6Moreno.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 6 Moreno" group-title="Locales - Argentina",Canal 6 Moreno
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9ComR.png" tvg-name="Canal 9 Comodoro Rivadavia" group-title="Locales - Argentina",Canal 9 Comodoro Rivadavia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9ComR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Comodoro Rivadavia" group-title="Locales - Argentina",Canal 9 Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-name="Canal 9 Multivision" group-title="Locales - Argentina",Canal 9 Multivision
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Multivision" group-title="Locales - Argentina",Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9RioCuarto.jpg" tvg-name="Canal 9 Rio Cuarto" group-title="Locales - Argentina",Canal 9 Rio Cuarto
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9RioCuarto.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Rio Cuarto" group-title="Locales - Argentina",Canal 9 Rio Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" tvg-name="Canal 9 Televida" group-title="Locales - Argentina",Canal 9 Televida
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Televida" group-title="Locales - Argentina",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10CBA.png" tvg-name="Canal 10 Cordoba" group-title="Locales - Argentina",Canal 10 Cordoba
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10CBA.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Cordoba" group-title="Locales - Argentina",Canal 10 Cordoba
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-name="Canal 10 Mar del Plata" group-title="Locales - Argentina",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Mar del Plata" group-title="Locales - Argentina",Canal 10 Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-name="Canal 10 Rio Negro" group-title="Locales - Argentina",Canal 10 Rio Negro
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Rio Negro" group-title="Locales - Argentina",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/11LR.png" tvg-name="Canal 11 La Rioja" group-title="Locales - Argentina",Canal 11 La Rioja
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/11LR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 11 La Rioja" group-title="Locales - Argentina",Canal 11 La Rioja
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-name="Canal 12 Puerto Madryn" group-title="Locales - Argentina",Canal 12 Puerto Madryn
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 12 Puerto Madryn" group-title="Locales - Argentina",Canal 12 Puerto Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/13LR.png" tvg-name="Canal 13 La Rioja" group-title="Locales - Argentina",Canal 13 La Rioja
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/13LR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 13 La Rioja" group-title="Locales - Argentina",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Provincial.png" tvg-name="Canal Provincial" group-title="Locales - Argentina",Canal Provincial
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Provincial.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal Provincial" group-title="Locales - Argentina",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDC.png" tvg-name="Canal TDC" group-title="Locales - Argentina",Canal TDC
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDC.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal TDC" group-title="Locales - Argentina",Canal TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" tvg-name="Chacra TV" group-title="Locales - Argentina",Chacra TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Chacra TV" group-title="Locales - Argentina",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" tvg-name="Cinco TV" group-title="Locales - Argentina",Cinco TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cinco TV" group-title="Locales - Argentina",Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CiudadTVRes.png" tvg-name="Ciudad TV Resistencia" group-title="Locales - Argentina",Ciudad TV Resistencia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CiudadTVRes.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Ciudad TV Resistencia" group-title="Locales - Argentina",Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CrossingTV.png" tvg-name="Crossing TV" group-title="Locales - Argentina",Crossing TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CrossingTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Crossing TV" group-title="Locales - Argentina",Crossing TV
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElOnce.png" tvg-name="El Once" group-title="Locales - Argentina",El Once
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElOnce.png" tvg-country="AR" tvg-language="Spanish" tvg-name="El Once" group-title="Locales - Argentina",El Once
 https://elonceovh.elonce.com/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/GenTV.png" tvg-name="Gen TV" group-title="Locales - Argentina",Gen TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/GenTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Gen TV" group-title="Locales - Argentina",Gen TV
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MRioja.png" tvg-name="Medios Rioja" group-title="Locales - Argentina",Medios Rioja
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MRioja.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Medios Rioja" group-title="Locales - Argentina",Medios Rioja
 http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NeoxTVSalta.jpg" tvg-name="Neox TV Salta" group-title="Locales - Argentina",Neox TV Salta
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NeoxTVSalta.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Neox TV Salta" group-title="Locales - Argentina",Neox TV Salta
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PowerTV.png" tvg-name="Power TV" group-title="Locales - Argentina",Power TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PowerTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Power TV" group-title="Locales - Argentina",Power TV
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/QuatroTV.png" tvg-name="Quatro TV" group-title="Locales - Argentina",Quatro TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/QuatroTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Quatro TV" group-title="Locales - Argentina",Quatro TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-name="RTN (Stream 1)" group-title="Locales - Argentina",RTN (Stream 1)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" tvg-name="RTN (Stream 1)" group-title="Locales - Argentina",RTN (Stream 1)
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-name="RTN (Stream 2)" group-title="Locales - Argentina",RTN (Stream 2)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" tvg-name="RTN (Stream 2)" group-title="Locales - Argentina",RTN (Stream 2)
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelefeRosario.png" tvg-name="Telefe Rosario" group-title="Locales - Argentina",Telefe Rosario
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelefeRosario.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telefe Rosario" group-title="Locales - Argentina",Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telenord.png" tvg-name="Telenord Corrientes" group-title="Locales - Argentina",Telenord Corrientes
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telenord.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telenord Corrientes" group-title="Locales - Argentina",Telenord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-name="Telpin TV" group-title="Locales - Argentina",Telpin TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telpin TV" group-title="Locales - Argentina",Telpin TV
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito en la ciudad" group-title="Peliculas",Babe, el cerdito en la ciudad
 https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20en%20la%20ciudad.mp4
