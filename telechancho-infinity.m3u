@@ -241,9 +241,9 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telpin TV" group-title="Locales - Argentina",Telpin TV
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito en la ciudad" group-title="Peliculas",Babe, el cerdito en la ciudad
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito en la ciudad" group-title="Peliculas",Babe el cerdito en la ciudad
 https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20en%20la%20ciudad.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito valiente" group-title="Peliculas",Babe, el cerdito valiente
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito valiente" group-title="Peliculas",Babe el cerdito valiente
 https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20valiente.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Bailarina" group-title="Peliculas",Bailarina
 https://archive.org/download/videotime-cine-latino/Bailarina.mp4
@@ -377,7 +377,7 @@ https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%202.m
 https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%203.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Mickey-Mouse-logo.png" tvg-name="Mickey y sus amigos juntos otra Navidad" group-title="Peliculas",Mickey y sus amigos juntos otra Navidad
 https://archive.org/download/videotime-cine-latino/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Mickey-Mouse-logo.png" tvg-name="Mickey, Donald, Goofy: Los tres mosqueteros" group-title="Peliculas",Mickey, Donald, Goofy: Los tres mosqueteros
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Mickey-Mouse-logo.png" tvg-name="Mickey, Donald, Goofy: Los tres mosqueteros" group-title="Peliculas",Mickey Donald Goofy: Los tres mosqueteros
 https://archive.org/download/videotime-cine-latino/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Monsters, Inc." group-title="Peliculas",Monsters, Inc.
 https://archive.org/download/videotime-cine-latino/Monsters%20Inc..mp4
@@ -509,7 +509,7 @@ https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%2
 https://archive.org/download/the-mandalorian_202109/The%20Mandalorian%20-%20T2%20E8.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="22 contra la tierra" group-title="Miniclips",The Mandalorian - 22 contra la tierra
 https://archive.org/download/telechancho-miniclips/22%20contra%20la%20tierra.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Luca-Logo-png.png" tvg-name="Hola, Alberto" group-title="Miniclips",Hola, Alberto
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Luca-Logo-png.png" tvg-name="Hola, Alberto" group-title="Miniclips",Hola Alberto
 https://archive.org/download/telechancho-miniclips/Hola%20Alberto.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Las aventuras de Ned Flanders" group-title="Miniclips",Las aventuras de Ned Flanders
 https://archive.org/download/telechancho-miniclips/Las%20aventuras%20de%20Ned%20Flanders.mp4
