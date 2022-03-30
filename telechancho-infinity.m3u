@@ -30,16 +30,9 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Caracol" group-title="Generales - Colombia",Canal Caracol
-#EXTVLCOPT:http-referrer=https://ssh101.com
-https://tna5.bozztv.com/LiveCH005/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Caracol HD2" group-title="Generales - Colombia",Canal Caracol HD2
-#EXTVLCOPT:http-referrer=https://ssh101.com
-https://tna5.bozztv.com/LiveCH008/index.m3u8
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Institucional TV" group-title="Generales - Colombia",Canal Institucional TV
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRCN.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal RCN" group-title="Generales - Colombia",Canal RCN
-#EXTVLCOPT:http-referrer=https://ssh101.com
-https://tna5.bozztv.com/LiveCH004/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Señal Colombia" group-title="Generales - Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg" tvg-country="CO" tvg-language="Spanish" tvg-name="TDI Colombia" group-title="Generales - Colombia",TDI Colombia
@@ -164,9 +157,6 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Link.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="9Link Chaco" group-title="Locales - Argentina",9Link Chaco
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AVC.png" tvg-country="AR" tvg-language="Spanish" tvg-name="AVC HD" group-title="Locales - Argentina",AVC HD
-#EXTVLCOPT:http-referrer=https://ssh101.com
-https://tna5.bozztv.com/AVCHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Av. 3 y 104)" group-title="Locales - Argentina",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Buenos Aires y Playa)" group-title="Locales - Argentina",Camaras de Villa Gesell (Buenos Aires y Playa)
