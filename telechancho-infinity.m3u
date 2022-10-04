@@ -85,8 +85,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Deportv.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Deportv" group-title="Deportes - Argentina",Deportv
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TyCSports.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TyC Sports" group-title="Deportes - Argentina",TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PakaPaka.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Paka Paka" group-title="Infantil - Argentina",Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" tvg-name="Pequeradio TV" group-title="Infantil - España",Pequeradio TV
