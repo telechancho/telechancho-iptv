@@ -203,8 +203,6 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CrossingTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Crossing TV" group-title="Locales - Argentina",Crossing TV
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElOnce.png" tvg-country="AR" tvg-language="Spanish" tvg-name="El Once" group-title="Locales - Argentina",El Once
-https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/GenTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Gen TV" group-title="Locales - Argentina",Gen TV
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MRioja.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Medios Rioja" group-title="Locales - Argentina",Medios Rioja
