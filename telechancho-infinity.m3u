@@ -112,16 +112,12 @@ https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Orbe21.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Orbe 21" group-title="Religion - Argentina",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SMTV.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Santa Maria TV" group-title="Religion - Argentina",Santa Maria TV
-http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVManaARG.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Mana Argentina" group-title="Religion - Argentina",TV Mana Argentina
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Argentinisima Satelital" group-title="Variedades - Argentina",Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/HolaTV.png" tvg-country="HISPAM" tvg-language="Spanish" tvg-name="Hola TV" group-title="Variedades - Latinoamerica/España",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/KZO.png" tvg-country="AR" tvg-language="Spanish" tvg-name="KZO" group-title="Variedades - Argentina",KZO
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Net TV (Stream 1)" group-title="Variedades - Argentina",Net TV (Stream 1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Net TV (Stream 2)" group-title="Variedades - Argentina",Net TV (Stream 2)
@@ -132,8 +128,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5TV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="5TV" group-title="Locales - Argentina",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Link.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="9Link Chaco" group-title="Locales - Argentina",9Link Chaco
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Av. 3 y 104)" group-title="Locales - Argentina",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Buenos Aires y Playa)" group-title="Locales - Argentina",Camaras de Villa Gesell (Buenos Aires y Playa)
@@ -142,8 +136,6 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 3 Pinamar" group-title="Locales - Argentina",Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/3Ros.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 3 Rosario" group-title="Locales - Argentina",Canal 3 Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Jujuy (Stream 1)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 1)
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Jujuy (Stream 2)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 2)
@@ -152,16 +144,16 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/6Moreno.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 6 Moreno" group-title="Locales - Argentina",Canal 6 Moreno
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/8MDP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 8 Mar del Plata" group-title="Locales - Argentina",Canal 8 Mar del Plata
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9ComR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Comodoro Rivadavia" group-title="Locales - Argentina",Canal 9 Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Multivision" group-title="Locales - Argentina",Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9RioCuarto.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Rio Cuarto" group-title="Locales - Argentina",Canal 9 Rio Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Televida" group-title="Locales - Argentina",Canal 9 Televida
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10CBA.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Cordoba" group-title="Locales - Argentina",Canal 10 Cordoba
-https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Mar del Plata" group-title="Locales - Argentina",Canal 10 Mar del Plata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g5.proy-hor.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
