@@ -44,20 +44,14 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 2 720p)" group-title="Generales - Venezuela",Telesur (Stream 2 720p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="A24 (360p)" group-title="Noticias - Argentina",A24 (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="A24 (480p)" group-title="Noticias - Argentina",A24 (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="A24 (720p)" group-title="Noticias - Argentina",A24 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/a24-100056_480p.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal26.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 26" group-title="Noticias - Argentina",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cronica HD (360p)" group-title="Noticias - Argentina",Cronica HD (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cronica HD (480p)" group-title="Noticias - Argentina",Cronica HD (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cronica HD (720p)" group-title="Noticias - Argentina",Cronica HD (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/cronicatv_video1-100044_480p.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/IP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Informacion Periodistica" group-title="Noticias - Argentina",Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Euronews.png" tvg-country="FR" tvg-language="Spanish" tvg-name="Euronews" group-title="Noticias - Europa",Euronews
