@@ -11,7 +11,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telemax" group-title="Generales - Argentina",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Publica (480p)" group-title="Generales - Argentina",TV Publica (480p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Publica" group-title="Generales - Argentina",TV Publica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Caracol" group-title="Generales - Colombia",Canal Caracol
