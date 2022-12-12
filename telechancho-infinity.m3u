@@ -1,196 +1,334 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-country="DE" tvg-language="Spanish" tvg-name="DW en Español" group-title="Generales - Alemania",DW en Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" tvg-name="America (540p)" group-title="Generales - Argentina",America (540p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales - Argentina",America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" tvg-name="America (720p)" group-title="Generales - Argentina",America (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" tvg-name="El Trece" group-title="Generales - Argentina",El Trece
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-country="CO" tvg-language="Spanish" group-title="Generales",Canal Institucional TV
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-country="DE" tvg-language="Spanish" group-title="Generales",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telemax" group-title="Generales - Argentina",Telemax
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="Spanish" group-title="Generales",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png" tvg-country="CO" tvg-language="Spanish" group-title="Generales",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg" tvg-country="CO" tvg-language="Spanish" group-title="Generales",TDI Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Publica" group-title="Generales - Argentina",TV Publica
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" group-title="Generales",Telesur (Stream 1)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" group-title="Generales",Telesur (Stream 2)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-country="PE" tvg-language="Spanish" group-title="Generales",TVPeru (No activo 24/7)
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-country="PE" tvg-language="Spanish" group-title="Generales",TVPeru Internacional (No activo 24/7)
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",TV Publica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCaracol.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Caracol" group-title="Generales - Colombia",Canal Caracol
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-country="CO" tvg-language="Spanish" tvg-name="Canal Institucional TV" group-title="Generales - Colombia",Canal Institucional TV
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png" tvg-country="CO" tvg-language="Spanish" tvg-name="Señal Colombia" group-title="Generales - Colombia",Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg" tvg-country="CO" tvg-language="Spanish" tvg-name="TDI Colombia" group-title="Generales - Colombia",TDI Colombia
-https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ATV.jpg" tvg-country="PE" tvg-language="Spanish" tvg-name="ATV" group-title="Generales - Peru",ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-country="PE" tvg-language="Spanish" tvg-name="TVPeru" group-title="Generales - Peru",TVPeru
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-country="PE" tvg-language="Spanish" tvg-name="TVPeru Internacional" group-title="Generales - Peru",TVPeru Internacional
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="Spanish" tvg-name="RT en Español" group-title="Generales - Rusia",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 1 480p)" group-title="Generales - Venezuela",Telesur (Stream 1 480p)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 2 480p)" group-title="Generales - Venezuela",Telesur (Stream 2 480p)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 1 720p)" group-title="Generales - Venezuela",Telesur (Stream 1 720p)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Spanish" tvg-name="Telesur (Stream 2 720p)" group-title="Generales - Venezuela",Telesur (Stream 2 720p)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="A24" group-title="Noticias - Argentina",A24
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",A24 (Stream caido)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/a24-100056_480p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal26.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 26" group-title="Noticias - Argentina",Canal 26
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal26.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cronica HD" group-title="Noticias - Argentina",Cronica HD
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",Cronica HD (Stream caido)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/cronicatv_video1-100044_480p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/IP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Informacion Periodistica" group-title="Noticias - Argentina",Informacion Periodistica
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Euronews.png" tvg-country="FR" tvg-language="Spanish" tvg-name="Euronews" group-title="Noticias - Europa",Euronews
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Euronews.png" tvg-country="FR" tvg-language="Spanish" group-title="Noticias",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeruNoticias.png" tvg-country="PE" tvg-language="Spanish" tvg-name="TVPeru Noticias" group-title="Noticias - Peru",TVPeru Noticias
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeruNoticias.png" tvg-country="PE" tvg-language="Spanish" group-title="Noticias",TVPeru Noticias (No activo 24/7)
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal Rural" group-title="Agro - Argentina",Canal Rural
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-country="AR" tvg-language="Spanish" group-title="Agro",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElGarageTV.png" tvg-country="HISPAM" tvg-language="Spanish" tvg-name="El Garage TV" group-title="Automovilismo - Latinoamerica",El Garage TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElGarageTV.png" tvg-country="HISPAM" tvg-language="Spanish" group-title="Automovilismo",El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Tastemade.png" tvg-country="ES" tvg-language="Spanish" tvg-name="Tastemade en Español" group-title="Cocina - Latinoamerica/España",Tastemade en Español
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Tastemade.png" tvg-country="ES" tvg-language="Spanish" group-title="Cocina",Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A3Cine.png" tvg-country="ES" tvg-language="Spanish" tvg-name="A3 Cine" group-title="Cine - España",A3 Cine
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A3Cine.png" tvg-country="ES" tvg-language="Spanish" group-title="Cine",A3 Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CineAR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cine.ar" group-title="Cine - Argentina",Cine.ar
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CineAR.png" tvg-country="AR" tvg-language="Spanish" group-title="Cine",Cine.ar (Certificado a punto de expirar (Efecto XP))
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Encuentro.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Encuentro" group-title="Cultura - Argentina",Encuentro
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Encuentro.png" tvg-country="AR" tvg-language="Spanish" group-title="Cultura",Encuentro (Certificado a punto de expirar (Efecto XP))
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Mirador.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Mirador" group-title="Cultura - Argentina",Mirador
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Mirador.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Cultura",Mirador (Certificado a punto de expirar (Efecto XP))
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Tec TV" group-title="Cultura - Argentina",Tec TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TecTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Cultura",Tec TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Deportv.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Deportv" group-title="Deportes - Argentina",Deportv
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Deportv.png" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",Deportv  (Certificado a punto de expirar (Efecto XP))
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PakaPaka.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Paka Paka" group-title="Infantil - Argentina",Paka Paka
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png" group-title="Infantil",Action Kids 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80606d41-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7fc0a51-2f1d-448b-8546-5071095e4b90&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="Infantil",AnimaKids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Infantil",Babar
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc42-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4dd50492-4fb9-436b-9efe-56335cf7502f&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Infantil",BabyFirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22356-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9245c0c5-80d7-43b0-a132-df93fca90821&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Infantil",Barney
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29882-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=daaec956-b0c6-4701-a551-d3b7bab3a563&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Infantil",Big Time Rush
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a1b50-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae85d69e-9291-4dd1-a2b4-facd888e7465&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="Infantil",El Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="Infantil",Go Diego Go 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a6970-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=792b48f4-9e17-4498-a864-053b445aef6a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Infantil",Kenan & Kel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Infantil",Las Pistas De Blue
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49450-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2dab1e46-b757-41f4-af9a-7a988974b383&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="Infantil",Las Pistas De Blue 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4490330-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=35438e12-0256-4671-8505-e75782804dc9&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Infantil",Nick Clasico
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18711-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8d15965-7824-4eee-a6c8-345e488692b7&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Infantil",Nick Jr. Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18712-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6796fdc2-2bb5-4e80-a717-366aa2433636&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Infantil",Nick Jr. Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Infantil",Nick Latino
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="Infantil",Nick Teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PakaPaka.png" tvg-country="AR" tvg-language="Spanish" group-title="Infantil",Paka Paka (Certificado a punto de expirar (Efecto XP))
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" tvg-name="Pequeradio TV" group-title="Infantil - España",Pequeradio TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" group-title="Infantil",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" tvg-country="AR" tvg-language="Spanish" tvg-name="AN24" group-title="Musica - Argentina",AN24
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Infantil",Rugrats Crecidos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Infantil",TV Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="Infantil",TV Junior 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4492a41-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8ae70f51-5e3c-4e72-b4fa-e5c3a3ced6ae&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Infantil",TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef84427d-008b-4c14-b485-09f974e5056f&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Infantil",TV Kids 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Infantil",TV Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe342837-658e-4c01-af1b-63c86a3ccece&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" group-title="Infantil",TV Teen Stars
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7430-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0a77951-0789-4708-b820-e6bcefa8ee82&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Anime",Naruto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="Anime",Naruto 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Anime",One Piece
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime",TV Anime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Anime",TV Anime Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Anime",Yu-Gi-Oh!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="Anime",Yu-Gi-Oh 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" tvg-country="AR" tvg-language="Spanish" group-title="Musica",AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CM.png" tvg-country="AR" tvg-language="Spanish" tvg-name="CM" group-title="Musica - Argentina",CM
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CM.png" tvg-country="AR" tvg-language="Spanish" group-title="Musica",CM (Stream caido)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/CM_CanaldelaMusica-100044_480p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MusicTop.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="MusicTop" group-title="Musica - Argentina",MusicTop
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MusicTop.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Musica",MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TierramiaTV.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Tierramia TV" group-title="Musica - Argentina",Tierramia TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TierramiaTV.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Musica",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Vorterix (360p)" group-title="Musica - Argentina",Vorterix (360p)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Musica",Vorterix (Stream caido)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Vorterix (720p)" group-title="Musica - Argentina",Vorterix (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalLuz.png" tvg-country="AR" tvg-language="Spanish" tvg-name="canalLuz" group-title="Religion - Argentina",canalLuz
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalLuz.png" tvg-country="AR" tvg-language="Spanish" group-title="Religion",canalLuz (Stream caido)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/canal_luz01-100009_480p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Orbe21.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Orbe 21" group-title="Religion - Argentina",Orbe 21
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Orbe21.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Religion",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVManaARG.png" tvg-country="AR" tvg-language="Spanish" tvg-name="TV Mana Argentina" group-title="Religion - Argentina",TV Mana Argentina
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVManaARG.png" tvg-country="AR" tvg-language="Spanish" group-title="Religion",TV Mana Argentina
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Argentinisima Satelital" group-title="Variedades - Argentina",Argentinisima Satelital
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/HolaTV.png" tvg-country="HISPAM" tvg-language="Spanish" tvg-name="Hola TV" group-title="Variedades - Latinoamerica/España",Hola TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/HolaTV.png" tvg-country="HISPAM" tvg-language="Spanish" group-title="Variedades",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Net TV (Stream 1)" group-title="Variedades - Argentina",Net TV (Stream 1)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",Net TV (Stream 1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Net TV (Stream 2)" group-title="Variedades - Argentina",Net TV (Stream 2)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",Net TV (Stream 2)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="TVU La Plata" group-title="Variedades - Argentina",TVU La Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",TVU La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" tvg-country="AR" tvg-language="Spanish" tvg-name="5RTv" group-title="Locales - Argentina",5RTv
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",5RTv
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5TV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="5TV" group-title="Locales - Argentina",5TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5TV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Av. 3 y 104)" group-title="Locales - Argentina",Camaras de Villa Gesell (Av. 3 y 104)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (Buenos Aires y Playa)" group-title="Locales - Argentina",Camaras de Villa Gesell (Buenos Aires y Playa)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Camaras de Villa Gesell (Buenos Aires y Playa)
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Camaras de Villa Gesell (La Pinocha)" group-title="Locales - Argentina",Camaras de Villa Gesell (La Pinocha)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 3 Pinamar" group-title="Locales - Argentina",Canal 3 Pinamar
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Jujuy (Stream 1)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 1)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Jujuy (Stream 1)
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Jujuy (Stream 2)" group-title="Locales - Argentina",Canal 4 Jujuy (Stream 2)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Jujuy (Stream 2)
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 4 Teleaire San Martin" group-title="Locales - Argentina",Canal 4 Teleaire San Martin
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Teleaire San Martin
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/6Moreno.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 6 Moreno" group-title="Locales - Argentina",Canal 6 Moreno
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/6Moreno.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 6 Moreno
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/8MDP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 8 Mar del Plata" group-title="Locales - Argentina",Canal 8 Mar del Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/8MDP.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9ComR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Comodoro Rivadavia" group-title="Locales - Argentina",Canal 9 Comodoro Rivadavia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9ComR.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Multivision" group-title="Locales - Argentina",Canal 9 Multivision
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9RioCuarto.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 9 Rio Cuarto" group-title="Locales - Argentina",Canal 9 Rio Cuarto
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9RioCuarto.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 Rio Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10CBA.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Cordoba" group-title="Locales - Argentina",Canal 10 Cordoba
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10CBA.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 10 Cordoba
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Mar del Plata" group-title="Locales - Argentina",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 10 Mar del Plata (Stream caido)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/canal10mdq-100044_480p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 10 Rio Negro" group-title="Locales - Argentina",Canal 10 Rio Negro
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/11LR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 11 La Rioja" group-title="Locales - Argentina",Canal 11 La Rioja
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/11LR.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 11 La Rioja
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 12 Puerto Madryn" group-title="Locales - Argentina",Canal 12 Puerto Madryn
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 12 Puerto Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/13LR.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 13 La Rioja" group-title="Locales - Argentina",Canal 13 La Rioja
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/13LR.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal22Web.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 22 Web" group-title="Locales - Argentina",Canal 22 Web
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal22Web.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 22 Web
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 79 La Costa" group-title="Locales - Argentina",Canal 79 La Costa
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 79 La Costa
 https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 79 Mar del Plata" group-title="Locales - Argentina",Canal 79 Mar del Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 79 Mar del Plata
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 79 Puan" group-title="Locales - Argentina",Canal 79 Puan
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 79 Puan
 https://streamconex.com:1936/puan/puan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 79 San Juan" group-title="Locales - Argentina",Canal 79 San Juan
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 79 San Juan
 https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 79 Santa Clara del Mar" group-title="Locales - Argentina",Canal 79 Santa Clara del Mar
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 79 Santa Clara del Mar
 https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal 79 Villa Maza" group-title="Locales - Argentina",Canal 79 Villa Maza
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 79 Villa Maza
 https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Provincial.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal Provincial" group-title="Locales - Argentina",Canal Provincial
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Provincial.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDC.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal TDC" group-title="Locales - Argentina",Canal TDC
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDC.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/XFN.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Canal XFN" group-title="Locales - Argentina",Canal XFN
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/XFN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal XFN
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Chacra TV" group-title="Locales - Argentina",Chacra TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Cinco TV" group-title="Locales - Argentina",Cinco TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CiudadTVRes.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Ciudad TV Resistencia" group-title="Locales - Argentina",Ciudad TV Resistencia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CiudadTVRes.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CrossingTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Crossing TV" group-title="Locales - Argentina",Crossing TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CrossingTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Crossing TV
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/GenTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Gen TV" group-title="Locales - Argentina",Gen TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/GenTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Gen TV
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MRioja.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Medios Rioja" group-title="Locales - Argentina",Medios Rioja
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MRioja.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Medios Rioja
 http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NeoxTVSalta.jpg" tvg-country="AR" tvg-language="Spanish" tvg-name="Neox TV Salta" group-title="Locales - Argentina",Neox TV Salta
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NeoxTVSalta.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Neox TV Salta
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PowerTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Power TV" group-title="Locales - Argentina",Power TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PowerTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Power TV
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/QuatroTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Quatro TV" group-title="Locales - Argentina",Quatro TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/QuatroTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Quatro TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" tvg-name="RTN (Stream 1)" group-title="Locales - Argentina",RTN (Stream 1)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",RTN (Stream 1)
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" tvg-name="RTN (Stream 2)" group-title="Locales - Argentina",RTN (Stream 2)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",RTN (Stream 2)
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telenord.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telenord Corrientes" group-title="Locales - Argentina",Telenord Corrientes
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telenord.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Telenord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telpin TV" group-title="Locales - Argentina",Telpin TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Telpin TV
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x01
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x01.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x02
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x02.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x03
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x03.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x04
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x04.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x05
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x05.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x06
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x06.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x07
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x07.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x08
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x08.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x09
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x09.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x10
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x10.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x11
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x11.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x12
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x12.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 1",Bumpy y sus amigos 1x13
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%201x13.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x01
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x01.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x02
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x02.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x03
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x03.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x04
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x04.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x05
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x05.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x06
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x06.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x07
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x07.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x08
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x08.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x09
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x09.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x10
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x10.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x11
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x11.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x12
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x12.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Bumpy.png" group-title="Bumpy y sus amigos - Temporada 2",Bumpy y sus amigos 2x13
+https://archive.org/download/bumpy-y-sus-amigos/Bumpy%20y%20sus%20amigos%202x13.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E1_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E1 Tintín en América
+https://archive.org/download/tintin-espanol/Cap%20%201%20%20TINTIN%20EN%20AMERICA.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E2_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E2 Los cigarros del Faraón
+https://archive.org/download/tintin-espanol/Cap%20%202%20%20%20LOS%20CIGARROS%20DEL%20FARAON.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E3_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E3 El loto azul
+https://archive.org/download/tintin-espanol/Cap%20%203%20%20%20EL%20LOTO%20AZUL.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E4_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E4 La oreja rota
+https://archive.org/download/tintin-espanol/Cap%20%204%20%20LA%20OREJA%20ROTA.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E5_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E5 La isla negra
+https://archive.org/download/tintin-espanol/Cap%20%205%20%20LA%20ISLA%20NEGRA.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E6_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E6 El cetro de Ottokar
+https://archive.org/download/tintin-espanol/Cap%20%206%20%20EL%20CETRO%20DE%20OTTOKAR.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E7_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E7 El cangrejo de las pinzas de oro
+https://archive.org/download/tintin-espanol/Cap%20%207%20%20EL%20CANGREJO%20DE%20LAS%20PINZAS%20DE%20ORO.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E8_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E8 La estrella misteriosa
+https://archive.org/download/tintin-espanol/Cap%20%208%20%20LA%20ESTRELLA%20MISTERIOSA.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E9_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E9 El secreto del unicornio
+https://archive.org/download/tintin-espanol/Cap%20%209%20%20EL%20SECRETO%20DEL%20UNICORNIO.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E10_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E10 El tesoro de Rackham el Rojo
+https://archive.org/download/tintin-espanol/Cap%20%2010%20%20EL%20TESORO%20DE%20RACKHAM%20EL%20ROJO.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E11_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E11 Las 7 bolas de cristal
+https://archive.org/download/tintin-espanol/Cap%20%2011%20%20%20LAS%207%20BOLAS%20DE%20CRISTAL.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E12_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E12 El templo del Sol
+https://archive.org/download/tintin-espanol/Cap%20%2012%20%20%20EL%20TEMPLO%20DEL%20SOL.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E13_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E13 Tintín en el país del Oro Negro
+https://archive.org/download/tintin-espanol/Cap%20%2013%20%20%20TINTIN%20EN%20EL%20PAIS%20DEL%20ORO%20NEGRO.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E14_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E14 Objetivo: la Luna
+https://archive.org/download/tintin-espanol/Cap%20%2014%20%20%20OBJETIVO%20LA%20LUNA.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E15_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E15 Aterrizaje en la Luna
+https://archive.org/download/tintin-espanol/Cap%20%2015%20%20%20ATERRIZAJE%20EN%20LA%20LUNA.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E16_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E16 El asunto Tornasol
+https://archive.org/download/tintin-espanol/Cap%20%2016%20%20%20EL%20ASUNTO%20TORNASOL.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E17_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E17 Stock de coque
+https://archive.org/download/tintin-espanol/Cap%20%2017%20%20%20STOCK%20DE%20COQUE.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E18_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E18 Tintín en el Tíbet
+https://archive.org/download/tintin-espanol/Cap%20%2018%20%20%20TINTIN%20EN%20EL%20TIBET.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E19_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E19 Las joyas de la Castafiore
+https://archive.org/download/tintin-espanol/Cap%20%2019%20%20%20LAS%20JOYAS%20DE%20LA%20CASTAFIORE.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E20_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E20 Vuelo 714 para Sídney
+https://archive.org/download/tintin-espanol/Cap%20%2020%20%20%20VUELO%20714%20PARA%20SIDNEY.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E21_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E21 Tintín y los pícaros
+https://archive.org/download/tintin-espanol/Cap%20%2021%20%20%20TINTIN%20Y%20LOS%20PICAROS.mp4
 
