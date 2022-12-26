@@ -525,41 +525,6 @@ https://archive.org/download/tintin-espanol/Cap%20%2019%20%20%20LAS%20JOYAS%20DE
 https://archive.org/download/tintin-espanol/Cap%20%2020%20%20%20VUELO%20714%20PARA%20SIDNEY.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E21_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E21 Tintín y los pícaros
 https://archive.org/download/tintin-espanol/Cap%20%2021%20%20%20TINTIN%20Y%20LOS%20PICAROS.mp4
-
-
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@brunochanrio 
-telechancho
-/
-telechancho-iptv
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Add files via upload
- main
-@brunochanrio
-brunochanrio committed on Mar 30 
-1 parent da63839 commit bdcf1c92027b9d93e5275859f4cb317512988e07
-Showing 1 changed file with 1 addition and 316 deletions.
-  317  
-telechancho-infinity.m3u
-@@ -241,319 +241,4 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telpin TV" group-title="Locales - Argentina",Telpin TV
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito en la ciudad" group-title="Peliculas",Babe el cerdito en la ciudad
 https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20en%20la%20ciudad.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito valiente" group-title="Peliculas",Babe el cerdito valiente
