@@ -526,3 +526,251 @@ https://archive.org/download/tintin-espanol/Cap%20%2020%20%20%20VUELO%20714%20PA
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/episodes/E21_COVER.jpg" group-title="Las aventuras de Tintin",Las aventuras de Tintin - E21 Tintín y los pícaros
 https://archive.org/download/tintin-espanol/Cap%20%2021%20%20%20TINTIN%20Y%20LOS%20PICAROS.mp4
 
+
+Search or jump to…
+Pulls
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@brunochanrio 
+telechancho
+/
+telechancho-iptv
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Add files via upload
+ main
+@brunochanrio
+brunochanrio committed on Mar 30 
+1 parent da63839 commit bdcf1c92027b9d93e5275859f4cb317512988e07
+Showing 1 changed file with 1 addition and 316 deletions.
+  317  
+telechancho-infinity.m3u
+@@ -241,319 +241,4 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" tvg-name="Telpin TV" group-title="Locales - Argentina",Telpin TV
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito en la ciudad" group-title="Peliculas",Babe el cerdito en la ciudad
+https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20en%20la%20ciudad.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Babe, el cerdito valiente" group-title="Peliculas",Babe el cerdito valiente
+https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20valiente.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Bailarina" group-title="Peliculas",Bailarina
+https://archive.org/download/videotime-cine-latino/Bailarina.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Bichos" group-title="Peliculas",Bichos
+https://archive.org/download/videotime-cine-latino/Bichos.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Buscando a Dory" group-title="Peliculas",Buscando a Dory
+https://archive.org/download/videotime-cine-latino/Buscando%20a%20Dory.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Buscando a Nemo" group-title="Peliculas",Buscando a Nemo
+https://archive.org/download/videotime-cine-latino/Buscando%20a%20Nemo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cars 1" group-title="Peliculas",Cars 1
+https://archive.org/download/videotime-cine-latino/Cars%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cars 2" group-title="Peliculas",Cars 2
+https://archive.org/download/videotime-cine-latino/Cars%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cars 3" group-title="Peliculas",Cars 3
+https://archive.org/download/videotime-cine-latino/Cars%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Charlie y la fabrica de chocolate" group-title="Peliculas",Charlie y la fabrica de chocolate
+https://archive.org/download/videotime-cine-latino/Charlie%20y%20la%20fabrica%20de%20chocolate.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Chicken Little" group-title="Peliculas",Chicken Little
+https://archive.org/download/videotime-cine-latino/Chicken%20Little.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Christopher Robin: un reencuentro inolvidable" group-title="Peliculas",Christopher Robin: un reencuentro inolvidable
+https://archive.org/download/videotime-cine-latino/Christopher%20Robin%20-%20Un%20reencuentro%20inolvidable.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Cigueñas" group-title="Peliculas",Cigueñas
+https://archive.org/download/videotime-cine-latino/Cigue%C3%B1as.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Club de los villanos de Mickey Mouse" group-title="Peliculas",Club de los villanos de Mickey Mouse
+https://archive.org/download/videotime-cine-latino/Club%20de%20los%20Villanos%20de%20Mickey%20Mouse.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Coco" group-title="Peliculas",Coco
+https://archive.org/download/videotime-cine-latino/Coco.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Como entrenar a tu dragon 1" group-title="Peliculas",Como entrenar a tu dragon 1
+https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Como entrenar a tu dragon 2" group-title="Peliculas",Como entrenar a tu dragon 2
+https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Como entrenar a tu dragon 3" group-title="Peliculas",Como entrenar a tu dragon 3
+https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cruella" group-title="Peliculas",Cruella
+https://archive.org/download/videotime-cine-latino/Cruella.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Dumbo (1941)" group-title="Peliculas",Dumbo (1941)
+https://archive.org/download/videotime-cine-latino/Dumbo%20%281941%29.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Dumbo (2019)" group-title="Peliculas",Dumbo (2019)
+https://archive.org/download/videotime-cine-latino/Dumbo%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="E.T. El Extraterrestre" group-title="Peliculas",E.T. El Extraterrestre
+https://archive.org/download/videotime-cine-latino/E.T.%20El%20Extraterrestre.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="El gato con botas" group-title="Peliculas",El gato con botas
+https://archive.org/download/videotime-cine-latino/El%20gato%20con%20botas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Disney's_Encanto_logo.png" tvg-name="Encanto" group-title="Peliculas",Encanto
+https://archive.org/download/videotime-cine-latino/Encanto.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Enredados" group-title="Peliculas",Enredados
+https://archive.org/download/videotime-cine-latino/Enredados.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Fantasia 2000" group-title="Peliculas",Fantasia 2000
+https://archive.org/download/videotime-cine-latino/Fantasia%202000.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Fantasia" group-title="Peliculas",Fantasia
+https://archive.org/download/videotime-cine-latino/Fantasia.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Garfield 1" group-title="Peliculas",Garfield 1
+https://archive.org/download/videotime-cine-latino/Garfield%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Garfield 2" group-title="Peliculas",Garfield 2
+https://archive.org/download/videotime-cine-latino/Garfield%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Goofy 1" group-title="Peliculas",Goofy 1
+https://archive.org/download/videotime-cine-latino/Goofy%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Goofy 2" group-title="Peliculas",Goofy 2
+https://archive.org/download/videotime-cine-latino/Goofy%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Han Solo: Una historia de Star Wars" group-title="Peliculas",Han Solo: Una historia de Star Wars
+https://archive.org/download/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Intensa Mente" group-title="Peliculas",Intensa Mente
+https://archive.org/download/videotime-cine-latino/Intensa%20Mente.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic Park 1" group-title="Peliculas",Jurassic Park 1
+https://archive.org/download/videotime-cine-latino/Jurassic%20Park%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic Park 2 - El mundo perdido" group-title="Peliculas",Jurassic Park 2 - El mundo perdido
+https://archive.org/download/videotime-cine-latino/Jurassic%20Park%202%20-%20El%20mundo%20perdido.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic Park 3" group-title="Peliculas",Jurassic Park 3
+https://archive.org/download/videotime-cine-latino/Jurassic%20Park%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic World - Mundo Jurasico" group-title="Peliculas",Jurassic World - Mundo Jurasico
+https://archive.org/download/videotime-cine-latino/Jurassic%20World%20-%20Mundo%20Jurasico.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic World 2 - El Reino Caido" group-title="Peliculas",Jurassic World 2 - El Reino Caido
+https://archive.org/download/videotime-cine-latino/Jurassic%20World%202%20-%20El%20Reino%20Caido.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Kung Fu Panda 1" group-title="Peliculas",Kung Fu Panda 1
+https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Kung Fu Panda 2" group-title="Peliculas",Kung Fu Panda 2
+https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Kung Fu Panda 3" group-title="Peliculas",Kung Fu Panda 3
+https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La Oveja Shaun: La pelicula" group-title="Peliculas",La Oveja Shaun: La pelicula
+https://archive.org/download/videotime-cine-latino/La%20Oveja%20Shaun%20-%20La%20pelicula.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 1" group-title="Peliculas",La era de hielo 1
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 2" group-title="Peliculas",La era de hielo 2
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 3" group-title="Peliculas",La era de hielo 3
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 4" group-title="Peliculas",La era de hielo 4
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%204.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 5 - Choque de mundos" group-title="Peliculas",La era de hielo 5 - Choque de mundos
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%205%20-%20Choque%20de%20mundos.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La gran aventura Lego 1" group-title="Peliculas",La gran aventura Lego 1
+https://archive.org/download/videotime-cine-latino/La%20gran%20aventura%20Lego%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La gran aventura Lego 2" group-title="Peliculas",La gran aventura Lego 2
+https://archive.org/download/videotime-cine-latino/La%20gran%20aventura%20Lego%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="La gran pelicula de Piglet" group-title="Peliculas",La gran pelicula de Piglet
+https://archive.org/download/videotime-cine-latino/La%20gran%20pelicula%20de%20Piglet.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="La pelicula de Stitch" group-title="Peliculas",La pelicula de Stitch
+https://archive.org/download/videotime-cine-latino/La%20pelicula%20de%20Stitch.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="La pelicula de Tigger" group-title="Peliculas",La pelicula de Tigger
+https://archive.org/download/videotime-cine-latino/La%20pelicula%20de%20Tigger.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La vida secreta de tus mascotas 1" group-title="Peliculas",La vida secreta de tus mascotas 1
+https://archive.org/download/videotime-cine-latino/La%20vida%20secreta%20de%20tus%20mascotas%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La vida secreta de tus mascotas 2" group-title="Peliculas",La vida secreta de tus mascotas 2
+https://archive.org/download/videotime-cine-latino/La%20vida%20secreta%20de%20tus%20mascotas%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Las grandes aventuras de Winnie Pooh" group-title="Peliculas",Las grandes aventuras de Winnie Pooh
+https://archive.org/download/videotime-cine-latino/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="Leroy y Stitch" group-title="Peliculas",Leroy y Stitch
+https://archive.org/download/videotime-cine-latino/Leroy%20y%20Stitch.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="Lilo y Stitch 1" group-title="Peliculas",Lilo y Stitch 1
+https://archive.org/download/videotime-cine-latino/Lilo%20y%20Stitch%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="Lilo y Stitch 2" group-title="Peliculas",Lilo y Stitch 2
+https://archive.org/download/videotime-cine-latino/Lilo%20y%20Stitch%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Los Increibles 1" group-title="Peliculas",Los Increibles 1
+https://archive.org/download/videotime-cine-latino/Los%20Increibles%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Los Increibles 2" group-title="Peliculas",Los Increibles 2
+https://archive.org/download/videotime-cine-latino/Los%20Increibles%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Los Minions" group-title="Peliculas",Los Minions
+https://archive.org/download/videotime-cine-latino/Los%20Minions.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Los Simpson: La pelicula" group-title="Peliculas",Los Simpson: La pelicula
+https://archive.org/download/videotime-cine-latino/Los%20Simpson%20-%20La%20pelicula.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Luca-Logo-png.png" tvg-name="Luca" group-title="Peliculas",Luca
+https://archive.org/download/videotime-cine-latino/Luca.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Megamente" group-title="Peliculas",Megamente
+https://archive.org/download/videotime-cine-latino/Megamente.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Mi villano favorito 1" group-title="Peliculas",Mi villano favorito 1
+https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Mi villano favorito 2" group-title="Peliculas",Mi villano favorito 2
+https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Mi villano favorito 3" group-title="Peliculas",Mi villano favorito 3
+https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Mickey-Mouse-logo.png" tvg-name="Mickey y sus amigos juntos otra Navidad" group-title="Peliculas",Mickey y sus amigos juntos otra Navidad
+https://archive.org/download/videotime-cine-latino/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Mickey-Mouse-logo.png" tvg-name="Mickey, Donald, Goofy: Los tres mosqueteros" group-title="Peliculas",Mickey Donald Goofy: Los tres mosqueteros
+https://archive.org/download/videotime-cine-latino/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Monsters, Inc." group-title="Peliculas",Monsters, Inc.
+https://archive.org/download/videotime-cine-latino/Monsters%20Inc..mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Ralph el demoledor 1" group-title="Peliculas",Ralph el demoledor 1
+https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Ralph el demoledor 2 (Wifi Ralph)" group-title="Peliculas",Ralph el demoledor 2 (Wifi Ralph)
+https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Ratatouille" group-title="Peliculas",Ratatouille
+https://archive.org/download/videotime-cine-latino/Ratatouille.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Turning-Red_logotype.png" tvg-name="Red" group-title="Peliculas",Red
+https://archive.org/download/videotime-cine-latino/Red.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Rogue One: Una historia de Star Wars" group-title="Peliculas",Rogue One: Una historia de Star Wars
+https://archive.org/download/videotime-cine-latino/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Ron da error" group-title="Peliculas",Ron da error
+https://archive.org/download/videotime-cine-latino/Ron%20da%20error.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Sing 1" group-title="Peliculas",Sing 1
+https://archive.org/download/videotime-cine-latino/Sing.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Sing 2" group-title="Peliculas",Sing 2
+https://archive.org/download/videotime-cine-latino/Sing%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Soul" group-title="Peliculas",Soul
+https://archive.org/download/videotime-cine-latino/Soul.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Spider-Man: Un nuevo universo" group-title="Peliculas",Spider-Man: Un nuevo universo
+https://archive.org/download/videotime-cine-latino/Spider-Man%20-%20Un%20nuevo%20universo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 1: La amenaza fantasma" group-title="Peliculas",Star Wars - Ep. 1: La amenaza fantasma
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%201%20-%20La%20amenaza%20fantasma.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 2: El ataque de los clones" group-title="Peliculas",Star Wars - Ep. 2: El ataque de los clones
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%202%20-%20El%20ataque%20de%20los%20clones.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 3: La venganza de los Sith" group-title="Peliculas",Star Wars - Ep. 3: La venganza de los Sith
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%203%20-%20La%20venganza%20de%20los%20Sith.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 4: Una nueva esperanza" group-title="Peliculas",Star Wars - Ep. 4: Una nueva esperanza
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%204%20-%20Una%20nueva%20esperanza.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 5: El imperio contraataca" group-title="Peliculas",Star Wars - Ep. 5: El imperio contraataca
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%205%20-%20El%20imperio%20contraataca.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 6: El Retorno del Jedi" group-title="Peliculas",Star Wars - Ep. 6: El Retorno del Jedi
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%206%20-%20El%20Retorno%20del%20Jedi.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 7: El despertar de la fuerza" group-title="Peliculas",Star Wars - Ep. 7: El despertar de la fuerza
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%207%20-%20El%20despertar%20de%20la%20fuerza.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 8: Los ultimos Jedi" group-title="Peliculas",Star Wars - Ep. 8: Los ultimos Jedi
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%208%20-%20Los%20ultimos%20Jedi.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 9: El Ascenso de Skywalker" group-title="Peliculas",Star Wars - Ep. 9: El Ascenso de Skywalker
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%209%20-%20El%20Ascenso%20de%20Skywalker.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Las guerras clonicas" group-title="Peliculas",Star Wars - Las guerras clonicas
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Las%20guerras%20clonicas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Tom y Jerry (2021)" group-title="Peliculas",Tom y Jerry (2021)
+https://archive.org/download/videotime-cine-latino/Tom%20y%20Jerry%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 1" group-title="Peliculas",Toy Story 1
+https://archive.org/download/videotime-cine-latino/Toy%20Story%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 2" group-title="Peliculas",Toy Story 2
+https://archive.org/download/videotime-cine-latino/Toy%20Story%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 3" group-title="Peliculas",Toy Story 3
+https://archive.org/download/videotime-cine-latino/Toy%20Story%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 4" group-title="Peliculas",Toy Story 4
+https://archive.org/download/videotime-cine-latino/Toy%20Story%204.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Trolls 1" group-title="Peliculas",Trolls 1
+https://archive.org/download/videotime-cine-latino/Trolls%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Trolls 2 - Gira mundial" group-title="Peliculas",Trolls 2 - Gira mundial
+https://archive.org/download/videotime-cine-latino/Trolls%202%20-%20Gira%20mundial.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Un gran dinosaurio" group-title="Peliculas",Un gran dinosaurio
+https://archive.org/download/videotime-cine-latino/Un%20gran%20dinosaurio.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Unidos" group-title="Peliculas",Unidos
+https://archive.org/download/videotime-cine-latino/Unidos.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Up" group-title="Peliculas",Up
+https://archive.org/download/videotime-cine-latino/Up.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Valiente" group-title="Peliculas",Valiente
+https://archive.org/download/videotime-cine-latino/Valiente.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Volver al futuro 1" group-title="Peliculas",Volver al futuro 1
+https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Volver al futuro 2" group-title="Peliculas",Volver al futuro 2
+https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Volver al futuro 3" group-title="Peliculas",Volver al futuro 3
+https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Wall-e" group-title="Peliculas",Wall-e
+https://archive.org/download/videotime-cine-latino/Wall-e.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Winnie Pooh: Una primavera con Rito" group-title="Peliculas",Winnie Pooh: Una primavera con Rito
+https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20-%20Una%20primavera%20con%20Rito.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Winnie Pooh (2011)" group-title="Peliculas",Winnie Pooh (2011)
+https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20%282011%29.mp4
