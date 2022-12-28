@@ -302,10 +302,6 @@ https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Orbe21.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Religion",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVManaARG.png" tvg-country="AR" tvg-language="Spanish" group-title="Religion",TV Mana Argentina
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",Argentinisima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/HolaTV.png" tvg-country="HISPAM" tvg-language="Spanish" group-title="Variedades",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",Net TV (Stream 1)
