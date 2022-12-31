@@ -322,6 +322,8 @@ http://cam104y3.gesell.com.ar/playlist.m3u8
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/2MDP.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 2 Mar del Plata
+https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Jujuy (Stream 1)
