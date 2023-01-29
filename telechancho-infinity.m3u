@@ -383,7 +383,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CrossingTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Crossing TV
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/F5TV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",F5TV Miramar
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/F5Play.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",F5 Play Miramar
 https://videostream.shockmedia.com.ar:19360/f5tv2/f5tv2.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NeoxTVSalta.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Neox TV Salta
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
