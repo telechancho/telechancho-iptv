@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="Spanish" group-title="Generales - Rusia",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1,RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
