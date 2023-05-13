@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://i.mjh.nz/PlutoTV/all.xml"
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://i.mjh.nz/PlutoTV/mx.xml"
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
