@@ -69,6 +69,8 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://octubre-live.cdn.vustreams.com:443/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElDestape.jpg" group-title="Noticias",El Destape
 https://ythls.onrender.com/channel/UCgOvQwLB387CWMrseINhyCg.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ExtraTV.jpg" group-title="Noticias",Extra TV
+https://ythls.onrender.com/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeruNoticias.png" tvg-country="PE" tvg-language="Spanish" group-title="Noticias",TVPeru Noticias (No activo 24/7)
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-country="AR" tvg-language="Spanish" group-title="Agro",Canal Rural
