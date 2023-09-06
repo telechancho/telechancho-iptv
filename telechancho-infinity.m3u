@@ -56,7 +56,8 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPeru.png" tvg-country="PE" tvg-language="Spanish" group-title="Generales",TVPeru Internacional (No activo 24/7)
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/247CDN.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",24/7 Canal de Noticias
-https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/France24ES.png" tvg-country="FR" tvg-language="Spanish" group-title="Generales",France 24 Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/France24.png" tvg-country="FR" tvg-language="French" group-title="Generales",France 24 Français
@@ -124,45 +125,45 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",TVU La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/espn.png" group-title="Deportes",ESPN
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173858
-#EXTINF:-1 group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/espn2.png" group-title="Deportes",ESPN 2
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173859
-#EXTINF:-1 group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/espn3.png" group-title="Deportes",ESPN 3
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173860
-#EXTINF:-1 group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/fox-sports-2.png" group-title="Deportes",Fox Sports 2
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173862
-#EXTINF:-1 group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/fox-sports-3.png" group-title="Deportes",Fox Sports 3
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173863
-#EXTINF:-1 group-title="Cine y Series",AMC
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/amc.png" group-title="Cine y Series",AMC
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173887
-#EXTINF:-1 group-title="Infantil",Baby TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/babytv.png" group-title="Infantil",Baby TV
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173878
-#EXTINF:-1 group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/cartoon-network.png" group-title="Infantil",Cartoon Network
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173890
-#EXTINF:-1 group-title="Cine y series",Cinemax
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/cinemax.png" group-title="Cine y series",Cinemax
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173882
-#EXTINF:-1 group-title="Cine y Series",Film & Arts
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/film&arts.png" group-title="Cine y Series",Film & Arts
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173901
-#EXTINF:-1 group-title="Cine y Series",FX
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/fx.png" group-title="Cine y Series",FX
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173869
-#EXTINF:-1 group-title="Cine y Series",I-Sat
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/isat.png" group-title="Cine y Series",I-Sat
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173899
-#EXTINF:-1 group-title="Variedades",Lifetime
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/lifetime.png" group-title="Variedades",Lifetime
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173894
-#EXTINF:-1 group-title="Cine y Series",Space
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/space.png" group-title="Cine y Series",Space
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173888
-#EXTINF:-1 group-title="Variedades",TBS
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/tbs.png" group-title="Variedades",TBS
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173898
-#EXTINF:-1 group-title="Cine y Series",TCM
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/tcm.png" group-title="Cine y Series",TCM
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173900
-#EXTINF:-1 group-title="Cine y Series",TNT Series
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/tnt-series.png" group-title="Cine y Series",TNT Series
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173897
-#EXTINF:-1 group-title="Infantil",Tooncast
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/tooncast.png" group-title="Infantil",Tooncast
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173902
-#EXTINF:-1 group-title="Deportes",Tyc Sports
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/tyc.png" group-title="Deportes",Tyc Sports
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173912
-#EXTINF:-1 group-title="Variedades",Warner Channel
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/warnertv.png" group-title="Variedades",Warner Channel
 http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/173884
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/FM999.png" group-title="Radios",FM 99.9 Mar del Plata 
 https://fm999.info/test/index.m3u8
