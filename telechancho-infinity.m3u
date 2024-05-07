@@ -46,12 +46,13 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 https://octubre-live.cdn.vustreams.com:443/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-country="AR" tvg-language="Spanish" group-title="Agro",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" tvg-chno="1199" group-title="Cocina" , Pluto TV Cocina
+#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Cocina",Pluto TV Cocina
 https://r.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:-1 channel-id="pluto-609062295c2b8f0007199e7a" tvg-id="609062295c2b8f0007199e7a" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" tvg-chno="1204" group-title="Cocina" , Pluto TV Recetas
+#EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Cocina",Pluto TV Recetas
 https://r.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f998c1fc54853000797bacd" tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" tvg-chno="1209" group-title="Cocina" , Tastemade
-https://r.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/LatinoKidsTV.png" group-title="Infantil",Latino Kids TV
+#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="Cocina",Tastemade
+https://r.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/LatinoKidsTV.png" group-title="Infantil",Latino Kids TV
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" group-title="Infantil",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
