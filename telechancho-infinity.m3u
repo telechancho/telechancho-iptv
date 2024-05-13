@@ -81,8 +81,6 @@ http://cam104y3.gesell.com.ar/playlist.m3u8
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Jujuy.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Teleaire San Martin
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 Multivision
@@ -105,8 +103,6 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CiudadTVRes.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Ciudad TV Resistencia
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CPETV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",CPE TV
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/F5Play.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",F5 Play Miramar
@@ -115,7 +111,5 @@ https://videostream.shockmedia.com.ar:19360/f5tv2/f5tv2.m3u8
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",RTN
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telenord.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Telenord Corrientes
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Telpin TV
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
