@@ -12,6 +12,5 @@ Estas son las listas M3U de Telechancho
   </thead>
   <tbody>
     <tr><td>Telechancho Infinity</td><td nowrap><code>https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u</code></td></tr>
-    <tr><td>Telechancho OnDemand</td><td nowrap><code>https://telechancho.github.io/telechancho-iptv/telechancho-ondemand.m3u</code></td></tr>
   </tbody>
 </table>
