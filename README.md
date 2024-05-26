@@ -33,5 +33,6 @@ Estos son los clientes IPTV que se pueden usar con Telechancho Infinity
         <tr><td nowrap><img width='48' src='https://raw.githubusercontent.com/telechancho/telechancho-iptv/main/iptvclientslogos/TVirl.png'/></td><td>TVirl</td><td>Android TV, Google TV</td><td>Si</td><td><a href="https://play.google.com/store/apps/details?id=by.stari4ek.tvirl">Descargar</a></td></tr>
         <tr><td nowrap><img width='48' src='https://raw.githubusercontent.com/telechancho/telechancho-iptv/main/iptvclientslogos/PVRLive.png'/></td><td>PVR Live</td><td>Android TV, Google TV</td><td>Si</td><td><a href="https://play.google.com/store/apps/details?id=se.hedekonsult.pvrlive">Descargar</a></td></tr>
         <tr><td nowrap><img width='48' src='https://raw.githubusercontent.com/telechancho/telechancho-iptv/main/iptvclientslogos/SparkleTV.png'/></td><td>Sparkle TV</td><td>Android TV, Google TV</td><td>No</td><td><a href="https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle">Descargar</a></td></tr>
+    <tr><td nowrap><img width='48' src='https://raw.githubusercontent.com/telechancho/telechancho-iptv/main/iptvclientslogos/TiviMate.png'/></td><td>TiviMate</td><td>Android TV, Google TV</td><td>No</td><td><a href="https://play.google.com/store/apps/details?id=ar.tvplayer.tv">Descargar</a></td></tr>
   </tbody>
 </table>
