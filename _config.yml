@@ -1,0 +1,47 @@
+remote_theme: brunochanrio/mkdocs-jekyll@1.2.1
+plugins:
+- jekyll-remote-theme
+
+title: Telechancho Infinity 
+author: Telechancho Infinity 
+logo: "Telecentro (1) (1).png"
+
+
+
+baseurl: "/"
+color: "#8c1515"
+accentColor: red
+themeColor: red
+fixedNav: 'false' # true or false
+
+github_user: "telechancho"
+
+permalink: /:year/:title/
+markdown: kramdown
+exclude: [_site, CHANGELOG.md, LICENSE, vendor]
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path
+
+# Defaults
+defaults:
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
