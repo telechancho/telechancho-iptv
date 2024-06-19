@@ -73,6 +73,8 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 http://cam104y3.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/2Misiones.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Teleaire San Martin
