@@ -26,6 +26,8 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 10 Mar del Plata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telefe.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",TN
@@ -63,12 +65,10 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Variedades",TVU La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/FM999.png" group-title="Radios",FM 99.9 Mar del Plata 
-https://fm999.info/test/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/RadioDisney.jpg" group-title="Radios",Radio Disney Argentina 94.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",5RTv
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5TV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",5TV
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
@@ -109,6 +109,10 @@ https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Telpin TV
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/FM999.png" group-title="Radios",FM 99.9 Mar del Plata 
+https://fm999.info/test/index.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/RadioDisney.jpg" group-title="Radios",Radio Disney Argentina 94.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV - Pluto TV",Pluto TV - Descubriendo Pluto TV
 https://r.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Pluto TV - Películas",Pluto TV - Pluto TV Cine Estelar
