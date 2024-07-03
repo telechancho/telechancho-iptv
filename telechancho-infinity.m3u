@@ -26,8 +26,6 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 10 Mar del Plata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telefe.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",TN
@@ -79,6 +77,8 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 4 Teleaire San Martin
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9LaRioja.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 La Rioja
+https://inliveserver.com:1936/12014/12014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 10 Rio Negro
