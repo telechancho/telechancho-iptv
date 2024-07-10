@@ -81,6 +81,8 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 9 Televida
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Canal 12 Puerto Madryn
