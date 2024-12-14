@@ -86,10 +86,6 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CPETV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",CPE TV
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/F5Play.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",F5 Play Miramar
-https://videostream.shockmedia.com.ar:19360/f5tv2/f5tv2.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PowerTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Power TV
-https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",RTN
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",Telpin TV
