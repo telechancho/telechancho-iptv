@@ -2,5 +2,4 @@
 layout: null
 permalink: /telechancho-iptv/telechancho-infinity.m3u
 ---
-{% include list_struct_m3u_extm3u %}
-{% include list_struct_m3u %}
+{% include list_struct_m3u_extm3u %}{% include list_struct_m3u %}
