@@ -1,0 +1,10 @@
+group-title: Cámaras en vivo
+channels:
+  - name: Cámaras de Villa Gesell (Av. 3 y 104)
+    logo: VillaGesell.jpg
+    stream-url: http://cam104y3.gesell.com.ar/playlist.m3u8
+    channel-type: tv
+  - name: Cámaras de Villa Gesell (La Pinocha)
+    logo: VillaGesell.jpg
+    stream-url: http://camlapinocha.gesell.com.ar/playlist.m3u8
+    channel-type: tv
