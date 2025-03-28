@@ -19,10 +19,10 @@ channels:
     logo: 218_Senal_Urbana.png
     stream-url: https://video.fiberfly.com.ar/stream/hls1/110106.m3u8?PlaylistM3UCL
     channel-type: tv
-    number: 230
+    number: 218
   - name: TV Solidaria Argentina 
     logo: 1370_TV_Solidaria.png
     stream-url: https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?PlaylistM3UCL
     channel-type: tv
-    number: 235
+    number: 223
 
