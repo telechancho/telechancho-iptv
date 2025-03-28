@@ -2,7 +2,7 @@
 {% if channel.user-agent %}#EXTVLCOPT:http-user-agent={{ channel.user-agent }}
 {% endif%}{% if channel.referer %}#EXTVLCOPT:http-referrer={{ channel.referer }}
 {% endif%}{% if channel.host %}#EXTVLCOPT:http-host={{ channel.host }}
-{% endif%}{% if channel.origin %}#EXTVLCOPT:http-origin={{ channel.orogon }}
+{% endif%}{% if channel.origin %}#EXTVLCOPT:http-origin={{ channel.origin }}
 {% endif%}{% if channel.user-agent %}#KODIPROP:inputstream.adaptive.stream_headers=User-Agent={{ channel.user-agent }}
 {% endif%}{% if channel.referer %}#KODIPROP:inputstream.adaptive.stream_headers=Referer={{ channel.referer }}
 {% endif%}{% if channel.host %}#KODIPROP:inputstream.adaptive.stream_headers=Host={{ channel.host }}
