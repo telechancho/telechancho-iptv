@@ -1,4 +1,0 @@
----
-layout: null
----
-{% include list_struct_m3u %}
