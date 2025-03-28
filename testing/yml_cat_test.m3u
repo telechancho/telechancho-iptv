@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-{% include list_struct.m3u %}
+{% include list_struct_m3u %}
