@@ -1,7 +1,11 @@
 #EXTM3U {% for channelgroup_hash in site.data.channels %}{% assign channelgroup = channelgroup_hash[1] %}{% for channel in channelgroup.channels %}
-#EXTINF:-1 {% if channel.tvg-id %}tvg-id="{{ channel.tvg-id }}" {% endif %}{% if channel.logo %}tvg-logo="{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}" {% endif %}group-title="{{ channelgroup.group-title }}",{{ channel.name }}
+#EXTINF:-1 {% if channel.tvg-id %}tvg-id="{{ channel.tvg-id }}" {% endif %}{% if channel.logo %}tvg-logo="{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}" {% endif %}{% if channel.number %}tvg-chno="{{ channel.number }}" {% endif %}group-title="{{ channelgroup.group-title }}",{{ channel.name }}
 {% if channel.user-agent %}#EXTVLCOPT:http-user-agent={{ channel.user-agent }}
-{% endif%}{% if channel.referer %}#EXTVLCOPT:http-referrer={{ channel.user-agent }}
+{% endif%}{% if channel.referer %}#EXTVLCOPT:http-referrer={{ channel.referer }}
+{% endif%}{% if channel.host %}#EXTVLCOPT:http-host={{ channel.host }}
+{% endif%}{% if channel.origin %}#EXTVLCOPT:http-origin={{ channel.orogon }}
 {% endif%}{% if channel.user-agent %}#KODIPROP:inputstream.adaptive.stream_headers=User-Agent={{ channel.user-agent }}
-{% endif%}{% if channel.referer %}#KODIPROP:inputstream.adaptive.stream_headers=Referer={{ channel.user-agent }}
+{% endif%}{% if channel.referer %}#KODIPROP:inputstream.adaptive.stream_headers=Referer={{ channel.referer }}
+{% endif%}{% if channel.host %}#KODIPROP:inputstream.adaptive.stream_headers=Host={{ channel.host }}
+{% endif%}{% if channel.origin %}#KODIPROP:inputstream.adaptive.stream_headers=Origin={{ channel.origin }}
 {% endif%}{{ channel.stream-url }}{% endfor %}{% endfor %}
