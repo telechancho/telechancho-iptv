@@ -2,6 +2,6 @@ group-title: Entretenimiento
 channels:
   - name: Retro Magico 
     logo: 1364_Retro_Magico.png
-    stream-url: https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
+    stream-url: https://stream.gia.tv/giatv/giatv-retromagico/retromagico/playlist.m3u8
     channel-type: tv
 
