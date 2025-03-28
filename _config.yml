@@ -1,4 +1,4 @@
-remote_theme: brunochanrio/mkdocs-jekyll@1.2.1
+remote_theme: brunochanrio/material-jekyll-chanrio@2025.03.24
 plugins:
 - jekyll-remote-theme
 
@@ -15,6 +15,7 @@ themeColor: red
 fixedNav: 'false' # true or false
 
 github_user: "telechancho"
+github_repo: "telechancho-infinity"
 
 permalink: /:year/:title/
 markdown: kramdown
