@@ -1,4 +1,5 @@
 ---
 layout: null
+permalink: /telechancho-iptv/telechancho-infinity.m3u
 ---
-{% include structure.m3u %}
+{% include list_struct_m3u %}
