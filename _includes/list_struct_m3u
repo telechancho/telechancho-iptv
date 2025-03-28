@@ -2,4 +2,6 @@
 #EXTINF:-1 {% if channel.tvg-id %}tvg-id="{{ channel.tvg-id }}" {% endif %}{% if channel.logo %}tvg-logo="{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}" {% endif %}group-title="{{ channelgroup.group-title }}",{{ channel.name }}
 {% if channel.user-agent %}#EXTVLCOPT:http-user-agent={{ channel.user-agent }}
 {% endif%}{% if channel.referer %}#EXTVLCOPT:http-referrer={{ channel.user-agent }}
+{% endif%}{% if channel.user-agent %}#KODIPROP:inputstream.adaptive.stream_headers=User-Agent={{ channel.user-agent }}
+{% endif%}{% if channel.referer %}#KODIPROP:inputstream.adaptive.stream_headers=Referer={{ channel.user-agent }}
 {% endif%}{{ channel.stream-url }}{% endfor %}{% endfor %}
