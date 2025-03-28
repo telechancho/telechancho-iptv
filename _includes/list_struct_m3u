@@ -1,4 +1,4 @@
-#EXTM3U {% for channelgroup_hash in site.data.channels %}{% assign channelgroup = channelgroup_hash[1] %}{% for channel in channelgroup.channels %}
+{% for channelgroup_hash in site.data.channels %}{% assign channelgroup = channelgroup_hash[1] %}{% for channel in channelgroup.channels %}
 #EXTINF:-1 {% if channel.tvg-id %}tvg-id="{{ channel.tvg-id }}" {% endif %}{% if channel.logo %}tvg-logo="{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}" {% endif %}{% if channel.number %}tvg-chno="{{ channel.number }}" {% endif %}group-title="{{ channelgroup.group-title }}",{{ channel.name }}
 {% if channel.user-agent %}#EXTVLCOPT:http-user-agent={{ channel.user-agent }}
 {% endif%}{% if channel.referer %}#EXTVLCOPT:http-referrer={{ channel.referer }}
