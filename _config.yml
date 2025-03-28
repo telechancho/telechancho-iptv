@@ -17,6 +17,8 @@ fixedNav: 'false' # true or false
 github_user: "telechancho"
 github_repo: "telechancho-infinity"
 
+repo: "telechancho-infinity"
+
 permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, vendor]
