@@ -1,0 +1,15 @@
+group-title: Repetidoras de Telefe
+channels:
+  - name: Canal 2 Misiones
+    logo: 2Misiones.png
+    stream-url: https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
+    channel-type: tv
+  - name: Canal 7 Neuquén 
+    logo: 1401_Canal_7_Neuquen.png
+    stream-url: https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
+    channel-type: tv
+  - name: Canal 9 Televida Mendoza
+    logo: 9Televida.png
+    stream-url: https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+    channel-type: tv
+
