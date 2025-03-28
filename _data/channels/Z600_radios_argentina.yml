@@ -1,0 +1,10 @@
+group-title: 
+channels:
+  - name: FM 99.9 Mar del Plata 
+    logo: FM999.png
+    stream-url: https://fm999.info/test/index.m3u8
+    channel-type: radio
+  - name: Radio Disney Argentina 94.3
+    logo: RadioDisney.jpg
+    stream-url: https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
+    channel-type: radio
