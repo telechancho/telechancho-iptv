@@ -1,0 +1,20 @@
+group-title: Música 
+channels:
+  - name: AN24
+    logo: AN24.png
+    stream-url: https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+    channel-type: tv
+  - name: MusicTop
+    logo: MusicTop.jpg
+    stream-url: http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+    channel-type: tv
+  - name: Tierramia TV
+    logo: TierramiaTV.jpg
+    stream-url: http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+    channel-type: tv
+  - name: Vorterix
+    logo: Vorterix.jpg
+    stream-url: https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+    user-agent: Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+    channel-type: tv
+ 
