@@ -15,7 +15,7 @@ Aqui podras ver la lista de todos los canales disponibles en Telechancho Infinit
     {% for channel in channelgroup.channels %}
     <tr>
       <td>
-        <img alt='Logo de {{ channel.name }}' width='70' src='tvg-logo="{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}'/>
+        <img alt='Logo de {{ channel.name }}' width='70' src='{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}'/>
       </td>
       <td >
         <h3><b>{{ channel.name }}</b></h3>
