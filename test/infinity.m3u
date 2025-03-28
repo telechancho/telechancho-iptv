@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-{% include telechancho-infinity.m3u %}
+{% include structure.m3u %}
