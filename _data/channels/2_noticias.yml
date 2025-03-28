@@ -1,0 +1,16 @@
+group-title: 
+channels:
+  - name: Canal 24 Horas RTVE
+    logo: 24HTVE.png
+    stream-url: https://ztnr.rtve.es/ztnr/1694255.m3u8
+    channel-type: tv
+  - name: A24
+    logo: A24.png
+    stream-url: https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+    user-agent: Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+    channel-type: tv
+  - name: Crónica HD
+    logo: Cronica.png
+    stream-url: https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+    user-agent: Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+    channel-type: tv
