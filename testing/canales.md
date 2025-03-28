@@ -17,8 +17,8 @@ Aqui podras ver la lista de todos los canales disponibles en Telechancho Infinit
       <td>
         <img alt='Logo de {{ channel.name }}' width='70' src='{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}'/>
       </td>
-      <td >
-        <h3><b>{{ channel.name }}</b></h3>
+      <td>
+        <b>{{ channel.name }}</b>
         <br>
         <br>
         <b>Posee guía de programación:</b> {% if channel.tvg-id %}Sí{% else %}No{% endif %}
@@ -27,7 +27,6 @@ Aqui podras ver la lista de todos los canales disponibles en Telechancho Infinit
         <b>Utiliza un User Agent específico:</b> {% if channel.user-agent %}Sí{% else %}No{% endif %}
         <br>
         <b>Utiliza un Referer específico:</b> {% if channel.referer %}Sí{% else %}No{% endif %}
-        <br>
       </td>
     </tr>
     {% endfor %}
