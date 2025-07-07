@@ -8,3 +8,7 @@ channels:
     logo: RadioDisney.jpg
     stream-url: https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
     channel-type: radio
+  - name: FM De la Azotea 88.7 Mar del Plata 
+    logo: FMDeLaAzotea.png
+    stream-url: http://149.202.235.235:8164/;stream/1
+    channel-type: radio
