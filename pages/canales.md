@@ -12,7 +12,7 @@ Aqui podras ver la lista de todos los canales disponibles en Telechancho Infinit
     <tr><th align="left">Logo del canal</th><th align="left">Nombre y características del canal</th></tr>
   </thead>
   <tbody>
-    {% for channel in channelgroup.channels %}
+    {% for channel in channelgroup.channels %}{% if not channel.hidden == "true"}
     <tr>
       <td nowrap>
         <img alt='Logo de {{ channel.name }}' width='96' src='{{ site.url }}{{ site.baseurl }}/{% if channel.channel-type %}{{ channel.channel-type }}{% else %}tv{% endif %}logos/{{ channel.logo }}'/>
@@ -28,7 +28,7 @@ Aqui podras ver la lista de todos los canales disponibles en Telechancho Infinit
         <b>Referer específico:</b> {% if channel.referer %}Sí{% else %}No{% endif %}
       </td>
     </tr>
-    {% endfor %}
+    {% endif %}{% endfor %}
   </tbody>
 </table>
 {% endfor %}
