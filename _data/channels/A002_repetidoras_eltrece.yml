@@ -1,7 +1,7 @@
 group-title: Repetidoras de El Trece
 channels:
   - name: 9Link Chaco
-    logo: 9Link.png
+    logo: 9Link.jpg
     stream-url: http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
     channel-type: tv
   - name: Canal 9 Litoral
