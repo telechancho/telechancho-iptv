@@ -20,4 +20,8 @@ channels:
     logo: 1370_TV_Solidaria.png
     stream-url: https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?PlaylistM3UCL
     channel-type: tv
+  - name: TVU La Plata
+    logo: TVULP.jpg
+    stream-url: https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+    channel-type: tv
 
