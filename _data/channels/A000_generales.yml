@@ -26,7 +26,8 @@ channels:
     channel-type: tv
   - name: El Trece
     logo: ElTrece.png
-    stream-url: https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+    stream-url: https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+    referer: https://vodgc.net
     channel-type: tv
   - name: Telemax
     logo: TLX.png
