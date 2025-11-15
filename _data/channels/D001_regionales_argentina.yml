@@ -45,6 +45,10 @@ channels:
     stream-url: https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
     hidden: true
     channel-type: tv
+  - name: Neox TV Salta
+    logo: NeoxTVSalta.jpg
+    stream-url: https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+    channel-type: tv
   - name: Latina TV Mendoza 
     logo: 1621_Latina_TV_Mendoza.png
     stream-url: https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8?PlaylistM3UCL
