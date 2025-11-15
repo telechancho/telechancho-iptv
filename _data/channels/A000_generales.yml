@@ -24,6 +24,10 @@ channels:
     stream-url: https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
     user-agent: Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
     channel-type: tv
+  - name: Telefe
+    logo: Telefe.png
+    stream-url: https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+    channel-type: tv
   - name: El Trece
     logo: ElTrece.png
     stream-url: https://livetrx01.vodgc.net/eltrecetv/index.m3u8
