@@ -11,4 +11,5 @@ channels:
   - name: Telesur
     logo: Telesur.png
     stream-url: https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+    hidden: 
     channel-type: tv
