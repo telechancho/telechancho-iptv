@@ -3,6 +3,7 @@ channels:
   - name: La 1
     logo: TVE1.png
     stream-url: https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
+    hidden: true
     channel-type: tv
   - name: La 2
     logo: TVE2.png
