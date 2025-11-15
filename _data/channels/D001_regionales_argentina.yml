@@ -16,6 +16,10 @@ channels:
     logo: 4Pos.png
     stream-url: https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
     channel-type: tv
+  - name: Canal 10 Córdoba
+    logo: 10CBA.png
+    stream-url: https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+    channel-type: tv
   - name: Canal 12 Puerto Madryn
     logo: 12PM.png
     stream-url: https://nd106.republicaservers.com/hls/c7827/index.m3u8
@@ -44,6 +48,10 @@ channels:
     logo: CPETV.png
     stream-url: https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
     hidden: true
+    channel-type: tv
+  - name: Multivision Federal
+    logo: 9MV.png
+    stream-url: https://panel.host-live.com:19360/8250/8250.m3u8
     channel-type: tv
   - name: Neox TV Salta
     logo: NeoxTVSalta.jpg
