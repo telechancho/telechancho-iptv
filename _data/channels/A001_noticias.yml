@@ -14,3 +14,7 @@ channels:
     logo: 24HTVE.png
     stream-url: https://ztnr.rtve.es/ztnr/1694255.m3u8
     channel-type: tv
+  - name: Canal 26
+    logo: Canal26.png
+    stream-url: http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+    channel-type: tv
