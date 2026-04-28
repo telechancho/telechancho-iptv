@@ -8,6 +8,7 @@ channels:
   - name: La 2
     logo: TVE2.png
     stream-url: https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+    hidden: true
     channel-type: tv
   - name: Canal de la Ciudad
     logo: CanalCBA.png
@@ -27,6 +28,7 @@ channels:
   - name: Telefe
     logo: Telefe.png
     stream-url: https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+    hidden: true
     channel-type: tv
   - name: El Trece
     logo: ElTrece.png
